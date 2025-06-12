@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_OR_22_U_1870",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_22_U_1870",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/fr_FR\/91155704bc3b1eee1686b838e6b5c010.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/en_US\/cda842ad6e77b7cf9b48debf2f06b1f8.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/es_ES\/b18e04764f8393e2aac412e5d2b5069d.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/it_IT\/ad3ed9259b1fd0e3c47d6dc6e37a937a.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/de_DE\/744a65790a0ffb01a1f7c085162d283f.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/91155704bc3b1eee1686b838e6b5c010.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/en_US/cda842ad6e77b7cf9b48debf2f06b1f8.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/es_ES/b18e04764f8393e2aac412e5d2b5069d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/it_IT/ad3ed9259b1fd0e3c47d6dc6e37a937a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/de_DE/744a65790a0ffb01a1f7c085162d283f.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/f1a1ba0ea869a2fee9b0",
+            "@id": "/.well-known/genid/f1a1ba0ea869a2fee9b0",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/1175cab6fe94d7367200",
+            "@id": "/.well-known/genid/1175cab6fe94d7367200",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{H} You may sacrifice a Character. If you do: You may discard target Character with Hand Cost\u00a0{3} or less.  When my Expedition fails to move forward during Dusk\u00a0\u2014 After Rest: []Create an [Ordis Recruit 1\/1\/1] Soldier token in my Expedition.",
+        "MAIN_EFFECT": "{H} You may sacrifice a Character. If you do: You may discard target Character with Hand Cost\u00a0{3} or less.  When my Expedition fails to move forward during Dusk\u00a0\u2014 After Rest: []Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.",
         "ECHO_EFFECT": "{D} : []You may have target Character gain [[Fleeting]]."
     },
     "id": "526WY89HZW8GZAXQMVAKMB14CR",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/JPG\/en_EN\/1ef0cdaed7c554333419f3de9c53f13b.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/JPG/en_EN/1ef0cdaed7c554333419f3de9c53f13b.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/YZ",
+        "@id": "/factions/YZ",
         "@type": "Faction",
         "reference": "YZ",
         "color": "#764891",
@@ -70,9 +70,9 @@
         "name": "Yzmir"
     },
     "name": "Thoth",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_22_U_1870",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_22_U_1870",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_OR_22_U_1870",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_OR_22_U_1870",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_OR_22_U_1870",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/fr_FR\/91155704bc3b1eee1686b838e6b5c010.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/en_US\/cda842ad6e77b7cf9b48debf2f06b1f8.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/es_ES\/b18e04764f8393e2aac412e5d2b5069d.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/it_IT\/ad3ed9259b1fd0e3c47d6dc6e37a937a.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/de_DE\/744a65790a0ffb01a1f7c085162d283f.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/91155704bc3b1eee1686b838e6b5c010.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/en_US/cda842ad6e77b7cf9b48debf2f06b1f8.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/es_ES/b18e04764f8393e2aac412e5d2b5069d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/it_IT/ad3ed9259b1fd0e3c47d6dc6e37a937a.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/de_DE/744a65790a0ffb01a1f7c085162d283f.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_22\/ALT_CORE_B_OR_22_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/16a8ed1ad4c6e6f4a138",
+                    "@id": "/.well-known/genid/16a8ed1ad4c6e6f4a138",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/60f8dbe23bfca20a71df",
+                    "@id": "/.well-known/genid/60f8dbe23bfca20a71df",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{H} Vous pouvez sacrifier un Personnage. Si vous le faites\u00a0: Vous pouvez d\u00e9fausser un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{3} ou moins.  Lorsque mon Exp\u00e9dition n'avance pas pendant le Cr\u00e9puscule\u00a0\u2014 Apr\u00e8s le Repos\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans mon Exp\u00e9dition.",
+                "MAIN_EFFECT": "{H} Vous pouvez sacrifier un Personnage. Si vous le faites\u00a0: Vous pouvez d\u00e9fausser un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{3} ou moins.  Lorsque mon Exp\u00e9dition n'avance pas pendant le Cr\u00e9puscule\u00a0\u2014 Apr\u00e8s le Repos\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Exp\u00e9dition.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9."
             },
             "id": "526WY89HZW8GZAXQMVAKMB14CR",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_22\/UNIQUE\/JPG\/fr_FR\/91155704bc3b1eee1686b838e6b5c010.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/91155704bc3b1eee1686b838e6b5c010.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/YZ",
+                "@id": "/factions/YZ",
                 "@type": "Faction",
                 "reference": "YZ",
                 "color": "#764891",
@@ -152,9 +152,9 @@
                 "name": "Yzmir"
             },
             "name": "Thot",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_22_U_1870",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_22_U_1870",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

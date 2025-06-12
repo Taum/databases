@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_OR_21_U_5136",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_21_U_5136",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/UNIQUE\/JPG\/fr_FR\/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/es_ES\/9e15535b97c09958f583e3b1c9be476a.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/it_IT\/e3de1355989270b5be8719a270a213f0.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/de_DE\/74a535574227e0363a84c64ebe2e0ce5.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/UNIQUE\/JPG\/en_US\/61dc68990665070a4c23649aea09c598.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/UNIQUE/JPG/fr_FR/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/es_ES/9e15535b97c09958f583e3b1c9be476a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/it_IT/e3de1355989270b5be8719a270a213f0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/de_DE/74a535574227e0363a84c64ebe2e0ce5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/UNIQUE/JPG/en_US/61dc68990665070a4c23649aea09c598.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/0b03a430f4b9e2a5b0db",
+            "@id": "/.well-known/genid/0b03a430f4b9e2a5b0db",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -47,15 +47,15 @@
         "OCEAN_POWER": "2",
         "FOREST_POWER": "4",
         "MAIN_EFFECT": "[][]Cards your opponents play can't cost less than\u00a0{2}.  {H} []You may discard target Permanent.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in target Expedition."
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition."
     },
     "id": "3TAG9DDWZN8ZBVRPDMJ0TMAT22",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/en_EN\/1234549adad672f94c907e4a83418efe.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/en_EN/1234549adad672f94c907e4a83418efe.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Robin Hood",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_21_U_5136",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_21_U_5136",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_CORE_B_OR_21_U_5136",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_OR_21_U_5136",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_21_U_5136",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/UNIQUE\/JPG\/fr_FR\/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/es_ES\/9e15535b97c09958f583e3b1c9be476a.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/it_IT\/e3de1355989270b5be8719a270a213f0.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/JPG\/de_DE\/74a535574227e0363a84c64ebe2e0ce5.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/UNIQUE\/JPG\/en_US\/61dc68990665070a4c23649aea09c598.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/UNIQUE/JPG/fr_FR/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/es_ES/9e15535b97c09958f583e3b1c9be476a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/it_IT/e3de1355989270b5be8719a270a213f0.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/JPG/de_DE/74a535574227e0363a84c64ebe2e0ce5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/UNIQUE/JPG/en_US/61dc68990665070a4c23649aea09c598.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/ALT_CORE_B_OR_21_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/ALT_CORE_B_OR_21_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/2b95a89c96b20a5cad62",
+                    "@id": "/.well-known/genid/2b95a89c96b20a5cad62",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -122,15 +122,15 @@
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "4",
                 "MAIN_EFFECT": "[][]Les cartes jou\u00e9es par vos adversaires ne peuvent pas co\u00fbter moins de\u00a0{2}.  {H} []Vous pouvez d\u00e9fausser un Permanent cibl\u00e9.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
             },
             "id": "3TAG9DDWZN8ZBVRPDMJ0TMAT22",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_21\/UNIQUE\/JPG\/fr_FR\/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_21/UNIQUE/JPG/fr_FR/e4b3f4a8ce874d1185a8ca2791aa9080.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Robin des Bois",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_21_U_5136",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_21_U_5136",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

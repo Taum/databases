@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_AX_44_U_5872",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_44_U_5872",
     "@type": "Card",
     "allImagePath": {
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/de_DE\/b130f0fef861802be8e1afc8910b825f.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/en_US\/a07b20944640b1a6872917e3abdbb636.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/es_ES\/ac7292ec4befe159694ea629c4fda2b5.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/fr_FR\/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/it_IT\/b7cdea60e2b76cf634533b93de849c95.jpg"
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/de_DE/b130f0fef861802be8e1afc8910b825f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/en_US/a07b20944640b1a6872917e3abdbb636.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/es_ES/ac7292ec4befe159694ea629c4fda2b5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/fr_FR/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/it_IT/b7cdea60e2b76cf634533b93de849c95.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_46e0a383c8144b5a5d8b3a5f613c70d9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_091c92dbbeebfb9d5bde2f41e2f473db",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_2e86ca1aa12cc4244ba21c29372c890d"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_46e0a383c8144b5a5d8b3a5f613c70d9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_091c92dbbeebfb9d5bde2f41e2f473db",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_2e86ca1aa12cc4244ba21c29372c890d"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/34c30f2db8a18f0cd95d",
+            "@id": "/.well-known/genid/34c30f2db8a18f0cd95d",
             "reference": "NOBLE",
             "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
             "name": "Noble"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/013d23b99e56d4573c5f",
+            "@id": "/.well-known/genid/013d23b99e56d4573c5f",
             "reference": "SCHOLAR",
             "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
             "name": "Scholar"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "4",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "4",
-        "MAIN_EFFECT": "{J} If your hand is empty: You may exhaust target card in Reserve.  {J} You may pay\u00a0{1}. If you do: Create a [Brassbug 2\/2\/2] Robot token in each of your Expeditions.",
+        "MAIN_EFFECT": "{J} If your hand is empty: You may exhaust target card in Reserve.  {J} You may pay\u00a0{1}. If you do: Create a [Brassbug 2/2/2] Robot token in each of your Expeditions.",
         "ECHO_EFFECT": "{D} : []You may activate the\u00a0{j} abilities of target Permanent you control."
     },
     "id": "25PVME7QC79SPS3BY4XDE8Y0BA",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/JPG\/en_EN\/2068527a917ac4f547c4cda0836d5c9c.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/JPG/en_EN/2068527a917ac4f547c4cda0836d5c9c.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -70,9 +70,9 @@
         "name": "Axiom"
     },
     "name": "Lord Kelvin",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_44_U_5872",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_44_U_5872",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_AX_44_U_5872",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_AX_44_U_5872",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_AX_44_U_5872",
             "@type": "Card",
             "allImagePath": {
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/de_DE\/b130f0fef861802be8e1afc8910b825f.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/en_US\/a07b20944640b1a6872917e3abdbb636.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/es_ES\/ac7292ec4befe159694ea629c4fda2b5.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/fr_FR\/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/it_IT\/b7cdea60e2b76cf634533b93de849c95.jpg"
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/de_DE/b130f0fef861802be8e1afc8910b825f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/en_US/a07b20944640b1a6872917e3abdbb636.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/es_ES/ac7292ec4befe159694ea629c4fda2b5.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/fr_FR/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/it_IT/b7cdea60e2b76cf634533b93de849c95.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_46e0a383c8144b5a5d8b3a5f613c70d9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_091c92dbbeebfb9d5bde2f41e2f473db",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/WEB_2e86ca1aa12cc4244ba21c29372c890d"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_46e0a383c8144b5a5d8b3a5f613c70d9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_091c92dbbeebfb9d5bde2f41e2f473db",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/WEB_2e86ca1aa12cc4244ba21c29372c890d"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/5d30d915f7e07a4289fa",
+                    "@id": "/.well-known/genid/5d30d915f7e07a4289fa",
                     "reference": "NOBLE",
                     "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
                     "name": "Noble"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/77d878db3445bdb84711",
+                    "@id": "/.well-known/genid/77d878db3445bdb84711",
                     "reference": "SCHOLAR",
                     "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
                     "name": "\u00c9rudit"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "4",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "4",
-                "MAIN_EFFECT": "{J} Si votre main est vide\u00a0: Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve.  {J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans chacune de vos Exp\u00e9ditions.",
+                "MAIN_EFFECT": "{J} Si votre main est vide\u00a0: Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve.  {J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans chacune de vos Exp\u00e9ditions.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez activer les capacit\u00e9s\u00a0{j} d'un Permanent cibl\u00e9 que vous contr\u00f4lez."
             },
             "id": "25PVME7QC79SPS3BY4XDE8Y0BA",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_44\/UNIQUE\/JPG\/fr_FR\/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_44/UNIQUE/JPG/fr_FR/3a3c797f5d1c8d179e4d8c0a6420aab5.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -152,9 +152,9 @@
                 "name": "Axiom"
             },
             "name": "Lord Kelvin",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_44_U_5872",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_44_U_5872",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

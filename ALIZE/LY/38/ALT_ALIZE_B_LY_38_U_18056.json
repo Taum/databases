@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_LY_38_U_18056",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_38_U_18056",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/f897d4bc9a289902a2785aac233a5728.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/de_DE\/eb810840b4a5371048ebb7f7d141fdcb.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/es_ES\/1e6a55b8ba1fa1b505d797136b603188.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/en_US\/9f436370b4e28e79468a37123ec30e64.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/it_IT\/35e859f35d4815a37d7b5ff73c8720fe.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/f897d4bc9a289902a2785aac233a5728.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/de_DE/eb810840b4a5371048ebb7f7d141fdcb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/es_ES/1e6a55b8ba1fa1b505d797136b603188.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/en_US/9f436370b4e28e79468a37123ec30e64.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/it_IT/35e859f35d4815a37d7b5ff73c8720fe.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_9207577aa48ea126cc345ac85550d439",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c04651d7f573cb5c152d08eecea4cd0d",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/002e96f237000e4c441f",
+            "@id": "/.well-known/genid/002e96f237000e4c441f",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/cf56e172fade9e86a64c",
+            "@id": "/.well-known/genid/cf56e172fade9e86a64c",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "3",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{H} []You may have target Character or Expedition Permanent switch Expeditions.  When another non-token Character joins your Expeditions\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in your Companion Expedition.",
+        "MAIN_EFFECT": "{H} []You may have target Character or Expedition Permanent switch Expeditions.  When another non-token Character joins your Expeditions\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in your Companion Expedition.",
         "ECHO_EFFECT": "{D} : []The next Character you play this turn costs\u00a0{1} less."
     },
     "id": "27V4JVF0759TB87M3S7ZNPN0P9",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/JPG\/en_EN\/b37adebd13f3183d777637defabe342f.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_EN/b37adebd13f3183d777637defabe342f.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Heimdall",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_LY_38_U_18056",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_U_18056",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_LY_38_U_18056",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_LY_38_U_18056",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_LY_38_U_18056",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/f897d4bc9a289902a2785aac233a5728.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/de_DE\/eb810840b4a5371048ebb7f7d141fdcb.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/es_ES\/1e6a55b8ba1fa1b505d797136b603188.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/en_US\/9f436370b4e28e79468a37123ec30e64.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/it_IT\/35e859f35d4815a37d7b5ff73c8720fe.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/f897d4bc9a289902a2785aac233a5728.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/de_DE/eb810840b4a5371048ebb7f7d141fdcb.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/es_ES/1e6a55b8ba1fa1b505d797136b603188.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/en_US/9f436370b4e28e79468a37123ec30e64.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/it_IT/35e859f35d4815a37d7b5ff73c8720fe.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_9207577aa48ea126cc345ac85550d439",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c04651d7f573cb5c152d08eecea4cd0d",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/847ebb5033d7c14eeb82",
+                    "@id": "/.well-known/genid/847ebb5033d7c14eeb82",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/e25e2ac5605329191ad1",
+                    "@id": "/.well-known/genid/e25e2ac5605329191ad1",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{H} []Vous pouvez faire changer d'Exp\u00e9dition un Personnage ou un Permanent d'Exp\u00e9dition cibl\u00e9.  Lorsqu'un autre Personnage non-jeton rejoint vos Exp\u00e9ditions\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
+                "MAIN_EFFECT": "{H} []Vous pouvez faire changer d'Exp\u00e9dition un Personnage ou un Permanent d'Exp\u00e9dition cibl\u00e9.  Lorsqu'un autre Personnage non-jeton rejoint vos Exp\u00e9ditions\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
                 "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour co\u00fbte\u00a0{1} de moins."
             },
             "id": "27V4JVF0759TB87M3S7ZNPN0P9",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/f897d4bc9a289902a2785aac233a5728.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/f897d4bc9a289902a2785aac233a5728.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Heimdall",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_LY_38_U_18056",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_U_18056",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

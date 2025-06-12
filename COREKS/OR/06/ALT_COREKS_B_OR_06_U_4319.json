@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_OR_06_U_4319",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_06_U_4319",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/fr_FR\/3780a357cca8ec7990e4f38e4be42ca3.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/en_US\/5be5dafc7d12a252ad86cde952260154.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/es_ES\/4a3db5097a59dc74890988a14d9f2c4e.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/it_IT\/8cd83cb4b4cdbf5bf492f5c1b551b761.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/de_DE\/8896459c0dffe413bdbeef703cff700c.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/3780a357cca8ec7990e4f38e4be42ca3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/5be5dafc7d12a252ad86cde952260154.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/es_ES/4a3db5097a59dc74890988a14d9f2c4e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/it_IT/8cd83cb4b4cdbf5bf492f5c1b551b761.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/de_DE/8896459c0dffe413bdbeef703cff700c.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/dc4bf17fb1a983d1bb4a",
+            "@id": "/.well-known/genid/dc4bf17fb1a983d1bb4a",
             "reference": "APPRENTICE",
             "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
             "name": "Apprentice"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/2c26daa8e2dd2af65013",
+            "@id": "/.well-known/genid/2c26daa8e2dd2af65013",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "1",
         "OCEAN_POWER": "0",
         "FOREST_POWER": "1",
-        "MAIN_EFFECT": "{H} []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition.  When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in your other Expedition (the one I'm not in).",
+        "MAIN_EFFECT": "{H} []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.  When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in your other Expedition (the one I'm not in).",
         "ECHO_EFFECT": "{D} : []The next Bureaucrat you play this Afternoon costs\u00a0{1} less."
     },
     "id": "126W5YN7YF9KFBJCY6F9FV11C9",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/JPG\/en_EN\/d7c32deb4eedf3ca1f953025c5a21090.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/JPG/en_EN/d7c32deb4eedf3ca1f953025c5a21090.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Ordis Cadets",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_06_U_4319",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_06_U_4319",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_OR_06_U_4319",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_OR_06_U_4319",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_OR_06_U_4319",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/fr_FR\/3780a357cca8ec7990e4f38e4be42ca3.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/en_US\/5be5dafc7d12a252ad86cde952260154.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/es_ES\/4a3db5097a59dc74890988a14d9f2c4e.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/it_IT\/8cd83cb4b4cdbf5bf492f5c1b551b761.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/de_DE\/8896459c0dffe413bdbeef703cff700c.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/3780a357cca8ec7990e4f38e4be42ca3.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/5be5dafc7d12a252ad86cde952260154.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/es_ES/4a3db5097a59dc74890988a14d9f2c4e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/it_IT/8cd83cb4b4cdbf5bf492f5c1b551b761.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/de_DE/8896459c0dffe413bdbeef703cff700c.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_06\/ALT_CORE_B_OR_06_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/3c5a66aedb990a28a55c",
+                    "@id": "/.well-known/genid/3c5a66aedb990a28a55c",
                     "reference": "APPRENTICE",
                     "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
                     "name": "Apprenti"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/f3417ba9a79dcba74be8",
+                    "@id": "/.well-known/genid/f3417ba9a79dcba74be8",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "1",
                 "OCEAN_POWER": "0",
                 "FOREST_POWER": "1",
-                "MAIN_EFFECT": "{H} []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).",
+                "MAIN_EFFECT": "{H} []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).",
                 "ECHO_EFFECT": "{D}\u00a0: []Le prochain Bureaucrate que vous jouez cet Apr\u00e8s-midi co\u00fbte\u00a0{1} de moins."
             },
             "id": "126W5YN7YF9KFBJCY6F9FV11C9",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_06\/UNIQUE\/JPG\/fr_FR\/3780a357cca8ec7990e4f38e4be42ca3.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/3780a357cca8ec7990e4f38e4be42ca3.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Cadets Ordis",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_06_U_4319",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_06_U_4319",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_MU_13_U_4800",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_13_U_4800",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/fr_FR\/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/en_US\/91b48e5ab5b0c8cfd04b94293a5f3eda.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/es_ES\/251fdbad1983d0f626a4d4cf9791ee08.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/it_IT\/222eda82d02e31d7b0e79bd37ee37612.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/de_DE\/22a20cf9719c2cef2ec7b856be3b760f.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/fr_FR/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/en_US/91b48e5ab5b0c8cfd04b94293a5f3eda.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/es_ES/251fdbad1983d0f626a4d4cf9791ee08.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/it_IT/222eda82d02e31d7b0e79bd37ee37612.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/de_DE/22a20cf9719c2cef2ec7b856be3b760f.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/43cee2f53ca5c2f96fda",
+            "@id": "/.well-known/genid/43cee2f53ca5c2f96fda",
             "reference": "DRUID",
             "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
             "name": "Druid"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -50,12 +50,12 @@
         "ECHO_EFFECT": "{D} : []You may have target Character with Hand Cost\u00a0{3} or less other than me gain [[Anchored]]."
     },
     "id": "60CZXS5ZAG9ASVQWZW7T3T6QGT",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/JPG\/en_EN\/cef58bb5f2a7849e26ad1098834e8d4a.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/JPG/en_EN/cef58bb5f2a7849e26ad1098834e8d4a.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/MU",
+        "@id": "/factions/MU",
         "@type": "Faction",
         "reference": "MU",
         "color": "#3d6b42",
@@ -63,9 +63,9 @@
         "name": "Muna"
     },
     "name": "Muna Druid",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_MU_13_U_4800",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_13_U_4800",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_COREKS_B_MU_13_U_4800",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_MU_13_U_4800",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_13_U_4800",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/fr_FR\/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/en_US\/91b48e5ab5b0c8cfd04b94293a5f3eda.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/es_ES\/251fdbad1983d0f626a4d4cf9791ee08.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/it_IT\/222eda82d02e31d7b0e79bd37ee37612.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/de_DE\/22a20cf9719c2cef2ec7b856be3b760f.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/fr_FR/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/en_US/91b48e5ab5b0c8cfd04b94293a5f3eda.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/es_ES/251fdbad1983d0f626a4d4cf9791ee08.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/it_IT/222eda82d02e31d7b0e79bd37ee37612.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/de_DE/22a20cf9719c2cef2ec7b856be3b760f.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_MU_13\/ALT_CORE_B_MU_13_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_13/ALT_CORE_B_MU_13_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/db1d547d3218a14e541d",
+                    "@id": "/.well-known/genid/db1d547d3218a14e541d",
                     "reference": "DRUID",
                     "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
                     "name": "Druide"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -125,12 +125,12 @@
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Ancr\u00e9]] \u00e0 un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{3} ou moins autre que moi."
             },
             "id": "60CZXS5ZAG9ASVQWZW7T3T6QGT",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_MU_13\/UNIQUE\/JPG\/fr_FR\/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_13/UNIQUE/JPG/fr_FR/4e2f69e8926e9aee7d2cd4b3898a9798.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/MU",
+                "@id": "/factions/MU",
                 "@type": "Faction",
                 "reference": "MU",
                 "color": "#3d6b42",
@@ -138,9 +138,9 @@
                 "name": "Muna"
             },
             "name": "Druide Muna",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_MU_13_U_4800",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_13_U_4800",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

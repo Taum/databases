@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_5420",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_OR_34_U_5420",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/1df809260c27d73ce6b2df49467d0dc4.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/es_ES\/cfe0be5b540f9d97ff34d0953def1ab3.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/it_IT\/da6f1a5d13eb00bf6708e11d7dca0823.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/de_DE\/c6ccc3a40391b46af08ef45660f96f83.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/6f7380f354b38c7f13425322b44f9051.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/1df809260c27d73ce6b2df49467d0dc4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/cfe0be5b540f9d97ff34d0953def1ab3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/da6f1a5d13eb00bf6708e11d7dca0823.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/c6ccc3a40391b46af08ef45660f96f83.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/6f7380f354b38c7f13425322b44f9051.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/0e656b18d047ae3d0e3f",
+            "@id": "/.well-known/genid/0e656b18d047ae3d0e3f",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/51888b06d0a1d348dfe8",
+            "@id": "/.well-known/genid/51888b06d0a1d348dfe8",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,15 +53,15 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "0",
         "FOREST_POWER": "0",
-        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If it's a Spell: I gain 2 boosts, otherwise I gain 1 boost.  When I leave the Expedition zone\u00a0\u2014 []Create an [Ordis Recruit 1\/1\/1] Soldier token in target Expedition."
+        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If it's a Spell: I gain 2 boosts, otherwise I gain 1 boost.  When I leave the Expedition zone\u00a0\u2014 []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition."
     },
     "id": "31JW0M7Y8592VSDAYFTBJMKZ80",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/en_EN\/ed7650f8b22f1af41877c9740915cd54.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/en_EN/ed7650f8b22f1af41877c9740915cd54.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/YZ",
+        "@id": "/factions/YZ",
         "@type": "Faction",
         "reference": "YZ",
         "color": "#764891",
@@ -69,9 +69,9 @@
         "name": "Yzmir"
     },
     "name": "Ordis Overseer",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_5420",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_5420",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -80,26 +80,26 @@
     "reference": "ALT_ALIZE_B_OR_34_U_5420",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_5420",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_OR_34_U_5420",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/1df809260c27d73ce6b2df49467d0dc4.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/es_ES\/cfe0be5b540f9d97ff34d0953def1ab3.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/it_IT\/da6f1a5d13eb00bf6708e11d7dca0823.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/de_DE\/c6ccc3a40391b46af08ef45660f96f83.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/6f7380f354b38c7f13425322b44f9051.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/1df809260c27d73ce6b2df49467d0dc4.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/cfe0be5b540f9d97ff34d0953def1ab3.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/da6f1a5d13eb00bf6708e11d7dca0823.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/c6ccc3a40391b46af08ef45660f96f83.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/6f7380f354b38c7f13425322b44f9051.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -108,21 +108,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/0888bd7e9add5bfc99d9",
+                    "@id": "/.well-known/genid/0888bd7e9add5bfc99d9",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/882d42e537b1245e7324",
+                    "@id": "/.well-known/genid/882d42e537b1245e7324",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -134,15 +134,15 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "0",
                 "FOREST_POWER": "0",
-                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si c'est un Sort\u00a0: Je gagne 2\u00a0boosts. Sinon, je gagne 1\u00a0boost.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
+                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si c'est un Sort\u00a0: Je gagne 2\u00a0boosts. Sinon, je gagne 1\u00a0boost.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
             },
             "id": "31JW0M7Y8592VSDAYFTBJMKZ80",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/1df809260c27d73ce6b2df49467d0dc4.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/1df809260c27d73ce6b2df49467d0dc4.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/YZ",
+                "@id": "/factions/YZ",
                 "@type": "Faction",
                 "reference": "YZ",
                 "color": "#764891",
@@ -150,9 +150,9 @@
                 "name": "Yzmir"
             },
             "name": "Superviseuse Ordis",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_5420",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_5420",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

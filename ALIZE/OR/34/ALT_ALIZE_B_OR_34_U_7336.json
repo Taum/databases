@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_7336",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_OR_34_U_7336",
     "@type": "Card",
     "allImagePath": {
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/de_DE\/fee27845fdafc7bf1cfd4dcf5a40b9da.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/es_ES\/e6371eca3d3bdf6731487e8e8805b8f6.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/it_IT\/3b5049bbba4d5b6a1f1ab617fa46bf8b.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/44dec6057fa9d4138a0a64e936a6d825.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/fc48acb3e1dc8465e7741db1c0c8b006.jpg"
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/fee27845fdafc7bf1cfd4dcf5a40b9da.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/e6371eca3d3bdf6731487e8e8805b8f6.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/3b5049bbba4d5b6a1f1ab617fa46bf8b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/44dec6057fa9d4138a0a64e936a6d825.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/fc48acb3e1dc8465e7741db1c0c8b006.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/c17cade6c3d8eb6e3abf",
+            "@id": "/.well-known/genid/c17cade6c3d8eb6e3abf",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/c688f34926067799531f",
+            "@id": "/.well-known/genid/c688f34926067799531f",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "0",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "0",
-        "MAIN_EFFECT": "{R} []Create one [Ordis Recruit 1\/1\/1] Soldier token in my Expedition per Bureaucrat you control.  {R} You may discard a Character from your Reserve. If you do: [Resupply], otherwise [Exhausted Resupply].",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in target Expedition."
+        "MAIN_EFFECT": "{R} []Create one [Ordis Recruit 1/1/1] Soldier token in my Expedition per Bureaucrat you control.  {R} You may discard a Character from your Reserve. If you do: [Resupply], otherwise [Exhausted Resupply].",
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition."
     },
     "id": "3TFG1DNQVA8E78XE95T8BB0FFB",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/en_EN\/bfe8022e689118daf1ec7682216766ba.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/en_EN/bfe8022e689118daf1ec7682216766ba.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Ordis Overseer",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_7336",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_7336",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_OR_34_U_7336",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_7336",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_OR_34_U_7336",
             "@type": "Card",
             "allImagePath": {
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/de_DE\/fee27845fdafc7bf1cfd4dcf5a40b9da.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/es_ES\/e6371eca3d3bdf6731487e8e8805b8f6.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/it_IT\/3b5049bbba4d5b6a1f1ab617fa46bf8b.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/44dec6057fa9d4138a0a64e936a6d825.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/fc48acb3e1dc8465e7741db1c0c8b006.jpg"
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/de_DE/fee27845fdafc7bf1cfd4dcf5a40b9da.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/es_ES/e6371eca3d3bdf6731487e8e8805b8f6.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/it_IT/3b5049bbba4d5b6a1f1ab617fa46bf8b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/44dec6057fa9d4138a0a64e936a6d825.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/fc48acb3e1dc8465e7741db1c0c8b006.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/ae03bbf3fe307a2731f8",
+                    "@id": "/.well-known/genid/ae03bbf3fe307a2731f8",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/ea1624609a4d49521f3a",
+                    "@id": "/.well-known/genid/ea1624609a4d49521f3a",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "0",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "0",
-                "MAIN_EFFECT": "{R} []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans mon Exp\u00e9dition par Bureaucrate que vous contr\u00f4lez.  {R} Vous pouvez d\u00e9fausser un Personnage de votre R\u00e9serve. Si vous le faites\u00a0: [Ravitaillez]. Sinon, [Ravitaillez \u00c9puis\u00e9].",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
+                "MAIN_EFFECT": "{R} []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Exp\u00e9dition par Bureaucrate que vous contr\u00f4lez.  {R} Vous pouvez d\u00e9fausser un Personnage de votre R\u00e9serve. Si vous le faites\u00a0: [Ravitaillez]. Sinon, [Ravitaillez \u00c9puis\u00e9].",
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e."
             },
             "id": "3TFG1DNQVA8E78XE95T8BB0FFB",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/fc48acb3e1dc8465e7741db1c0c8b006.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/fc48acb3e1dc8465e7741db1c0c8b006.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Superviseuse Ordis",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_7336",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_7336",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

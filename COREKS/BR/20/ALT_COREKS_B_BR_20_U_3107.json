@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_BR_20_U_3107",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_20_U_3107",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/fr_FR\/6fd9392bdae34a1f57701b3f69cc9988.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/es_ES\/80bbf452bcbce68779a892d6f6091299.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/it_IT\/19798c7927f7548b0f97a01cffde5df9.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/de_DE\/f7d491eeede996bc355c4c39b3eadcd5.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/en_US\/0cc01df6a92964cdc1b035c664966115.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/fr_FR/6fd9392bdae34a1f57701b3f69cc9988.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/es_ES/80bbf452bcbce68779a892d6f6091299.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/it_IT/19798c7927f7548b0f97a01cffde5df9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/de_DE/f7d491eeede996bc355c4c39b3eadcd5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/en_US/0cc01df6a92964cdc1b035c664966115.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/dd2bc92da8f26fb93ec6",
+            "@id": "/.well-known/genid/dd2bc92da8f26fb93ec6",
             "reference": "TITAN",
             "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
             "name": "Titan"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -47,15 +47,15 @@
         "OCEAN_POWER": "3",
         "FOREST_POWER": "3",
         "MAIN_EFFECT": "[][]I am [Gigantic].  {J} If you control a token: Draw a card.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Companion Expedition."
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Companion Expedition."
     },
     "id": "6VBEYTANST8PY9ZSA8KJ0FN8A4",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/JPG\/en_EN\/0f4d019870b627fd1ba123bd089eb691.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/JPG/en_EN/0f4d019870b627fd1ba123bd089eb691.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Atlas",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_20_U_3107",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_20_U_3107",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_COREKS_B_BR_20_U_3107",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_BR_20_U_3107",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_20_U_3107",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/fr_FR\/6fd9392bdae34a1f57701b3f69cc9988.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/es_ES\/80bbf452bcbce68779a892d6f6091299.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/it_IT\/19798c7927f7548b0f97a01cffde5df9.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/de_DE\/f7d491eeede996bc355c4c39b3eadcd5.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/en_US\/0cc01df6a92964cdc1b035c664966115.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/fr_FR/6fd9392bdae34a1f57701b3f69cc9988.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/es_ES/80bbf452bcbce68779a892d6f6091299.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/it_IT/19798c7927f7548b0f97a01cffde5df9.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/de_DE/f7d491eeede996bc355c4c39b3eadcd5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/en_US/0cc01df6a92964cdc1b035c664966115.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_20\/ALT_CORE_B_BR_20_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_20/ALT_CORE_B_BR_20_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/09e3296c51f209e70477",
+                    "@id": "/.well-known/genid/09e3296c51f209e70477",
                     "reference": "TITAN",
                     "id": "01HKAGQ9QZA1N8YNZH7CYPBDVR",
                     "name": "Titan"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -122,15 +122,15 @@
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "3",
                 "MAIN_EFFECT": "[][]Je suis [Gigantesque].  {J} Si vous contr\u00f4lez un jeton\u00a0: Piochez une carte.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon."
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon."
             },
             "id": "6VBEYTANST8PY9ZSA8KJ0FN8A4",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_20\/UNIQUE\/JPG\/fr_FR\/6fd9392bdae34a1f57701b3f69cc9988.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_20/UNIQUE/JPG/fr_FR/6fd9392bdae34a1f57701b3f69cc9988.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Atlas",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_20_U_3107",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_20_U_3107",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

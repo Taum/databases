@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_AX_51_U_11895",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_51_U_11895",
     "@type": "Card",
     "allImagePath": {
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/es_ES\/49cd833b591da29682ecf1849aade59f.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/de_DE\/7ef3b7cacf5e48ef3a09f39a83484816.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/it_IT\/ad0a9357f51a956fba0cd6dc43f1e6e2.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/en_US\/a1bed53be9e0e77e39bb322a8d8da658.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/a543015ca5533db62066cc60478e8071.jpg"
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/49cd833b591da29682ecf1849aade59f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/7ef3b7cacf5e48ef3a09f39a83484816.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/ad0a9357f51a956fba0cd6dc43f1e6e2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/a1bed53be9e0e77e39bb322a8d8da658.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/a543015ca5533db62066cc60478e8071.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_70b9d2617d7cb71b447301e3fc6791e9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/ca40b2444a2c3f807897",
+            "@id": "/.well-known/genid/ca40b2444a2c3f807897",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/afea0cc70e2d2e640b23",
+            "@id": "/.well-known/genid/afea0cc70e2d2e640b23",
             "reference": "ROBOT",
             "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
             "name": "Robot"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "0",
         "FOREST_POWER": "0",
-        "MAIN_EFFECT": "{R} You may discard a card from your Reserve. If you do: Create a [Brassbug 2\/2\/2] Robot token in your other Expedition (the one I'm not in).  When I go to Reserve from the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Draw a card.",
+        "MAIN_EFFECT": "{R} You may discard a card from your Reserve. If you do: Create a [Brassbug 2/2/2] Robot token in your other Expedition (the one I'm not in).  When I go to Reserve from the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Draw a card.",
         "ECHO_EFFECT": "{I} At Noon\u00a0\u2014 []Choose one:  \u2022 I gain 1 boost, up to a max of 3.  \u2022 {T} : I gain 2 boosts, up to a max of 3."
     },
     "id": "7WCC2XE9QF8VRB6RZ9R45EHXX5",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/en_EN\/861674588ac28d0fb04757be9cc1eccc.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/en_EN/861674588ac28d0fb04757be9cc1eccc.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -70,9 +70,9 @@
         "name": "Axiom"
     },
     "name": "Designer Drone",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_AX_51_U_11895",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11895",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_BISE_B_AX_51_U_11895",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_AX_51_U_11895",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_51_U_11895",
             "@type": "Card",
             "allImagePath": {
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/es_ES\/49cd833b591da29682ecf1849aade59f.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/de_DE\/7ef3b7cacf5e48ef3a09f39a83484816.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/it_IT\/ad0a9357f51a956fba0cd6dc43f1e6e2.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/en_US\/a1bed53be9e0e77e39bb322a8d8da658.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/a543015ca5533db62066cc60478e8071.jpg"
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/49cd833b591da29682ecf1849aade59f.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/7ef3b7cacf5e48ef3a09f39a83484816.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/ad0a9357f51a956fba0cd6dc43f1e6e2.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/a1bed53be9e0e77e39bb322a8d8da658.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/a543015ca5533db62066cc60478e8071.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_70b9d2617d7cb71b447301e3fc6791e9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/493b180427988b1b4cff",
+                    "@id": "/.well-known/genid/493b180427988b1b4cff",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/7faba71c872e0c8aa80f",
+                    "@id": "/.well-known/genid/7faba71c872e0c8aa80f",
                     "reference": "ROBOT",
                     "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
                     "name": "Robot"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "0",
                 "FOREST_POWER": "0",
-                "MAIN_EFFECT": "{R} Vous pouvez d\u00e9fausser une carte de votre R\u00e9serve. Si vous le faites\u00a0: Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).  Lorsque je vais en R\u00e9serve depuis la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Piochez une carte.",
+                "MAIN_EFFECT": "{R} Vous pouvez d\u00e9fausser une carte de votre R\u00e9serve. Si vous le faites\u00a0: Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).  Lorsque je vais en R\u00e9serve depuis la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Piochez une carte.",
                 "ECHO_EFFECT": "{I} \u00c0 Midi\u00a0\u2014 []Choisissez l'un\u00a0:  \u2022 Je gagne 1\u00a0boost, jusqu'\u00e0 un max de\u00a03.  \u2022 {T}\u00a0: Je gagne 2\u00a0boosts, jusqu'\u00e0 un max de\u00a03."
             },
             "id": "7WCC2XE9QF8VRB6RZ9R45EHXX5",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/a543015ca5533db62066cc60478e8071.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/a543015ca5533db62066cc60478e8071.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -152,9 +152,9 @@
                 "name": "Axiom"
             },
             "name": "Designer Drone",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_AX_51_U_11895",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11895",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

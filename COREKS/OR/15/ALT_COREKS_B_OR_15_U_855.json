@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_OR_15_U_855",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_15_U_855",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/fr_FR\/1f96bc863b175b06a48247b27cba6b3f.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/en_US\/46b2a1180277eacb226e8ec500323da1.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/es_ES\/e6c60b99d13198e21bced53832f4914e.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/it_IT\/35c0b32b5ac26c15b86a0d06b04750f1.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/de_DE\/82bd41ce31e76105fe2fbbf07fcccb39.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/1f96bc863b175b06a48247b27cba6b3f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/46b2a1180277eacb226e8ec500323da1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/e6c60b99d13198e21bced53832f4914e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/35c0b32b5ac26c15b86a0d06b04750f1.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/82bd41ce31e76105fe2fbbf07fcccb39.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/52e71e066512efbed115",
+            "@id": "/.well-known/genid/52e71e066512efbed115",
             "reference": "NOBLE",
             "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
             "name": "Noble"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/c812f56fb550319a01d1",
+            "@id": "/.well-known/genid/c812f56fb550319a01d1",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "1",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{R} If you control three or more Characters: Create an [Ordis Recruit 1\/1\/1] Soldier token in each of your Expeditions.  When I go to Reserve from the Expedition zone\u00a0\u2014 []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition."
+        "MAIN_EFFECT": "{R} If you control three or more Characters: Create an [Ordis Recruit 1/1/1] Soldier token in each of your Expeditions.  When I go to Reserve from the Expedition zone\u00a0\u2014 []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.",
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition."
     },
     "id": "2FBRNT5ETR98KAZHFFM5KBFEFV",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/JPG\/en_EN\/1f1f751cffd96590e7696626558560d6.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/JPG/en_EN/1f1f751cffd96590e7696626558560d6.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Kakoba, Legion Commander",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_15_U_855",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_15_U_855",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_OR_15_U_855",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_OR_15_U_855",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_OR_15_U_855",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/fr_FR\/1f96bc863b175b06a48247b27cba6b3f.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/en_US\/46b2a1180277eacb226e8ec500323da1.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/es_ES\/e6c60b99d13198e21bced53832f4914e.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/it_IT\/35c0b32b5ac26c15b86a0d06b04750f1.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/de_DE\/82bd41ce31e76105fe2fbbf07fcccb39.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/1f96bc863b175b06a48247b27cba6b3f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/46b2a1180277eacb226e8ec500323da1.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/e6c60b99d13198e21bced53832f4914e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/35c0b32b5ac26c15b86a0d06b04750f1.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/82bd41ce31e76105fe2fbbf07fcccb39.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_15\/ALT_CORE_B_OR_15_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/85b39ba7de012164dde1",
+                    "@id": "/.well-known/genid/85b39ba7de012164dde1",
                     "reference": "NOBLE",
                     "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
                     "name": "Noble"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/7bf42e9699d23da30f55",
+                    "@id": "/.well-known/genid/7bf42e9699d23da30f55",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "1",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{R} Si vous contr\u00f4lez au moins trois Personnages\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions.  Lorsque je vais en R\u00e9serve depuis la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
+                "MAIN_EFFECT": "{R} Si vous contr\u00f4lez au moins trois Personnages\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions.  Lorsque je vais en R\u00e9serve depuis la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
             },
             "id": "2FBRNT5ETR98KAZHFFM5KBFEFV",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_OR_15\/UNIQUE\/JPG\/fr_FR\/1f96bc863b175b06a48247b27cba6b3f.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/1f96bc863b175b06a48247b27cba6b3f.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Kakoba, Commandant de L\u00e9gion",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_OR_15_U_855",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_15_U_855",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

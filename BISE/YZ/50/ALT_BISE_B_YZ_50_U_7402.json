@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_YZ_50_U_7402",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_50_U_7402",
     "@type": "Card",
     "allImagePath": {
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/it_IT\/391e040ca7ba948a2e6a0eeac93e8605.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/de_DE\/12b1142cd74c6e99a173477e750759f9.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/es_ES\/be056352e36471ba87add3fa24ef838b.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/UNIQUE\/JPG\/en_US\/5cdd18c4cef9861c7fdd2e043dd62b4b.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/UNIQUE\/JPG\/fr_FR\/6f251655c6340ada453226e5f04dbb05.jpg"
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/it_IT/391e040ca7ba948a2e6a0eeac93e8605.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/de_DE/12b1142cd74c6e99a173477e750759f9.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/es_ES/be056352e36471ba87add3fa24ef838b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/UNIQUE/JPG/en_US/5cdd18c4cef9861c7fdd2e043dd62b4b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/UNIQUE/JPG/fr_FR/6f251655c6340ada453226e5f04dbb05.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_d81cd99fdb3472b93e2bc8a4f6846333",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_bfb9173f11656418741be03eb40904b2",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_de7c29db0838643f43302e66efa8f12c"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_d81cd99fdb3472b93e2bc8a4f6846333",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_bfb9173f11656418741be03eb40904b2",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_de7c29db0838643f43302e66efa8f12c"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/fcfb542a94a68f6761c4",
+            "@id": "/.well-known/genid/fcfb542a94a68f6761c4",
             "reference": "ARTIST",
             "id": "01HKAGQTJ167DYCKKGR8MCESNT",
             "name": "Artist"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/b2a856a937ab20ee06c2",
+            "@id": "/.well-known/genid/b2a856a937ab20ee06c2",
             "reference": "MAGE",
             "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
             "name": "Mage"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "5",
         "OCEAN_POWER": "4",
         "FOREST_POWER": "1",
-        "MAIN_EFFECT": "{H} If your Reserve is empty: Create a [Mana Moth 2\/2\/2] Illusion token in my Expedition.  {R} You may spend 1 counter from a card you control or in your Reserve. If you do: You may send to Reserve target Character with Hand Cost\u00a0{2} or less.",
+        "MAIN_EFFECT": "{H} If your Reserve is empty: Create a [Mana Moth 2/2/2] Illusion token in my Expedition.  {R} You may spend 1 counter from a card you control or in your Reserve. If you do: You may send to Reserve target Character with Hand Cost\u00a0{2} or less.",
         "ECHO_EFFECT": "{I} When you play a Spell\u00a0\u2014 []I gain 1 boost, up to a max of 2."
     },
     "id": "4DY8T0TY3C9F38CWJE8KVXHXSE",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/en_EN\/8daeedc9d87b8f022abef74eec167c4c.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/en_EN/8daeedc9d87b8f022abef74eec167c4c.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/YZ",
+        "@id": "/factions/YZ",
         "@type": "Faction",
         "reference": "YZ",
         "color": "#764891",
@@ -70,9 +70,9 @@
         "name": "Yzmir"
     },
     "name": "Yzmir Engraver",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_YZ_50_U_7402",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_50_U_7402",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_BISE_B_YZ_50_U_7402",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_YZ_50_U_7402",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_50_U_7402",
             "@type": "Card",
             "allImagePath": {
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/it_IT\/391e040ca7ba948a2e6a0eeac93e8605.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/de_DE\/12b1142cd74c6e99a173477e750759f9.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/JPG\/es_ES\/be056352e36471ba87add3fa24ef838b.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/UNIQUE\/JPG\/en_US\/5cdd18c4cef9861c7fdd2e043dd62b4b.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/UNIQUE\/JPG\/fr_FR\/6f251655c6340ada453226e5f04dbb05.jpg"
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/it_IT/391e040ca7ba948a2e6a0eeac93e8605.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/de_DE/12b1142cd74c6e99a173477e750759f9.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/JPG/es_ES/be056352e36471ba87add3fa24ef838b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/UNIQUE/JPG/en_US/5cdd18c4cef9861c7fdd2e043dd62b4b.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/UNIQUE/JPG/fr_FR/6f251655c6340ada453226e5f04dbb05.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_d81cd99fdb3472b93e2bc8a4f6846333",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_bfb9173f11656418741be03eb40904b2",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/WEB_de7c29db0838643f43302e66efa8f12c"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_d81cd99fdb3472b93e2bc8a4f6846333",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_bfb9173f11656418741be03eb40904b2",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/WEB_de7c29db0838643f43302e66efa8f12c"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/6b223c0edc6ef03af0db",
+                    "@id": "/.well-known/genid/6b223c0edc6ef03af0db",
                     "reference": "ARTIST",
                     "id": "01HKAGQTJ167DYCKKGR8MCESNT",
                     "name": "Artiste"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/9f8cdf6a475b89efce44",
+                    "@id": "/.well-known/genid/9f8cdf6a475b89efce44",
                     "reference": "MAGE",
                     "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
                     "name": "Mage"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "5",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "1",
-                "MAIN_EFFECT": "{H} Si votre R\u00e9serve est vide\u00a0: Cr\u00e9ez un jeton Illusion [2\/2\/2 Phal\u00e8ne de Mana] dans mon Exp\u00e9dition.  {R} Vous pouvez d\u00e9penser 1\u00a0compteur d'une carte que vous contr\u00f4lez ou dans votre R\u00e9serve. Si vous le faites\u00a0: Vous pouvez envoyer en R\u00e9serve un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{2} ou moins.",
+                "MAIN_EFFECT": "{H} Si votre R\u00e9serve est vide\u00a0: Cr\u00e9ez un jeton Illusion [2/2/2 Phal\u00e8ne de Mana] dans mon Exp\u00e9dition.  {R} Vous pouvez d\u00e9penser 1\u00a0compteur d'une carte que vous contr\u00f4lez ou dans votre R\u00e9serve. Si vous le faites\u00a0: Vous pouvez envoyer en R\u00e9serve un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{2} ou moins.",
                 "ECHO_EFFECT": "{I} Lorsque vous jouez un Sort\u00a0\u2014 []Je gagne 1\u00a0boost, jusqu'\u00e0 un maximum de 2."
             },
             "id": "4DY8T0TY3C9F38CWJE8KVXHXSE",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_50\/UNIQUE\/JPG\/fr_FR\/6f251655c6340ada453226e5f04dbb05.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_50/UNIQUE/JPG/fr_FR/6f251655c6340ada453226e5f04dbb05.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/YZ",
+                "@id": "/factions/YZ",
                 "@type": "Faction",
                 "reference": "YZ",
                 "color": "#764891",
@@ -152,9 +152,9 @@
                 "name": "Yzmir"
             },
             "name": "Yzmir Engraver",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_YZ_50_U_7402",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_50_U_7402",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

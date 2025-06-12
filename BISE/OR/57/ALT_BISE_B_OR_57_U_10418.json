@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_OR_57_U_10418",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_57_U_10418",
     "@type": "Card",
     "allImagePath": {
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/de_DE\/3001bec75bf03849682360357904d353.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/it_IT\/3e6a2a0c03e87f0f41e83d6489662d9a.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/UNIQUE\/JPG\/fr_FR\/fe166cde8b27fe26e6dec5713893731b.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/es_ES\/b1c74d2dea374b3edc9b39c2bd5cb1c9.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/UNIQUE\/JPG\/en_US\/f61f03bd134fa3617625bb476f2ca6d3.jpg"
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/de_DE/3001bec75bf03849682360357904d353.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/it_IT/3e6a2a0c03e87f0f41e83d6489662d9a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/UNIQUE/JPG/fr_FR/fe166cde8b27fe26e6dec5713893731b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/es_ES/b1c74d2dea374b3edc9b39c2bd5cb1c9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/UNIQUE/JPG/en_US/f61f03bd134fa3617625bb476f2ca6d3.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_69b0b6d2c2fd5a747a27db81cd24a6a7",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_cb967882be578b00f7a2e72b8027cb22",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_f38ea681e036940f5da89155a9b3d247"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_69b0b6d2c2fd5a747a27db81cd24a6a7",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_cb967882be578b00f7a2e72b8027cb22",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_f38ea681e036940f5da89155a9b3d247"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/673664b44caf7e8d36c6",
+            "@id": "/.well-known/genid/673664b44caf7e8d36c6",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/fd3d5c2f4a48a4f558db",
+            "@id": "/.well-known/genid/fd3d5c2f4a48a4f558db",
             "reference": "NOBLE",
             "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
             "name": "Noble"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -51,18 +51,18 @@
         "MAIN_COST": "5",
         "RECALL_COST": "6",
         "MAIN_EFFECT": "{J} If you control a token: You may exhaust target card in Reserve.  When an opponent plays a Character\u00a0\u2014 []If there are no Characters in the Expedition facing me, that Character switches Expeditions.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition.",
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.",
         "MOUNTAIN_POWER": "5",
         "OCEAN_POWER": "3",
         "FOREST_POWER": "5"
     },
     "id": "2RBMZA5BWV9318HC85WJAJAMS8",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/en_EN\/1f9ebfd75d0798e3934839efd3ab8502.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/en_EN/1f9ebfd75d0798e3934839efd3ab8502.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Ariadne",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_OR_57_U_10418",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_57_U_10418",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_BISE_B_OR_57_U_10418",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_OR_57_U_10418",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_OR_57_U_10418",
             "@type": "Card",
             "allImagePath": {
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/de_DE\/3001bec75bf03849682360357904d353.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/it_IT\/3e6a2a0c03e87f0f41e83d6489662d9a.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/UNIQUE\/JPG\/fr_FR\/fe166cde8b27fe26e6dec5713893731b.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/JPG\/es_ES\/b1c74d2dea374b3edc9b39c2bd5cb1c9.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/UNIQUE\/JPG\/en_US\/f61f03bd134fa3617625bb476f2ca6d3.jpg"
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/de_DE/3001bec75bf03849682360357904d353.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/it_IT/3e6a2a0c03e87f0f41e83d6489662d9a.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/UNIQUE/JPG/fr_FR/fe166cde8b27fe26e6dec5713893731b.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/JPG/es_ES/b1c74d2dea374b3edc9b39c2bd5cb1c9.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/UNIQUE/JPG/en_US/f61f03bd134fa3617625bb476f2ca6d3.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_69b0b6d2c2fd5a747a27db81cd24a6a7",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_cb967882be578b00f7a2e72b8027cb22",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/WEB_f38ea681e036940f5da89155a9b3d247"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_69b0b6d2c2fd5a747a27db81cd24a6a7",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_cb967882be578b00f7a2e72b8027cb22",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/WEB_f38ea681e036940f5da89155a9b3d247"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/62e272950a634bfa6b70",
+                    "@id": "/.well-known/genid/62e272950a634bfa6b70",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/152aabe42220f3e00f46",
+                    "@id": "/.well-known/genid/152aabe42220f3e00f46",
                     "reference": "NOBLE",
                     "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
                     "name": "Noble"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -133,18 +133,18 @@
                 "MAIN_COST": "5",
                 "RECALL_COST": "6",
                 "MAIN_EFFECT": "{J} Si vous contr\u00f4lez un jeton\u00a0: Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve.  Lorsqu'un adversaire joue un Personnage\u00a0\u2014 []S'il n'y a aucun Personnage dans l'Exp\u00e9dition qui me fait face, ce Personnage change d'Exp\u00e9dition.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
                 "MOUNTAIN_POWER": "5",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "5"
             },
             "id": "2RBMZA5BWV9318HC85WJAJAMS8",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_OR_57\/UNIQUE\/JPG\/fr_FR\/fe166cde8b27fe26e6dec5713893731b.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_57/UNIQUE/JPG/fr_FR/fe166cde8b27fe26e6dec5713893731b.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Ariadne",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_OR_57_U_10418",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_57_U_10418",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

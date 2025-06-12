@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_AX_11_U_3031",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_11_U_3031",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/fr_FR\/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/es_ES\/ed3a9e1fe94720e5fa7140df748b9004.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/it_IT\/a9bbfde4bf27900ba3f962d400675c83.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/de_DE\/30d666f967981bf0e1bb75143403540a.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/en_US\/6e25c90c4376c93813fa86a0ade588ba.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/fr_FR/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/es_ES/ed3a9e1fe94720e5fa7140df748b9004.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/it_IT/a9bbfde4bf27900ba3f962d400675c83.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/de_DE/30d666f967981bf0e1bb75143403540a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/en_US/6e25c90c4376c93813fa86a0ade588ba.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/d7d50dd437d34f8a0f76",
+            "@id": "/.well-known/genid/d7d50dd437d34f8a0f76",
             "reference": "ADVENTURER",
             "id": "01HKAGPC92CGHANVSRSC8R8ES6",
             "name": "Adventurer"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -47,15 +47,15 @@
         "OCEAN_POWER": "3",
         "FOREST_POWER": "1",
         "MAIN_EFFECT": "{H} If you control three or more Characters: Draw a card.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition."
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition."
     },
     "id": "5AS2AHXFQC8X584PR89Y6DK7DW",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/JPG\/en_EN\/374cf246f472f86ee654b25177e39007.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/JPG/en_EN/374cf246f472f86ee654b25177e39007.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Amelia Earhart",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_AX_11_U_3031",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_11_U_3031",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_CORE_B_AX_11_U_3031",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_AX_11_U_3031",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_11_U_3031",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/fr_FR\/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/es_ES\/ed3a9e1fe94720e5fa7140df748b9004.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/it_IT\/a9bbfde4bf27900ba3f962d400675c83.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/de_DE\/30d666f967981bf0e1bb75143403540a.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/en_US\/6e25c90c4376c93813fa86a0ade588ba.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/fr_FR/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/es_ES/ed3a9e1fe94720e5fa7140df748b9004.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/it_IT/a9bbfde4bf27900ba3f962d400675c83.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/de_DE/30d666f967981bf0e1bb75143403540a.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/en_US/6e25c90c4376c93813fa86a0ade588ba.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/ALT_CORE_B_AX_11_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/ALT_CORE_B_AX_11_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/89c13d559f8fe3a50e70",
+                    "@id": "/.well-known/genid/89c13d559f8fe3a50e70",
                     "reference": "ADVENTURER",
                     "id": "01HKAGPC92CGHANVSRSC8R8ES6",
                     "name": "Aventurier"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -122,15 +122,15 @@
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "1",
                 "MAIN_EFFECT": "{H} Si vous contr\u00f4lez au moins trois Personnages\u00a0: Piochez une carte.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
             },
             "id": "5AS2AHXFQC8X584PR89Y6DK7DW",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_11\/UNIQUE\/JPG\/fr_FR\/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_11/UNIQUE/JPG/fr_FR/ca5ed0b8ea92ea35a842c5224f734c95.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Amelia Earhart",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_AX_11_U_3031",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_11_U_3031",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

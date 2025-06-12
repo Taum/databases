@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_BR_22_U_1443",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_22_U_1443",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/fr_FR\/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/es_ES\/65d469cae58357e9f2c9e51cb130d5b2.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/it_IT\/5cf116ff579cdacaf31d7ee945e9ac95.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/en_US\/62cc754b76d61f03a853f6cf55d50d8d.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/de_DE\/7b5fde50afb84f5fc7806449011fbb5e.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/fr_FR/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/es_ES/65d469cae58357e9f2c9e51cb130d5b2.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/it_IT/5cf116ff579cdacaf31d7ee945e9ac95.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/en_US/62cc754b76d61f03a853f6cf55d50d8d.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/de_DE/7b5fde50afb84f5fc7806449011fbb5e.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_6e980f3067cf165635769d19ff49ec95",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_4c6a462f6b4a57d2b420422382e6d929",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_efb5edde8d434d7152280a70b89ddbfd"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_6e980f3067cf165635769d19ff49ec95",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_4c6a462f6b4a57d2b420422382e6d929",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_efb5edde8d434d7152280a70b89ddbfd"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/0a0809ac4aee9fbd273c",
+            "@id": "/.well-known/genid/0a0809ac4aee9fbd273c",
             "reference": "DRAGON",
             "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
             "name": "Dragon"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/a53535850e077de1a1e4",
+            "@id": "/.well-known/genid/a53535850e077de1a1e4",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -57,12 +57,12 @@
         "ECHO_EFFECT": "{D} : []Draw a card."
     },
     "id": "7K4GJRDXX98SZV72C7FJDYD8JH",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/JPG\/en_EN\/ed2bf5cd8439e8cfd62cbea486ceed99.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/JPG/en_EN/ed2bf5cd8439e8cfd62cbea486ceed99.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/BR",
+        "@id": "/factions/BR",
         "@type": "Faction",
         "reference": "BR",
         "color": "#c32637",
@@ -70,9 +70,9 @@
         "name": "Bravos"
     },
     "name": "Shenlong",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_22_U_1443",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_22_U_1443",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_BR_22_U_1443",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_BR_22_U_1443",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_22_U_1443",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/fr_FR\/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/es_ES\/65d469cae58357e9f2c9e51cb130d5b2.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/it_IT\/5cf116ff579cdacaf31d7ee945e9ac95.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/en_US\/62cc754b76d61f03a853f6cf55d50d8d.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/de_DE\/7b5fde50afb84f5fc7806449011fbb5e.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/fr_FR/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/es_ES/65d469cae58357e9f2c9e51cb130d5b2.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/it_IT/5cf116ff579cdacaf31d7ee945e9ac95.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/en_US/62cc754b76d61f03a853f6cf55d50d8d.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/de_DE/7b5fde50afb84f5fc7806449011fbb5e.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_6e980f3067cf165635769d19ff49ec95",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_4c6a462f6b4a57d2b420422382e6d929",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/WEB_efb5edde8d434d7152280a70b89ddbfd"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_6e980f3067cf165635769d19ff49ec95",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_4c6a462f6b4a57d2b420422382e6d929",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/WEB_efb5edde8d434d7152280a70b89ddbfd"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/a91d05fe0ffdff58a4d1",
+                    "@id": "/.well-known/genid/a91d05fe0ffdff58a4d1",
                     "reference": "DRAGON",
                     "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
                     "name": "Dragon"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/03bd11924e66fca147cd",
+                    "@id": "/.well-known/genid/03bd11924e66fca147cd",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -139,12 +139,12 @@
                 "ECHO_EFFECT": "{D}\u00a0: []Piochez une carte."
             },
             "id": "7K4GJRDXX98SZV72C7FJDYD8JH",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_22\/UNIQUE\/JPG\/fr_FR\/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_22/UNIQUE/JPG/fr_FR/28d7b7396cb615ff93c58556e0c9c1b3.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/BR",
+                "@id": "/factions/BR",
                 "@type": "Faction",
                 "reference": "BR",
                 "color": "#c32637",
@@ -152,9 +152,9 @@
                 "name": "Bravos"
             },
             "name": "Shenlong",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_22_U_1443",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_22_U_1443",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

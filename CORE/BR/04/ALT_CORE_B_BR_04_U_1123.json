@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_BR_04_U_1123",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_BR_04_U_1123",
     "@type": "Card",
     "allImagePath": {
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/es_ES\/689fd13066363bb7ce9fcbf737c6d0a1.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/it_IT\/dc713bdf861464a8283f533bd5109051.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/de_DE\/7a98c46bc16bf52158b72c2143b9c823.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/en_US\/d74defffd0ad9ede8f02a48380efe6de.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/fr_FR\/f5d82176954375eeb5fa87a51749a443.jpg"
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/es_ES/689fd13066363bb7ce9fcbf737c6d0a1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/it_IT/dc713bdf861464a8283f533bd5109051.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/de_DE/7a98c46bc16bf52158b72c2143b9c823.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/en_US/d74defffd0ad9ede8f02a48380efe6de.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/fr_FR/f5d82176954375eeb5fa87a51749a443.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/a1826c03606a0f157335",
+            "@id": "/.well-known/genid/a1826c03606a0f157335",
             "reference": "MESSENGER",
             "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
             "name": "Messenger"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -46,16 +46,16 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in target Expedition.",
+        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.",
         "ECHO_EFFECT": "{D} : []You may have target Character gain [[Fleeting]]."
     },
     "id": "1XAJH4ZH3N9XC86BM6HB60XRC6",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/JPG\/en_EN\/a83b7a878c84918f42e081f2f0202549.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/JPG/en_EN/a83b7a878c84918f42e081f2f0202549.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Ratatoskr",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_BR_04_U_1123",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_04_U_1123",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_CORE_B_BR_04_U_1123",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_BR_04_U_1123",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_BR_04_U_1123",
             "@type": "Card",
             "allImagePath": {
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/es_ES\/689fd13066363bb7ce9fcbf737c6d0a1.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/it_IT\/dc713bdf861464a8283f533bd5109051.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/de_DE\/7a98c46bc16bf52158b72c2143b9c823.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/en_US\/d74defffd0ad9ede8f02a48380efe6de.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/fr_FR\/f5d82176954375eeb5fa87a51749a443.jpg"
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/es_ES/689fd13066363bb7ce9fcbf737c6d0a1.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/it_IT/dc713bdf861464a8283f533bd5109051.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/de_DE/7a98c46bc16bf52158b72c2143b9c823.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/en_US/d74defffd0ad9ede8f02a48380efe6de.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/fr_FR/f5d82176954375eeb5fa87a51749a443.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/ALT_CORE_B_BR_04_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/ALT_CORE_B_BR_04_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/f1abc8d4532ce6f9fc46",
+                    "@id": "/.well-known/genid/f1abc8d4532ce6f9fc46",
                     "reference": "MESSENGER",
                     "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
                     "name": "\u00c9missaire"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -121,16 +121,16 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e.",
+                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9."
             },
             "id": "1XAJH4ZH3N9XC86BM6HB60XRC6",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_04\/UNIQUE\/JPG\/fr_FR\/f5d82176954375eeb5fa87a51749a443.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_04/UNIQUE/JPG/fr_FR/f5d82176954375eeb5fa87a51749a443.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Ratatosk",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_BR_04_U_1123",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_04_U_1123",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_16139",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_OR_34_U_16139",
     "@type": "Card",
     "allImagePath": {
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/848552054c9c019883bfe8cb1cc8cda3.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/5842bf01269d36a51e087bb3e04b21ac.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/es_ES\/38a6a22f7531aed71bcf3a9f80836d44.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/it_IT\/34941caa160e247ac292b735c0597435.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/de_DE\/e07ba6fe0cdb2eeafa809423bee79b74.jpg"
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/848552054c9c019883bfe8cb1cc8cda3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/5842bf01269d36a51e087bb3e04b21ac.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/es_ES/38a6a22f7531aed71bcf3a9f80836d44.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/it_IT/34941caa160e247ac292b735c0597435.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/de_DE/e07ba6fe0cdb2eeafa809423bee79b74.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/4a75dfb117cccf2d76fe",
+            "@id": "/.well-known/genid/4a75dfb117cccf2d76fe",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/88590c1bd34a229f3d0e",
+            "@id": "/.well-known/genid/88590c1bd34a229f3d0e",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "0",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "3",
-        "MAIN_EFFECT": "{J} You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in target Expedition.  {R} If your Companion Expedition is behind: You may return a card from your Reserve to your hand.",
+        "MAIN_EFFECT": "{J} You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  {R} If your Companion Expedition is behind: You may return a card from your Reserve to your hand.",
         "ECHO_EFFECT": "{D} : []You may exhaust target card in Reserve."
     },
     "id": "6GREFNJP5V8ZSV3S6BNJDX4GHQ",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/JPG\/en_EN\/4f6720857648d17b62a80ac7b164d4b9.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/JPG/en_EN/4f6720857648d17b62a80ac7b164d4b9.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/YZ",
+        "@id": "/factions/YZ",
         "@type": "Faction",
         "reference": "YZ",
         "color": "#764891",
@@ -70,9 +70,9 @@
         "name": "Yzmir"
     },
     "name": "Ordis Overseer",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_16139",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_16139",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_OR_34_U_16139",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_OR_34_U_16139",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_OR_34_U_16139",
             "@type": "Card",
             "allImagePath": {
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/en_US\/848552054c9c019883bfe8cb1cc8cda3.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/5842bf01269d36a51e087bb3e04b21ac.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/es_ES\/38a6a22f7531aed71bcf3a9f80836d44.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/it_IT\/34941caa160e247ac292b735c0597435.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/de_DE\/e07ba6fe0cdb2eeafa809423bee79b74.jpg"
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/en_US/848552054c9c019883bfe8cb1cc8cda3.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/5842bf01269d36a51e087bb3e04b21ac.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/es_ES/38a6a22f7531aed71bcf3a9f80836d44.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/it_IT/34941caa160e247ac292b735c0597435.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/de_DE/e07ba6fe0cdb2eeafa809423bee79b74.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_d7a791c91ee3168f48750bc66fd69d2e",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/WEB_29cb6ed5e3b93ca4327782464de86829"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d4abb0ddf2f1f4d95fa5f7da0863c1c5",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_d7a791c91ee3168f48750bc66fd69d2e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/WEB_29cb6ed5e3b93ca4327782464de86829"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/29ddbe0ddd99d0d66b3e",
+                    "@id": "/.well-known/genid/29ddbe0ddd99d0d66b3e",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/3c3f77b15fe718d3dec8",
+                    "@id": "/.well-known/genid/3c3f77b15fe718d3dec8",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "0",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "3",
-                "MAIN_EFFECT": "{J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e.  {R} Si votre Exp\u00e9dition Compagnon est en retard\u00a0: Vous pouvez renvoyer une carte de votre R\u00e9serve dans votre main.",
+                "MAIN_EFFECT": "{J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans une Exp\u00e9dition cibl\u00e9e.  {R} Si votre Exp\u00e9dition Compagnon est en retard\u00a0: Vous pouvez renvoyer une carte de votre R\u00e9serve dans votre main.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve."
             },
             "id": "6GREFNJP5V8ZSV3S6BNJDX4GHQ",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_OR_34\/UNIQUE\/JPG\/fr_FR\/5842bf01269d36a51e087bb3e04b21ac.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_OR_34/UNIQUE/JPG/fr_FR/5842bf01269d36a51e087bb3e04b21ac.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/YZ",
+                "@id": "/factions/YZ",
                 "@type": "Faction",
                 "reference": "YZ",
                 "color": "#764891",
@@ -152,9 +152,9 @@
                 "name": "Yzmir"
             },
             "name": "Superviseuse Ordis",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_OR_34_U_16139",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_OR_34_U_16139",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

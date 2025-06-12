@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_BR_09_U_2350",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_09_U_2350",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/fr_FR\/453eea0597c605caf4972f9f71513350.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/es_ES\/d7023cf3395cc18d5a92a8d16bd2701f.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/it_IT\/1a083d19c75a778d8431d3b982cb0169.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/de_DE\/9fca58e57afdc91f2428cc2a177f3e8a.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/en_US\/7dc5194fde6d49684708bffb757bcd49.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/fr_FR/453eea0597c605caf4972f9f71513350.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/es_ES/d7023cf3395cc18d5a92a8d16bd2701f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/it_IT/1a083d19c75a778d8431d3b982cb0169.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/de_DE/9fca58e57afdc91f2428cc2a177f3e8a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/en_US/7dc5194fde6d49684708bffb757bcd49.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/dd8da7e48809bfe00084",
+            "@id": "/.well-known/genid/dd8da7e48809bfe00084",
             "reference": "APPRENTICE",
             "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
             "name": "Apprentice"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -43,18 +43,18 @@
     "elements": {
         "MAIN_COST": "2",
         "RECALL_COST": "5",
-        "MAIN_EFFECT": "{J} If you control one or more Landmarks: I gain 1 boost.  {R} []Create four [Ordis Recruit 1\/1\/1] Soldier tokens, distributed among any Expeditions.",
+        "MAIN_EFFECT": "{J} If you control one or more Landmarks: I gain 1 boost.  {R} []Create four [Ordis Recruit 1/1/1] Soldier tokens, distributed among any Expeditions.",
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "2"
     },
     "id": "5Y986VSHJY81GVHK1D2HRKP4KF",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/JPG\/en_EN\/57ba02773705d822fd96fb86e69d9e7d.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/JPG/en_EN/57ba02773705d822fd96fb86e69d9e7d.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -62,9 +62,9 @@
         "name": "Ordis"
     },
     "name": "Haven Trainee",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_09_U_2350",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_09_U_2350",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -73,26 +73,26 @@
     "reference": "ALT_COREKS_B_BR_09_U_2350",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_BR_09_U_2350",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_09_U_2350",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/fr_FR\/453eea0597c605caf4972f9f71513350.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/es_ES\/d7023cf3395cc18d5a92a8d16bd2701f.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/it_IT\/1a083d19c75a778d8431d3b982cb0169.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/de_DE\/9fca58e57afdc91f2428cc2a177f3e8a.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/en_US\/7dc5194fde6d49684708bffb757bcd49.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/fr_FR/453eea0597c605caf4972f9f71513350.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/es_ES/d7023cf3395cc18d5a92a8d16bd2701f.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/it_IT/1a083d19c75a778d8431d3b982cb0169.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/de_DE/9fca58e57afdc91f2428cc2a177f3e8a.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/en_US/7dc5194fde6d49684708bffb757bcd49.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_09\/ALT_CORE_B_BR_09_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_09/ALT_CORE_B_BR_09_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -101,14 +101,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/dc4e4a23fc9489f5c5f3",
+                    "@id": "/.well-known/genid/dc4e4a23fc9489f5c5f3",
                     "reference": "APPRENTICE",
                     "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
                     "name": "Apprenti"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -117,18 +117,18 @@
             "elements": {
                 "MAIN_COST": "2",
                 "RECALL_COST": "5",
-                "MAIN_EFFECT": "{J} Si vous contr\u00f4lez au moins un Rep\u00e8re\u00a0: Je gagne 1\u00a0boost.  {R} []Cr\u00e9ez quatre jetons Soldat [1\/1\/1 Recrue Ordis], distribu\u00e9s dans n'importe quel nombre d'Exp\u00e9ditions.",
+                "MAIN_EFFECT": "{J} Si vous contr\u00f4lez au moins un Rep\u00e8re\u00a0: Je gagne 1\u00a0boost.  {R} []Cr\u00e9ez quatre jetons Soldat [1/1/1 Recrue Ordis], distribu\u00e9s dans n'importe quel nombre d'Exp\u00e9ditions.",
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "2"
             },
             "id": "5Y986VSHJY81GVHK1D2HRKP4KF",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_09\/UNIQUE\/JPG\/fr_FR\/453eea0597c605caf4972f9f71513350.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_09/UNIQUE/JPG/fr_FR/453eea0597c605caf4972f9f71513350.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -136,9 +136,9 @@
                 "name": "Ordis"
             },
             "name": "Aspirant de Havre",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_09_U_2350",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_09_U_2350",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

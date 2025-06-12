@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_BR_13_U_896",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_13_U_896",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/fr_FR\/80cc2482226fb68ce0a4ddbe10955379.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/es_ES\/8b22e5b0a7f5c6fabb9a8b10bf3df423.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/it_IT\/d12b0fd21902b658b87fffe9672cd402.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/de_DE\/b206b40e18c23d05b91f0cf01cc68b0a.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/en_US\/b713d7ef39e2310f6d367be05165b041.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/80cc2482226fb68ce0a4ddbe10955379.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/8b22e5b0a7f5c6fabb9a8b10bf3df423.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/d12b0fd21902b658b87fffe9672cd402.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/b206b40e18c23d05b91f0cf01cc68b0a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/b713d7ef39e2310f6d367be05165b041.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/61998e16699251215338",
+            "@id": "/.well-known/genid/61998e16699251215338",
             "reference": "TRAINER",
             "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
             "name": "Trainer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/c79bf707ec5b54a0fb1e",
+            "@id": "/.well-known/genid/c79bf707ec5b54a0fb1e",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -57,12 +57,12 @@
         "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
     },
     "id": "33ZGSPCKQ99NXA52DRTHH57XR7",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/JPG\/en_EN\/3d7b2d2ee0ed1a1d222722f76928085b.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_EN/3d7b2d2ee0ed1a1d222722f76928085b.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/BR",
+        "@id": "/factions/BR",
         "@type": "Faction",
         "reference": "BR",
         "color": "#c32637",
@@ -70,9 +70,9 @@
         "name": "Bravos"
     },
     "name": "Kappa",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_13_U_896",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_896",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_BR_13_U_896",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_BR_13_U_896",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_13_U_896",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/fr_FR\/80cc2482226fb68ce0a4ddbe10955379.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/es_ES\/8b22e5b0a7f5c6fabb9a8b10bf3df423.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/it_IT\/d12b0fd21902b658b87fffe9672cd402.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/de_DE\/b206b40e18c23d05b91f0cf01cc68b0a.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/en_US\/b713d7ef39e2310f6d367be05165b041.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/80cc2482226fb68ce0a4ddbe10955379.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/8b22e5b0a7f5c6fabb9a8b10bf3df423.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/d12b0fd21902b658b87fffe9672cd402.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/b206b40e18c23d05b91f0cf01cc68b0a.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/b713d7ef39e2310f6d367be05165b041.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_BR_13\/ALT_CORE_B_BR_13_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/3f9a06d33227a3aa247d",
+                    "@id": "/.well-known/genid/3f9a06d33227a3aa247d",
                     "reference": "TRAINER",
                     "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
                     "name": "Mentor"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/fb49ce645375d5ebf822",
+                    "@id": "/.well-known/genid/fb49ce645375d5ebf822",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -139,12 +139,12 @@
                 "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour gagne 1\u00a0boost."
             },
             "id": "33ZGSPCKQ99NXA52DRTHH57XR7",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_BR_13\/UNIQUE\/JPG\/fr_FR\/80cc2482226fb68ce0a4ddbe10955379.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/80cc2482226fb68ce0a4ddbe10955379.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/BR",
+                "@id": "/factions/BR",
                 "@type": "Faction",
                 "reference": "BR",
                 "color": "#c32637",
@@ -152,9 +152,9 @@
                 "name": "Bravos"
             },
             "name": "Kappa",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_13_U_896",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_896",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

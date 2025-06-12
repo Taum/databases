@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_OR_19_U_6867",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_19_U_6867",
     "@type": "Card",
     "allImagePath": {
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/de_DE\/9213bf360c8a311e9bce37a1021c5b5f.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/it_IT\/3c0aaf9e7534ac1431adace0ecaf257b.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/fr_FR\/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/en_US\/9dd87ab600e1335daa718776e73c850f.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/es_ES\/82915e304a2f20eb91c969d6a9d5a1e8.jpg"
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/de_DE/9213bf360c8a311e9bce37a1021c5b5f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/it_IT/3c0aaf9e7534ac1431adace0ecaf257b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/fr_FR/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/en_US/9dd87ab600e1335daa718776e73c850f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/es_ES/82915e304a2f20eb91c969d6a9d5a1e8.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/7d1dfa419307955b258f",
+            "@id": "/.well-known/genid/7d1dfa419307955b258f",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/8c3ec417660eea9d9d9e",
+            "@id": "/.well-known/genid/8c3ec417660eea9d9d9e",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -50,19 +50,19 @@
     "elements": {
         "MAIN_COST": "5",
         "RECALL_COST": "5",
-        "MAIN_EFFECT": "[]If you control a token: Your other Expedition (the one I'm not in) and the Expedition facing it can't move forward.  {R} You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in your Companion Expedition.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Companion Expedition.",
+        "MAIN_EFFECT": "[]If you control a token: Your other Expedition (the one I'm not in) and the Expedition facing it can't move forward.  {R} You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in your Companion Expedition.",
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Companion Expedition.",
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "4",
         "FOREST_POWER": "3"
     },
     "id": "0FXWJEYNCK889R5TRWAC2RV31B",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/JPG\/en_EN\/90547df3cfa120980bbda7d7e1da49c3.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/JPG/en_EN/90547df3cfa120980bbda7d7e1da49c3.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Issitoq",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_19_U_6867",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_19_U_6867",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_CORE_B_OR_19_U_6867",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_OR_19_U_6867",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_19_U_6867",
             "@type": "Card",
             "allImagePath": {
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/de_DE\/9213bf360c8a311e9bce37a1021c5b5f.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/it_IT\/3c0aaf9e7534ac1431adace0ecaf257b.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/fr_FR\/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/en_US\/9dd87ab600e1335daa718776e73c850f.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/es_ES\/82915e304a2f20eb91c969d6a9d5a1e8.jpg"
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/de_DE/9213bf360c8a311e9bce37a1021c5b5f.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/it_IT/3c0aaf9e7534ac1431adace0ecaf257b.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/fr_FR/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/en_US/9dd87ab600e1335daa718776e73c850f.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/es_ES/82915e304a2f20eb91c969d6a9d5a1e8.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/ALT_CORE_B_OR_19_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/ALT_CORE_B_OR_19_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/6adf15b427e6b81c836c",
+                    "@id": "/.well-known/genid/6adf15b427e6b81c836c",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/bbcfcf1796966e056efc",
+                    "@id": "/.well-known/genid/bbcfcf1796966e056efc",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -132,19 +132,19 @@
             "elements": {
                 "MAIN_COST": "5",
                 "RECALL_COST": "5",
-                "MAIN_EFFECT": "[]Si vous contr\u00f4lez un jeton\u00a0: Votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas) et l'Exp\u00e9dition qui lui fait face ne peuvent pas avancer.  {R} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
+                "MAIN_EFFECT": "[]Si vous contr\u00f4lez un jeton\u00a0: Votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas) et l'Exp\u00e9dition qui lui fait face ne peuvent pas avancer.  {R} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition Compagnon.",
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "3"
             },
             "id": "0FXWJEYNCK889R5TRWAC2RV31B",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_19\/UNIQUE\/JPG\/fr_FR\/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_19/UNIQUE/JPG/fr_FR/9b18f4ea5036ea88a87ed54e1e77f9c5.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Issitoq",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_19_U_6867",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_19_U_6867",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

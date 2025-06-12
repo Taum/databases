@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_AX_40_U_4445",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_40_U_4445",
     "@type": "Card",
     "allImagePath": {
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/it_IT\/d448c46007846edfe05f6c71bdb8d545.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/de_DE\/f3677f0fa606c0a8c9880b7acc2dd6c2.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/es_ES\/139521272fcd2ff45badbc660a8136c3.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/43155484eec1e6b2a86c45100385316b.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/en_US\/9433325fbd0e1597c35fb564704a3c16.jpg"
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/d448c46007846edfe05f6c71bdb8d545.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/f3677f0fa606c0a8c9880b7acc2dd6c2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/139521272fcd2ff45badbc660a8136c3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/43155484eec1e6b2a86c45100385316b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/9433325fbd0e1597c35fb564704a3c16.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_68412e665a821f3c25f027ed3404f1de",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_f1955915662d7bfff1f71a2cee357ce6",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_7994b67d44a7cac843eb1009f8b9963f"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/3eb2a6134d1e4f6efb18",
+            "@id": "/.well-known/genid/3eb2a6134d1e4f6efb18",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/7cacf6a969733df9fbc5",
+            "@id": "/.well-known/genid/7cacf6a969733df9fbc5",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "7",
         "OCEAN_POWER": "4",
         "FOREST_POWER": "6",
-        "MAIN_EFFECT": "{J} If you control two or more Permanents: Create a [Brassbug 2\/2\/2] Robot token in your Hero Expedition.  {R} If you control two or more Permanents: Create a [Brassbug 2\/2\/2] Robot token in each of your Expeditions.",
+        "MAIN_EFFECT": "{J} If you control two or more Permanents: Create a [Brassbug 2/2/2] Robot token in your Hero Expedition.  {R} If you control two or more Permanents: Create a [Brassbug 2/2/2] Robot token in each of your Expeditions.",
         "ECHO_EFFECT": "{D} : []You may activate the\u00a0{j} abilities of target Permanent you control."
     },
     "id": "4Z4HBQ652194S8S91A54KN7SBM",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/JPG\/en_EN\/2487445204c68057a877578c501d8591.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/en_EN/2487445204c68057a877578c501d8591.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -70,9 +70,9 @@
         "name": "Axiom"
     },
     "name": "Gibil",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_40_U_4445",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_4445",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_AX_40_U_4445",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_AX_40_U_4445",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_AX_40_U_4445",
             "@type": "Card",
             "allImagePath": {
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/it_IT\/d448c46007846edfe05f6c71bdb8d545.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/de_DE\/f3677f0fa606c0a8c9880b7acc2dd6c2.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/es_ES\/139521272fcd2ff45badbc660a8136c3.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/43155484eec1e6b2a86c45100385316b.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/en_US\/9433325fbd0e1597c35fb564704a3c16.jpg"
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/d448c46007846edfe05f6c71bdb8d545.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/f3677f0fa606c0a8c9880b7acc2dd6c2.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/139521272fcd2ff45badbc660a8136c3.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/43155484eec1e6b2a86c45100385316b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/9433325fbd0e1597c35fb564704a3c16.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_68412e665a821f3c25f027ed3404f1de",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_f1955915662d7bfff1f71a2cee357ce6",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_7994b67d44a7cac843eb1009f8b9963f"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/3bf417fb27e729f9eaa6",
+                    "@id": "/.well-known/genid/3bf417fb27e729f9eaa6",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/37983675be505a56a26f",
+                    "@id": "/.well-known/genid/37983675be505a56a26f",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "7",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{J} Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans votre Exp\u00e9dition H\u00e9ros.  {R} Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans chacune de vos Exp\u00e9ditions.",
+                "MAIN_EFFECT": "{J} Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans votre Exp\u00e9dition H\u00e9ros.  {R} Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans chacune de vos Exp\u00e9ditions.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez activer les capacit\u00e9s\u00a0{j} d'un Permanent cibl\u00e9 que vous contr\u00f4lez."
             },
             "id": "4Z4HBQ652194S8S91A54KN7SBM",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/43155484eec1e6b2a86c45100385316b.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/43155484eec1e6b2a86c45100385316b.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -152,9 +152,9 @@
                 "name": "Axiom"
             },
             "name": "Gibil",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_40_U_4445",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_4445",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

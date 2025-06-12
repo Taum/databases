@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_AX_40_U_3094",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_40_U_3094",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/ec8af8b91987aedebee3e90997bc7906.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/de_DE\/3239119d9bb6ebbf2d4b4b9f532047ce.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/es_ES\/365ff20599aab855ec32161ef771676a.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/it_IT\/39379b3e67610866e4cd1a1c39b93128.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/en_US\/086e720b01a85650cffbe4823b983ae2.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/ec8af8b91987aedebee3e90997bc7906.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/3239119d9bb6ebbf2d4b4b9f532047ce.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/365ff20599aab855ec32161ef771676a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/39379b3e67610866e4cd1a1c39b93128.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/086e720b01a85650cffbe4823b983ae2.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_68412e665a821f3c25f027ed3404f1de",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_f1955915662d7bfff1f71a2cee357ce6",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_7994b67d44a7cac843eb1009f8b9963f"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/7e751fa2616fcb411664",
+            "@id": "/.well-known/genid/7e751fa2616fcb411664",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/a93bbe9cd2532d88ff0f",
+            "@id": "/.well-known/genid/a93bbe9cd2532d88ff0f",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "7",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "7",
-        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If you do: Each Robot you control other than me gains 1 boost.  When I leave the Expedition zone\u00a0\u2014 If you control two or more Landmarks: Create two [Brassbug 2\/2\/2] Robot tokens in target Expedition, otherwise create only one.",
+        "MAIN_EFFECT": "{R} You may put a card from your hand in Reserve. If you do: Each Robot you control other than me gains 1 boost.  When I leave the Expedition zone\u00a0\u2014 If you control two or more Landmarks: Create two [Brassbug 2/2/2] Robot tokens in target Expedition, otherwise create only one.",
         "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
     },
     "id": "2H6TPTZHSW9MTR6TJCPRADA9HR",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/JPG\/en_EN\/9799a6c0d1481d29d3d59bb7b9950f60.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/JPG/en_EN/9799a6c0d1481d29d3d59bb7b9950f60.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -70,9 +70,9 @@
         "name": "Axiom"
     },
     "name": "Gibil",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_40_U_3094",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_3094",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_AX_40_U_3094",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_AX_40_U_3094",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_AX_40_U_3094",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/ec8af8b91987aedebee3e90997bc7906.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/de_DE\/3239119d9bb6ebbf2d4b4b9f532047ce.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/es_ES\/365ff20599aab855ec32161ef771676a.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/it_IT\/39379b3e67610866e4cd1a1c39b93128.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/en_US\/086e720b01a85650cffbe4823b983ae2.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/ec8af8b91987aedebee3e90997bc7906.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/3239119d9bb6ebbf2d4b4b9f532047ce.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/365ff20599aab855ec32161ef771676a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/39379b3e67610866e4cd1a1c39b93128.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/086e720b01a85650cffbe4823b983ae2.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_68412e665a821f3c25f027ed3404f1de",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_f1955915662d7bfff1f71a2cee357ce6",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/WEB_7994b67d44a7cac843eb1009f8b9963f"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/7a2381b546ead7bcdc3f",
+                    "@id": "/.well-known/genid/7a2381b546ead7bcdc3f",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/01f951834f4458d6457c",
+                    "@id": "/.well-known/genid/01f951834f4458d6457c",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "7",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "7",
-                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: Chaque Robot que vous contr\u00f4lez autre que moi gagne 1\u00a0boost.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Si vous contr\u00f4lez au moins deux Rep\u00e8res\u00a0: Cr\u00e9ez deux jetons Robot [2\/2\/2 Scarabot] dans une Exp\u00e9dition cibl\u00e9e. Sinon, cr\u00e9ez-en un seul.",
+                "MAIN_EFFECT": "{R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: Chaque Robot que vous contr\u00f4lez autre que moi gagne 1\u00a0boost.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Si vous contr\u00f4lez au moins deux Rep\u00e8res\u00a0: Cr\u00e9ez deux jetons Robot [2/2/2 Scarabot] dans une Exp\u00e9dition cibl\u00e9e. Sinon, cr\u00e9ez-en un seul.",
                 "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour gagne 1\u00a0boost."
             },
             "id": "2H6TPTZHSW9MTR6TJCPRADA9HR",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_AX_40\/UNIQUE\/JPG\/fr_FR\/ec8af8b91987aedebee3e90997bc7906.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/ec8af8b91987aedebee3e90997bc7906.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -152,9 +152,9 @@
                 "name": "Axiom"
             },
             "name": "Gibil",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_AX_40_U_3094",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_3094",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_MU_50_U_10542",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_50_U_10542",
     "@type": "Card",
     "allImagePath": {
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/UNIQUE\/JPG\/en_US\/1fe30d9bbdc20d91569b13da47f2c88b.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/it_IT\/a657d95ca556573a04903b6baa8716ed.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/es_ES\/88c0c6bea594360dacad2e4af0860f94.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/de_DE\/0cfd2bb4c3f6b0f03131b71fb56755d1.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/UNIQUE\/JPG\/fr_FR\/5daf354675a7725d8921abea6499175f.jpg"
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/en_US/1fe30d9bbdc20d91569b13da47f2c88b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/a657d95ca556573a04903b6baa8716ed.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/88c0c6bea594360dacad2e4af0860f94.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/0cfd2bb4c3f6b0f03131b71fb56755d1.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/5daf354675a7725d8921abea6499175f.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_57af396206cdacd09c53aee9b5a998a9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/549fb268ed7bdf95e081",
+            "@id": "/.well-known/genid/549fb268ed7bdf95e081",
             "reference": "ANIMAL",
             "id": "01HKAGQS36Z3DP166MZW8KRAEK",
             "name": "Animal"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/35bb12537a3f2f825cd5",
+            "@id": "/.well-known/genid/35bb12537a3f2f825cd5",
             "reference": "PLANT",
             "id": "01HKAGSB49H24XWW17AAY441MT",
             "name": "Plant"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "1",
-        "MAIN_EFFECT": "{H} []Create two [Ordis Recruit 1\/1\/1] Soldier tokens distributed among any Expeditions.  {R} You may sacrifice a Character or Permanent. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in your other Expedition (the one I'm not in).",
+        "MAIN_EFFECT": "{H} []Create two [Ordis Recruit 1/1/1] Soldier tokens distributed among any Expeditions.  {R} You may sacrifice a Character or Permanent. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in your other Expedition (the one I'm not in).",
         "ECHO_EFFECT": "{I} When another Character joins your Expeditions\u00a0\u2014 []I gain 1 boost, up to a max of 2."
     },
     "id": "2F08T1SW409KNB5J1Z9XXMKJ8R",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/en_EN\/3962c18a211e4aadd69ddcd1753a801d.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/en_EN/3962c18a211e4aadd69ddcd1753a801d.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Bumblebeet",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_MU_50_U_10542",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_U_10542",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_BISE_B_MU_50_U_10542",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_MU_50_U_10542",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_MU_50_U_10542",
             "@type": "Card",
             "allImagePath": {
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/UNIQUE\/JPG\/en_US\/1fe30d9bbdc20d91569b13da47f2c88b.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/it_IT\/a657d95ca556573a04903b6baa8716ed.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/es_ES\/88c0c6bea594360dacad2e4af0860f94.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/JPG\/de_DE\/0cfd2bb4c3f6b0f03131b71fb56755d1.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/UNIQUE\/JPG\/fr_FR\/5daf354675a7725d8921abea6499175f.jpg"
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/en_US/1fe30d9bbdc20d91569b13da47f2c88b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/a657d95ca556573a04903b6baa8716ed.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/88c0c6bea594360dacad2e4af0860f94.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/0cfd2bb4c3f6b0f03131b71fb56755d1.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/5daf354675a7725d8921abea6499175f.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_57af396206cdacd09c53aee9b5a998a9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/2ed4065c0e1c576ceba2",
+                    "@id": "/.well-known/genid/2ed4065c0e1c576ceba2",
                     "reference": "ANIMAL",
                     "id": "01HKAGQS36Z3DP166MZW8KRAEK",
                     "name": "Animal"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/89a17bb801e92d1d9dfe",
+                    "@id": "/.well-known/genid/89a17bb801e92d1d9dfe",
                     "reference": "PLANT",
                     "id": "01HKAGSB49H24XWW17AAY441MT",
                     "name": "Plante"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "1",
-                "MAIN_EFFECT": "{H} []Cr\u00e9ez deux jetons Soldat [1\/1\/1 Recrue Ordis], distribu\u00e9s dans n'importe quel nombre d'Exp\u00e9ditions.  {R} Vous pouvez sacrifier un Personnage ou un Permanent. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).",
+                "MAIN_EFFECT": "{H} []Cr\u00e9ez deux jetons Soldat [1/1/1 Recrue Ordis], distribu\u00e9s dans n'importe quel nombre d'Exp\u00e9ditions.  {R} Vous pouvez sacrifier un Personnage ou un Permanent. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas).",
                 "ECHO_EFFECT": "{I} Lorsqu'un autre Personnage rejoint vos Exp\u00e9ditions\u00a0\u2014 []Je gagne 1\u00a0boost, jusqu'\u00e0 un maximum de 2."
             },
             "id": "2F08T1SW409KNB5J1Z9XXMKJ8R",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_MU_50\/UNIQUE\/JPG\/fr_FR\/5daf354675a7725d8921abea6499175f.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/5daf354675a7725d8921abea6499175f.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Bumblebeet",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_MU_50_U_10542",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_U_10542",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

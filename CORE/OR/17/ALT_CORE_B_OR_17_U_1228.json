@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_OR_17_U_1228",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_17_U_1228",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/fr_FR\/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/es_ES\/b43ce954459bed0b52ee0c461c3d351e.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/it_IT\/38109df10a746820a2fa80bb4197eb44.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/de_DE\/8d35a32109d450e52f7de5ca40e8f7c7.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/en_US\/84a227b85db113299a2e96dbccf1b3c3.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/fr_FR/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/es_ES/b43ce954459bed0b52ee0c461c3d351e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/it_IT/38109df10a746820a2fa80bb4197eb44.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/de_DE/8d35a32109d450e52f7de5ca40e8f7c7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/en_US/84a227b85db113299a2e96dbccf1b3c3.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/402ae0f21e5547dd40e0",
+            "@id": "/.well-known/genid/402ae0f21e5547dd40e0",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -46,16 +46,16 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in each of your Expeditions.",
+        "MAIN_EFFECT": "When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in each of your Expeditions.",
         "ECHO_EFFECT": "{D} : []You may have target Character gain [[Fleeting]]."
     },
     "id": "7EV3X9FK719SXR0FB3F53PFA4N",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/JPG\/en_EN\/376c8d7dd427a507881eaadf9b3fdc33.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/JPG/en_EN/376c8d7dd427a507881eaadf9b3fdc33.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Jeanne d'Arc",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_17_U_1228",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_17_U_1228",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_CORE_B_OR_17_U_1228",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_OR_17_U_1228",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_17_U_1228",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/fr_FR\/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/es_ES\/b43ce954459bed0b52ee0c461c3d351e.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/it_IT\/38109df10a746820a2fa80bb4197eb44.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/de_DE\/8d35a32109d450e52f7de5ca40e8f7c7.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/en_US\/84a227b85db113299a2e96dbccf1b3c3.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/fr_FR/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/es_ES/b43ce954459bed0b52ee0c461c3d351e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/it_IT/38109df10a746820a2fa80bb4197eb44.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/de_DE/8d35a32109d450e52f7de5ca40e8f7c7.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/en_US/84a227b85db113299a2e96dbccf1b3c3.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/ALT_CORE_B_OR_17_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/ALT_CORE_B_OR_17_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/b25ff0da151362665772",
+                    "@id": "/.well-known/genid/b25ff0da151362665772",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -121,16 +121,16 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions.",
+                "MAIN_EFFECT": "Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9."
             },
             "id": "7EV3X9FK719SXR0FB3F53PFA4N",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_17\/UNIQUE\/JPG\/fr_FR\/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_17/UNIQUE/JPG/fr_FR/4ca66b5be7f362f5ebf4cb09d5918993.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Jeanne d'Arc",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_17_U_1228",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_17_U_1228",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

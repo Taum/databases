@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_AX_04_U_3011",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_04_U_3011",
     "@type": "Card",
     "allImagePath": {
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/es_ES\/10123897667190d0bf181284f25b222d.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/it_IT\/2fc5da1d78d9a1752d8e91719eac563a.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/de_DE\/bad879ef2a248cc2c637f30435514b75.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/fr_FR\/5f7f2e2be088ac93713ee122df790acc.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/en_US\/bb2057cc1964a7f2f273d735fda8c99f.jpg"
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/10123897667190d0bf181284f25b222d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/2fc5da1d78d9a1752d8e91719eac563a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/bad879ef2a248cc2c637f30435514b75.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/5f7f2e2be088ac93713ee122df790acc.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/bb2057cc1964a7f2f273d735fda8c99f.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/dca1af0058b1864a3bf7",
+            "@id": "/.well-known/genid/dca1af0058b1864a3bf7",
             "reference": "ELEMENTAL",
             "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
             "name": "Elemental"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -49,12 +49,12 @@
         "MAIN_EFFECT": "{R} []You may put a card from your hand in Reserve.  When I gain 1 or more boosts\u00a0\u2014 []You may have target Character with Hand Cost\u00a0{3} or less other than me gain [[Anchored]]."
     },
     "id": "1SJEEZACHD8BWR38S4NWJVCWGP",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/JPG\/en_EN\/ee4b138e3a76fc12270cf55c507c3e9e.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/JPG/en_EN/ee4b138e3a76fc12270cf55c507c3e9e.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/MU",
+        "@id": "/factions/MU",
         "@type": "Faction",
         "reference": "MU",
         "color": "#3d6b42",
@@ -62,9 +62,9 @@
         "name": "Muna"
     },
     "name": "Kelon Elemental",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_04_U_3011",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_04_U_3011",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -73,26 +73,26 @@
     "reference": "ALT_COREKS_B_AX_04_U_3011",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_AX_04_U_3011",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_04_U_3011",
             "@type": "Card",
             "allImagePath": {
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/es_ES\/10123897667190d0bf181284f25b222d.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/it_IT\/2fc5da1d78d9a1752d8e91719eac563a.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/de_DE\/bad879ef2a248cc2c637f30435514b75.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/fr_FR\/5f7f2e2be088ac93713ee122df790acc.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/en_US\/bb2057cc1964a7f2f273d735fda8c99f.jpg"
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/10123897667190d0bf181284f25b222d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/2fc5da1d78d9a1752d8e91719eac563a.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/bad879ef2a248cc2c637f30435514b75.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/5f7f2e2be088ac93713ee122df790acc.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/bb2057cc1964a7f2f273d735fda8c99f.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_04\/ALT_CORE_B_AX_04_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -101,14 +101,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/6fd206f1f6fa9072a7d0",
+                    "@id": "/.well-known/genid/6fd206f1f6fa9072a7d0",
                     "reference": "ELEMENTAL",
                     "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
                     "name": "\u00c9l\u00e9mentaire"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -123,12 +123,12 @@
                 "MAIN_EFFECT": "{R} []Vous pouvez mettre une carte de votre main en R\u00e9serve.  Lorsque je gagne au moins 1\u00a0boost\u00a0\u2014 []Vous pouvez faire gagner [[Ancr\u00e9]] \u00e0 un Personnage cibl\u00e9 de Co\u00fbt de Main\u00a0{3} ou moins autre que moi."
             },
             "id": "1SJEEZACHD8BWR38S4NWJVCWGP",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_04\/UNIQUE\/JPG\/fr_FR\/5f7f2e2be088ac93713ee122df790acc.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/5f7f2e2be088ac93713ee122df790acc.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/MU",
+                "@id": "/factions/MU",
                 "@type": "Faction",
                 "reference": "MU",
                 "color": "#3d6b42",
@@ -136,9 +136,9 @@
                 "name": "Muna"
             },
             "name": "\u00c9l\u00e9mentaire de K\u00e9lon",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_04_U_3011",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_04_U_3011",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

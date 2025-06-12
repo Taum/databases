@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_YZ_53_U_2625",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_53_U_2625",
     "@type": "Card",
     "allImagePath": {
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/UNIQUE\/JPG\/en_US\/13d76f34b3f0b9deba44786d3464215a.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/it_IT\/8f0b5c15812b77727d179c6b4f33c53c.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/de_DE\/3c0c033f9a9e86ce4e35c14dba5f0dd9.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/UNIQUE\/JPG\/fr_FR\/be5be4e180e847d5a5afd26e377f5a22.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/es_ES\/98b243d376ac8b663db6090357b2412a.jpg"
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/en_US/13d76f34b3f0b9deba44786d3464215a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/8f0b5c15812b77727d179c6b4f33c53c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/de_DE/3c0c033f9a9e86ce4e35c14dba5f0dd9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/be5be4e180e847d5a5afd26e377f5a22.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/es_ES/98b243d376ac8b663db6090357b2412a.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_5b7d227ded645fa688f2f753aeb72b01",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_beacf345e1aebbee43477559f5dbe84e",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_0e776ebc0e30bf2fc909eb8f35728348"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_5b7d227ded645fa688f2f753aeb72b01",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_beacf345e1aebbee43477559f5dbe84e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_0e776ebc0e30bf2fc909eb8f35728348"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,28 +27,28 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/2095fc13081e4a22cec6",
+            "@id": "/.well-known/genid/2095fc13081e4a22cec6",
             "reference": "BUREAUCRAT",
             "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
             "name": "Bureaucrat"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/46f8de16a3bedc223002",
+            "@id": "/.well-known/genid/46f8de16a3bedc223002",
             "reference": "MAGE",
             "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
             "name": "Mage"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/b3b44b446add115646f2",
+            "@id": "/.well-known/genid/b3b44b446add115646f2",
             "reference": "MESSENGER",
             "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
             "name": "Messenger"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -60,15 +60,15 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "3",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{J} You may pay\u00a0{1}. If you do: Remove up to 2 counters from target card in play or in Reserve.  {H} If you control one or more Landmarks: Create an [Ordis Recruit 1\/1\/1] Soldier token in each of your Expeditions, otherwise create one in my Expedition."
+        "MAIN_EFFECT": "{J} You may pay\u00a0{1}. If you do: Remove up to 2 counters from target card in play or in Reserve.  {H} If you control one or more Landmarks: Create an [Ordis Recruit 1/1/1] Soldier token in each of your Expeditions, otherwise create one in my Expedition."
     },
     "id": "7Q04MSQ4X29TRVGVE30TB4ZXEW",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/en_EN\/5e67c5fa52750ea95ce3deb738a4e76a.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/en_EN/5e67c5fa52750ea95ce3deb738a4e76a.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -76,9 +76,9 @@
         "name": "Ordis"
     },
     "name": "Qorgan Informant",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_YZ_53_U_2625",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_53_U_2625",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -87,26 +87,26 @@
     "reference": "ALT_BISE_B_YZ_53_U_2625",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_YZ_53_U_2625",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_53_U_2625",
             "@type": "Card",
             "allImagePath": {
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/UNIQUE\/JPG\/en_US\/13d76f34b3f0b9deba44786d3464215a.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/it_IT\/8f0b5c15812b77727d179c6b4f33c53c.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/de_DE\/3c0c033f9a9e86ce4e35c14dba5f0dd9.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/UNIQUE\/JPG\/fr_FR\/be5be4e180e847d5a5afd26e377f5a22.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/JPG\/es_ES\/98b243d376ac8b663db6090357b2412a.jpg"
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/en_US/13d76f34b3f0b9deba44786d3464215a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/8f0b5c15812b77727d179c6b4f33c53c.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/de_DE/3c0c033f9a9e86ce4e35c14dba5f0dd9.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/be5be4e180e847d5a5afd26e377f5a22.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/es_ES/98b243d376ac8b663db6090357b2412a.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_5b7d227ded645fa688f2f753aeb72b01",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_beacf345e1aebbee43477559f5dbe84e",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/WEB_0e776ebc0e30bf2fc909eb8f35728348"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_5b7d227ded645fa688f2f753aeb72b01",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_beacf345e1aebbee43477559f5dbe84e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_0e776ebc0e30bf2fc909eb8f35728348"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -115,28 +115,28 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/5b4a5872bff06445f27a",
+                    "@id": "/.well-known/genid/5b4a5872bff06445f27a",
                     "reference": "BUREAUCRAT",
                     "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
                     "name": "Bureaucrate"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/00b192e70c989c9adac3",
+                    "@id": "/.well-known/genid/00b192e70c989c9adac3",
                     "reference": "MAGE",
                     "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
                     "name": "Mage"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/9028e990c7674446c798",
+                    "@id": "/.well-known/genid/9028e990c7674446c798",
                     "reference": "MESSENGER",
                     "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
                     "name": "\u00c9missaire"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -148,15 +148,15 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Retirez jusqu'\u00e0 2\u00a0compteurs d'une carte cibl\u00e9e en jeu ou en R\u00e9serve.  {H} Si vous contr\u00f4lez au moins un Rep\u00e8re\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions. Sinon, cr\u00e9ez-en un dans mon Exp\u00e9dition."
+                "MAIN_EFFECT": "{J} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Retirez jusqu'\u00e0 2\u00a0compteurs d'une carte cibl\u00e9e en jeu ou en R\u00e9serve.  {H} Si vous contr\u00f4lez au moins un Rep\u00e8re\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions. Sinon, cr\u00e9ez-en un dans mon Exp\u00e9dition."
             },
             "id": "7Q04MSQ4X29TRVGVE30TB4ZXEW",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_YZ_53\/UNIQUE\/JPG\/fr_FR\/be5be4e180e847d5a5afd26e377f5a22.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/be5be4e180e847d5a5afd26e377f5a22.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -164,9 +164,9 @@
                 "name": "Ordis"
             },
             "name": "Qorgan Informant",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_YZ_53_U_2625",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_53_U_2625",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

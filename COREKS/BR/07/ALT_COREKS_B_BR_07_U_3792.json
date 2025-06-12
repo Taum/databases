@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_BR_07_U_3792",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_07_U_3792",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/fr_FR\/a7e2ec974d43b9a6b76b83229261864c.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/en_US\/6cc5157c6ed0831a8e99844fbac9ff39.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/es_ES\/2cfe3f04993d85d2a7028121d2f8801f.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/de_DE\/890801b968ecaa36969f58d741e09baa.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/it_IT\/761d18d0e46a0386cf7a96db65855659.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/a7e2ec974d43b9a6b76b83229261864c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/en_US/6cc5157c6ed0831a8e99844fbac9ff39.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/es_ES/2cfe3f04993d85d2a7028121d2f8801f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/de_DE/890801b968ecaa36969f58d741e09baa.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/it_IT/761d18d0e46a0386cf7a96db65855659.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_67442c6ed097f684fad572fc98c75e52",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_e626c066f0f833b1b103b67257b7c29b"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_67442c6ed097f684fad572fc98c75e52",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_e626c066f0f833b1b103b67257b7c29b"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/b88c77adb1102bc1a9c2",
+            "@id": "/.well-known/genid/b88c77adb1102bc1a9c2",
             "reference": "ADVENTURER",
             "id": "01HKAGPC92CGHANVSRSC8R8ES6",
             "name": "Adventurer"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -49,12 +49,12 @@
         "MAIN_EFFECT": "{J} []I gain [[Fleeting]].  {H} []Target Character in your other Expedition (the one I'm not in) gains 2 boosts."
     },
     "id": "77CJX2SFSR9F1STXAMC7DBQ89S",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/JPG\/en_EN\/f4728348f69a40f5c5224b2bf8483796.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/JPG/en_EN/f4728348f69a40f5c5224b2bf8483796.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/BR",
+        "@id": "/factions/BR",
         "@type": "Faction",
         "reference": "BR",
         "color": "#c32637",
@@ -62,9 +62,9 @@
         "name": "Bravos"
     },
     "name": "Bravos Tracer",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_07_U_3792",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_07_U_3792",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -73,26 +73,26 @@
     "reference": "ALT_COREKS_B_BR_07_U_3792",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_BR_07_U_3792",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_07_U_3792",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/fr_FR\/a7e2ec974d43b9a6b76b83229261864c.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/en_US\/6cc5157c6ed0831a8e99844fbac9ff39.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/es_ES\/2cfe3f04993d85d2a7028121d2f8801f.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/de_DE\/890801b968ecaa36969f58d741e09baa.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/it_IT\/761d18d0e46a0386cf7a96db65855659.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/a7e2ec974d43b9a6b76b83229261864c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/en_US/6cc5157c6ed0831a8e99844fbac9ff39.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/es_ES/2cfe3f04993d85d2a7028121d2f8801f.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/de_DE/890801b968ecaa36969f58d741e09baa.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/it_IT/761d18d0e46a0386cf7a96db65855659.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_67442c6ed097f684fad572fc98c75e52",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/WEB_e626c066f0f833b1b103b67257b7c29b"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_67442c6ed097f684fad572fc98c75e52",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_e626c066f0f833b1b103b67257b7c29b"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -101,14 +101,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/489f8d6d3eba4ebcff4a",
+                    "@id": "/.well-known/genid/489f8d6d3eba4ebcff4a",
                     "reference": "ADVENTURER",
                     "id": "01HKAGPC92CGHANVSRSC8R8ES6",
                     "name": "Aventurier"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -123,12 +123,12 @@
                 "MAIN_EFFECT": "{J} []Je gagne [[Fugace]].  {H} []Un Personnage cibl\u00e9 dans votre autre Exp\u00e9dition (celle o\u00f9 je ne suis pas) gagne 2\u00a0boosts."
             },
             "id": "77CJX2SFSR9F1STXAMC7DBQ89S",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_COREKS_B_BR_07\/UNIQUE\/JPG\/fr_FR\/a7e2ec974d43b9a6b76b83229261864c.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/a7e2ec974d43b9a6b76b83229261864c.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/BR",
+                "@id": "/factions/BR",
                 "@type": "Faction",
                 "reference": "BR",
                 "color": "#c32637",
@@ -136,9 +136,9 @@
                 "name": "Bravos"
             },
             "name": "Traceuse Bravos",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_BR_07_U_3792",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_07_U_3792",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

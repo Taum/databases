@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_AX_06_U_3008",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_06_U_3008",
     "@type": "Card",
     "allImagePath": {
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/de_DE\/4f485cf94c13d573879e93ac443a6fc5.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/en_US\/b5a6f18c901e9fb94247e7ef4244750b.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/fr_FR\/a490f43ec7b4add877feae23107e9b72.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/it_IT\/35c0667dca477f70529bc1989a171c43.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/es_ES\/f18635c965bd33df82366275fb02f631.jpg"
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/4f485cf94c13d573879e93ac443a6fc5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/b5a6f18c901e9fb94247e7ef4244750b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/a490f43ec7b4add877feae23107e9b72.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/35c0667dca477f70529bc1989a171c43.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/f18635c965bd33df82366275fb02f631.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/102c7edc45db95648884",
+            "@id": "/.well-known/genid/102c7edc45db95648884",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/339ebfe0254a9e791662",
+            "@id": "/.well-known/genid/339ebfe0254a9e791662",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -57,12 +57,12 @@
         "ECHO_EFFECT": "{D} : []You may have target Character gain [[Fleeting]]."
     },
     "id": "7PARYHMSCF9FHS33XXSE59PNWX",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/JPG\/en_EN\/0abb8fd90c682e80436a68ec0c94a854.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/JPG/en_EN/0abb8fd90c682e80436a68ec0c94a854.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/MU",
+        "@id": "/factions/MU",
         "@type": "Faction",
         "reference": "MU",
         "color": "#3d6b42",
@@ -70,9 +70,9 @@
         "name": "Muna"
     },
     "name": "Ogun",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_06_U_3008",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_06_U_3008",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_COREKS_B_AX_06_U_3008",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_AX_06_U_3008",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_06_U_3008",
             "@type": "Card",
             "allImagePath": {
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/de_DE\/4f485cf94c13d573879e93ac443a6fc5.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/en_US\/b5a6f18c901e9fb94247e7ef4244750b.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/fr_FR\/a490f43ec7b4add877feae23107e9b72.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/it_IT\/35c0667dca477f70529bc1989a171c43.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/es_ES\/f18635c965bd33df82366275fb02f631.jpg"
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/4f485cf94c13d573879e93ac443a6fc5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/b5a6f18c901e9fb94247e7ef4244750b.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/a490f43ec7b4add877feae23107e9b72.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/35c0667dca477f70529bc1989a171c43.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/f18635c965bd33df82366275fb02f631.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_06\/ALT_CORE_B_AX_06_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/8ca11ec3464888cf0e36",
+                    "@id": "/.well-known/genid/8ca11ec3464888cf0e36",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/7b611a644fa6a053d80c",
+                    "@id": "/.well-known/genid/7b611a644fa6a053d80c",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -139,12 +139,12 @@
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9."
             },
             "id": "7PARYHMSCF9FHS33XXSE59PNWX",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_06\/UNIQUE\/JPG\/fr_FR\/a490f43ec7b4add877feae23107e9b72.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/a490f43ec7b4add877feae23107e9b72.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/MU",
+                "@id": "/factions/MU",
                 "@type": "Faction",
                 "reference": "MU",
                 "color": "#3d6b42",
@@ -152,9 +152,9 @@
                 "name": "Muna"
             },
             "name": "Ogun",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_06_U_3008",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_06_U_3008",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

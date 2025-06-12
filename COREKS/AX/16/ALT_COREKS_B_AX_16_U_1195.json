@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_COREKS_B_AX_16_U_1195",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_16_U_1195",
     "@type": "Card",
     "allImagePath": {
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/fr_FR\/a789d62b423eecf91ac81125240e48fa.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/es_ES\/8665520ae7a11d87cbf542c696ed022d.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/it_IT\/6641463be04b3f99c880458e1962834c.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/en_US\/dcdef193e2596bbc7d643986224a9bfa.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/de_DE\/c6dcaa3131a705e7bf467e99bf17baa0.jpg"
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/a789d62b423eecf91ac81125240e48fa.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/es_ES/8665520ae7a11d87cbf542c696ed022d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/it_IT/6641463be04b3f99c880458e1962834c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/en_US/dcdef193e2596bbc7d643986224a9bfa.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/de_DE/c6dcaa3131a705e7bf467e99bf17baa0.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/COREKS",
+        "@id": "/card_sets/COREKS",
         "@type": "CardSet",
         "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
         "reference": "COREKS",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/e49e7b8a97f4a3af62b5",
+            "@id": "/.well-known/genid/e49e7b8a97f4a3af62b5",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -46,16 +46,16 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "3",
         "FOREST_POWER": "1",
-        "MAIN_EFFECT": "{R} []Create a [Brassbug 2\/2\/2] Robot token in target Expedition.",
+        "MAIN_EFFECT": "{R} []Create a [Brassbug 2/2/2] Robot token in target Expedition.",
         "ECHO_EFFECT": "{D} : []You may put a card from your hand in Reserve."
     },
     "id": "6Y7H9VM7K59YJ8NX6375MGV4MC",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/JPG\/en_EN\/b15fc5493efca79e2f5f82bc93052895.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/JPG/en_EN/b15fc5493efca79e2f5f82bc93052895.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -63,9 +63,9 @@
         "name": "Axiom"
     },
     "name": "Foundry Armorer",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_16_U_1195",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_16_U_1195",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_COREKS_B_AX_16_U_1195",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_COREKS_B_AX_16_U_1195",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_16_U_1195",
             "@type": "Card",
             "allImagePath": {
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/fr_FR\/a789d62b423eecf91ac81125240e48fa.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/es_ES\/8665520ae7a11d87cbf542c696ed022d.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/it_IT\/6641463be04b3f99c880458e1962834c.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/en_US\/dcdef193e2596bbc7d643986224a9bfa.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/de_DE\/c6dcaa3131a705e7bf467e99bf17baa0.jpg"
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/a789d62b423eecf91ac81125240e48fa.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/es_ES/8665520ae7a11d87cbf542c696ed022d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/it_IT/6641463be04b3f99c880458e1962834c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/en_US/dcdef193e2596bbc7d643986224a9bfa.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/de_DE/c6dcaa3131a705e7bf467e99bf17baa0.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_AX_16\/ALT_CORE_B_AX_16_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/COREKS",
+                "@id": "/card_sets/COREKS",
                 "@type": "CardSet",
                 "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
                 "reference": "COREKS",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/b054684481f12214b03b",
+                    "@id": "/.well-known/genid/b054684481f12214b03b",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -121,16 +121,16 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "1",
-                "MAIN_EFFECT": "{R} []Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans une Exp\u00e9dition cibl\u00e9e.",
+                "MAIN_EFFECT": "{R} []Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans une Exp\u00e9dition cibl\u00e9e.",
                 "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez mettre une carte de votre main en R\u00e9serve."
             },
             "id": "6Y7H9VM7K59YJ8NX6375MGV4MC",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/COREKS\/CARDS\/ALT_CORE_B_AX_16\/UNIQUE\/JPG\/fr_FR\/a789d62b423eecf91ac81125240e48fa.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/a789d62b423eecf91ac81125240e48fa.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -138,9 +138,9 @@
                 "name": "Axiom"
             },
             "name": "Armuri\u00e8re de la Fonderie",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_COREKS_B_AX_16_U_1195",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_16_U_1195",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_LY_38_U_17855",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_LY_38_U_17855",
     "@type": "Card",
     "allImagePath": {
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/es_ES\/3f2aefd1d5c427db7aa243233f0ba71e.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/it_IT\/dc18961c72e2931d3f179d340861b08f.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/en_US\/89fa5d426cc168b7b73dca0334d87bd0.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/de_DE\/0f4ceae8bbfb0550fde3eb89c611c54d.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/c2c2974804baee19cc904dfda7d69f0f.jpg"
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/es_ES/3f2aefd1d5c427db7aa243233f0ba71e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/it_IT/dc18961c72e2931d3f179d340861b08f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/en_US/89fa5d426cc168b7b73dca0334d87bd0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/de_DE/0f4ceae8bbfb0550fde3eb89c611c54d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/c2c2974804baee19cc904dfda7d69f0f.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_9207577aa48ea126cc345ac85550d439",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c04651d7f573cb5c152d08eecea4cd0d",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/2905044f6b6f098d75e2",
+            "@id": "/.well-known/genid/2905044f6b6f098d75e2",
             "reference": "SOLDIER",
             "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
             "name": "Soldier"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/1cda5006706531c690bd",
+            "@id": "/.well-known/genid/1cda5006706531c690bd",
             "reference": "DEITY",
             "id": "01HKAGPAJFS4YDQVKY6AB16614",
             "name": "Deity"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,15 +53,15 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{J} []You may have target Character switch Expeditions.  When I leave the Expedition zone\u00a0\u2014 If you control two or more Permanents: Create an [Ordis Recruit 1\/1\/1] Soldier token in each of your Expeditions, otherwise create one in my Expedition.  When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: You may discard target Permanent with Hand Cost\u00a0{4} or more."
+        "MAIN_EFFECT": "{J} []You may have target Character switch Expeditions.  When I leave the Expedition zone\u00a0\u2014 If you control two or more Permanents: Create an [Ordis Recruit 1/1/1] Soldier token in each of your Expeditions, otherwise create one in my Expedition.  When I leave the Expedition zone\u00a0\u2014 You may pay\u00a0{1}. If you do: You may discard target Permanent with Hand Cost\u00a0{4} or more."
     },
     "id": "4FX7TQ3JNW8KD9DQF9ZBY92PK5",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/JPG\/en_EN\/70b2fd60afcaa589e422c3771b9e3022.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/JPG/en_EN/70b2fd60afcaa589e422c3771b9e3022.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -69,9 +69,9 @@
         "name": "Ordis"
     },
     "name": "Heimdall",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_LY_38_U_17855",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_U_17855",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -80,26 +80,26 @@
     "reference": "ALT_ALIZE_B_LY_38_U_17855",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_LY_38_U_17855",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_LY_38_U_17855",
             "@type": "Card",
             "allImagePath": {
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/es_ES\/3f2aefd1d5c427db7aa243233f0ba71e.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/it_IT\/dc18961c72e2931d3f179d340861b08f.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/en_US\/89fa5d426cc168b7b73dca0334d87bd0.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/de_DE\/0f4ceae8bbfb0550fde3eb89c611c54d.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/c2c2974804baee19cc904dfda7d69f0f.jpg"
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/es_ES/3f2aefd1d5c427db7aa243233f0ba71e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/it_IT/dc18961c72e2931d3f179d340861b08f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/en_US/89fa5d426cc168b7b73dca0334d87bd0.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/de_DE/0f4ceae8bbfb0550fde3eb89c611c54d.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/c2c2974804baee19cc904dfda7d69f0f.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_9207577aa48ea126cc345ac85550d439",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c04651d7f573cb5c152d08eecea4cd0d",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/WEB_c77d6de55d9fd325e292dbf60a3890d4"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_9207577aa48ea126cc345ac85550d439",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c04651d7f573cb5c152d08eecea4cd0d",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/WEB_c77d6de55d9fd325e292dbf60a3890d4"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -108,21 +108,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/ca7403446cb908ef3803",
+                    "@id": "/.well-known/genid/ca7403446cb908ef3803",
                     "reference": "SOLDIER",
                     "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
                     "name": "Soldat"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/4dc0aea8d263b7d34b1e",
+                    "@id": "/.well-known/genid/4dc0aea8d263b7d34b1e",
                     "reference": "DEITY",
                     "id": "01HKAGPAJFS4YDQVKY6AB16614",
                     "name": "Divinit\u00e9"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -134,15 +134,15 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{J} []Vous pouvez faire changer d'Exp\u00e9dition un Personnage cibl\u00e9.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions. Sinon, cr\u00e9ez-en un dans mon Exp\u00e9dition.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Vous pouvez d\u00e9fausser un Permanent cibl\u00e9 de Co\u00fbt de Main\u00a0{4} ou plus."
+                "MAIN_EFFECT": "{J} []Vous pouvez faire changer d'Exp\u00e9dition un Personnage cibl\u00e9.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Si vous contr\u00f4lez au moins deux Permanents\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans chacune de vos Exp\u00e9ditions. Sinon, cr\u00e9ez-en un dans mon Exp\u00e9dition.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Vous pouvez d\u00e9fausser un Permanent cibl\u00e9 de Co\u00fbt de Main\u00a0{4} ou plus."
             },
             "id": "4FX7TQ3JNW8KD9DQF9ZBY92PK5",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_LY_38\/UNIQUE\/JPG\/fr_FR\/c2c2974804baee19cc904dfda7d69f0f.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_LY_38/UNIQUE/JPG/fr_FR/c2c2974804baee19cc904dfda7d69f0f.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -150,9 +150,9 @@
                 "name": "Ordis"
             },
             "name": "Heimdall",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_LY_38_U_17855",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_LY_38_U_17855",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

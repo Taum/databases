@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_ALIZE_B_BR_32_U_11833",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_BR_32_U_11833",
     "@type": "Card",
     "allImagePath": {
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/en_US\/823a775cdd32a07c16b88ae8bc7b6fb6.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/de_DE\/9ad59c0971029c54be3621d58e9101e4.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/es_ES\/d4078a8b31aef01d539b2ecc8e260dd9.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/fr_FR\/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/it_IT\/8875cfaa1dbf2098bc27f3d295831223.jpg"
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/en_US/823a775cdd32a07c16b88ae8bc7b6fb6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/de_DE/9ad59c0971029c54be3621d58e9101e4.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/es_ES/d4078a8b31aef01d539b2ecc8e260dd9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/fr_FR/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/it_IT/8875cfaa1dbf2098bc27f3d295831223.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_ecd22757d73477fd48b6bcc15e233f6d",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_0a6b07195d27235c0c876f928511c6f6"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_ecd22757d73477fd48b6bcc15e233f6d",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_0a6b07195d27235c0c876f928511c6f6"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/ALIZE",
+        "@id": "/card_sets/ALIZE",
         "@type": "CardSet",
         "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
         "reference": "ALIZE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/f461efd9ba2e189d8c73",
+            "@id": "/.well-known/genid/f461efd9ba2e189d8c73",
             "reference": "ANIMAL",
             "id": "01HKAGQS36Z3DP166MZW8KRAEK",
             "name": "Animal"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/419eb598d82d2d561940",
+            "@id": "/.well-known/genid/419eb598d82d2d561940",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -50,19 +50,19 @@
     "elements": {
         "MAIN_COST": "3",
         "RECALL_COST": "3",
-        "MAIN_EFFECT": "{J} []Up to one target Character gains [[Asleep]]. You may give it 2 boosts.  {H} You may have me gain [[Fleeting]]. If you do: Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition.",
+        "MAIN_EFFECT": "{J} []Up to one target Character gains [[Asleep]]. You may give it 2 boosts.  {H} You may have me gain [[Fleeting]]. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.",
         "ECHO_EFFECT": "{D} : []The next card you play this turn costs\u00a0{1} less.",
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "0",
         "FOREST_POWER": "2"
     },
     "id": "0B9FWEHF4B9AK8P09WMQCW4HWZ",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/JPG\/en_EN\/1e0cd65fe34161164dfa62ad32efdb08.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/JPG/en_EN/1e0cd65fe34161164dfa62ad32efdb08.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -70,9 +70,9 @@
         "name": "Ordis"
     },
     "name": "Fire Rabbit",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_BR_32_U_11833",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_32_U_11833",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_ALIZE_B_BR_32_U_11833",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_ALIZE_B_BR_32_U_11833",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_BR_32_U_11833",
             "@type": "Card",
             "allImagePath": {
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/en_US\/823a775cdd32a07c16b88ae8bc7b6fb6.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/de_DE\/9ad59c0971029c54be3621d58e9101e4.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/es_ES\/d4078a8b31aef01d539b2ecc8e260dd9.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/fr_FR\/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/it_IT\/8875cfaa1dbf2098bc27f3d295831223.jpg"
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/en_US/823a775cdd32a07c16b88ae8bc7b6fb6.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/de_DE/9ad59c0971029c54be3621d58e9101e4.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/es_ES/d4078a8b31aef01d539b2ecc8e260dd9.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/fr_FR/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/it_IT/8875cfaa1dbf2098bc27f3d295831223.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_ecd22757d73477fd48b6bcc15e233f6d",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/WEB_0a6b07195d27235c0c876f928511c6f6"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_ecd22757d73477fd48b6bcc15e233f6d",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_009a5ebbc48a0c9e221efbfeadd4a138",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/WEB_0a6b07195d27235c0c876f928511c6f6"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/ALIZE",
+                "@id": "/card_sets/ALIZE",
                 "@type": "CardSet",
                 "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
                 "reference": "ALIZE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/fbcf6b5b121eb7addbe8",
+                    "@id": "/.well-known/genid/fbcf6b5b121eb7addbe8",
                     "reference": "ANIMAL",
                     "id": "01HKAGQS36Z3DP166MZW8KRAEK",
                     "name": "Animal"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/f4da4831e9ecc160ac77",
+                    "@id": "/.well-known/genid/f4da4831e9ecc160ac77",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -132,19 +132,19 @@
             "elements": {
                 "MAIN_COST": "3",
                 "RECALL_COST": "3",
-                "MAIN_EFFECT": "{J} []Jusqu'\u00e0 un Personnage cibl\u00e9 gagne [[Endormi]]. Vous pouvez lui donner 2\u00a0boosts.  {H} Vous pouvez me faire gagner [[Fugace]]. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
+                "MAIN_EFFECT": "{J} []Jusqu'\u00e0 un Personnage cibl\u00e9 gagne [[Endormi]]. Vous pouvez lui donner 2\u00a0boosts.  {H} Vous pouvez me faire gagner [[Fugace]]. Si vous le faites\u00a0: Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros.",
                 "ECHO_EFFECT": "{D}\u00a0: []La prochaine carte que vous jouez ce tour co\u00fbte\u00a0{1} de moins.",
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "0",
                 "FOREST_POWER": "2"
             },
             "id": "0B9FWEHF4B9AK8P09WMQCW4HWZ",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/ALIZE\/CARDS\/ALT_ALIZE_B_BR_32\/UNIQUE\/JPG\/fr_FR\/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_32/UNIQUE/JPG/fr_FR/f1038cea79cacdfb4427bf9b11aea0b9.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -152,9 +152,9 @@
                 "name": "Ordis"
             },
             "name": "Lapin Ardent",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_ALIZE_B_BR_32_U_11833",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_32_U_11833",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

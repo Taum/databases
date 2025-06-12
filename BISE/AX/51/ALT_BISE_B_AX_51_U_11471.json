@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_BISE_B_AX_51_U_11471",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_51_U_11471",
     "@type": "Card",
     "allImagePath": {
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/es_ES\/f4d2a4d51d6240cfbd513d12667b9da0.jpg",
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/it_IT\/3740c037e7de2b594f98031f056e3c7f.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/en_US\/b0909b728a6ca94c0c72eef3ea85fd4c.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/de_DE\/ae850bf27790461c0ccaba028c447cba.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/7cb24c3cd3193c950338aae145bc264c.jpg"
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/f4d2a4d51d6240cfbd513d12667b9da0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/3740c037e7de2b594f98031f056e3c7f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/b0909b728a6ca94c0c72eef3ea85fd4c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/ae850bf27790461c0ccaba028c447cba.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/7cb24c3cd3193c950338aae145bc264c.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_70b9d2617d7cb71b447301e3fc6791e9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/BISE",
+        "@id": "/card_sets/BISE",
         "@type": "CardSet",
         "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
         "reference": "BISE",
@@ -27,21 +27,21 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/82a103829b2b7d5484a1",
+            "@id": "/.well-known/genid/82a103829b2b7d5484a1",
             "reference": "ENGINEER",
             "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
             "name": "Engineer"
         },
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/adf11dd72461c7c54dc3",
+            "@id": "/.well-known/genid/adf11dd72461c7c54dc3",
             "reference": "ROBOT",
             "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
             "name": "Robot"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -53,16 +53,16 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "0",
-        "MAIN_EFFECT": "{J} You may put a card from your hand in Reserve. If it's a Permanent: [Resupply].  {R} []Create a [Brassbug 2\/2\/2] Robot token in your Companion Expedition.",
+        "MAIN_EFFECT": "{J} You may put a card from your hand in Reserve. If it's a Permanent: [Resupply].  {R} []Create a [Brassbug 2/2/2] Robot token in your Companion Expedition.",
         "ECHO_EFFECT": "{I} At Noon\u00a0\u2014 []Choose one:  \u2022 I gain 1 boost, up to a max of 3.  \u2022 {T} : I gain 2 boosts, up to a max of 3."
     },
     "id": "3NBN3JGN408XQR405EF0Y749E9",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/en_EN\/02c1b83ee78644b75d9a5b997cdac0b4.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/en_EN/02c1b83ee78644b75d9a5b997cdac0b4.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/AX",
+        "@id": "/factions/AX",
         "@type": "Faction",
         "reference": "AX",
         "color": "#8c432a",
@@ -70,9 +70,9 @@
         "name": "Axiom"
     },
     "name": "Designer Drone",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_AX_51_U_11471",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11471",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -81,26 +81,26 @@
     "reference": "ALT_BISE_B_AX_51_U_11471",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_BISE_B_AX_51_U_11471",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_51_U_11471",
             "@type": "Card",
             "allImagePath": {
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/es_ES\/f4d2a4d51d6240cfbd513d12667b9da0.jpg",
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/it_IT\/3740c037e7de2b594f98031f056e3c7f.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/en_US\/b0909b728a6ca94c0c72eef3ea85fd4c.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/JPG\/de_DE\/ae850bf27790461c0ccaba028c447cba.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/7cb24c3cd3193c950338aae145bc264c.jpg"
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/f4d2a4d51d6240cfbd513d12667b9da0.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/3740c037e7de2b594f98031f056e3c7f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/b0909b728a6ca94c0c72eef3ea85fd4c.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/ae850bf27790461c0ccaba028c447cba.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/7cb24c3cd3193c950338aae145bc264c.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_70b9d2617d7cb71b447301e3fc6791e9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/BISE",
+                "@id": "/card_sets/BISE",
                 "@type": "CardSet",
                 "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
                 "reference": "BISE",
@@ -109,21 +109,21 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/d950168c817c4eee4014",
+                    "@id": "/.well-known/genid/d950168c817c4eee4014",
                     "reference": "ENGINEER",
                     "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
                     "name": "Ing\u00e9nieur"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/635b1074057ac173082f",
+                    "@id": "/.well-known/genid/635b1074057ac173082f",
                     "reference": "ROBOT",
                     "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
                     "name": "Robot"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -135,16 +135,16 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "0",
-                "MAIN_EFFECT": "{J} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si c'est un Permanent\u00a0: [Ravitaillez].  {R} []Cr\u00e9ez un jeton Robot [2\/2\/2 Scarabot] dans votre Exp\u00e9dition Compagnon.",
+                "MAIN_EFFECT": "{J} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si c'est un Permanent\u00a0: [Ravitaillez].  {R} []Cr\u00e9ez un jeton Robot [2/2/2 Scarabot] dans votre Exp\u00e9dition Compagnon.",
                 "ECHO_EFFECT": "{I} \u00c0 Midi\u00a0\u2014 []Choisissez l'un\u00a0:  \u2022 Je gagne 1\u00a0boost, jusqu'\u00e0 un max de\u00a03.  \u2022 {T}\u00a0: Je gagne 2\u00a0boosts, jusqu'\u00e0 un max de\u00a03."
             },
             "id": "3NBN3JGN408XQR405EF0Y749E9",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/BISE\/CARDS\/ALT_BISE_B_AX_51\/UNIQUE\/JPG\/fr_FR\/7cb24c3cd3193c950338aae145bc264c.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/7cb24c3cd3193c950338aae145bc264c.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/AX",
+                "@id": "/factions/AX",
                 "@type": "Faction",
                 "reference": "AX",
                 "color": "#8c432a",
@@ -152,9 +152,9 @@
                 "name": "Axiom"
             },
             "name": "Designer Drone",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_BISE_B_AX_51_U_11471",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11471",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",

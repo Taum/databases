@@ -1,24 +1,24 @@
 {
-    "@context": "\/contexts\/Card",
-    "@id": "\/cards\/ALT_CORE_B_OR_07_U_1313",
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_07_U_1313",
     "@type": "Card",
     "allImagePath": {
-        "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/it_IT\/5514ad0c64e321ec75115da6fb208589.jpg",
-        "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/es_ES\/431a87d43db5fe2f99cb95dc524f742e.jpg",
-        "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/de_DE\/5ac09a855096109ab90c44fcfc4138bf.jpg",
-        "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/en_US\/f7673fa6a08868277d5cf458d3f8d1d5.jpg",
-        "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/fr_FR\/57cd09cdc7947af60c751fc047a0b25c.jpg"
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/it_IT/5514ad0c64e321ec75115da6fb208589.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/es_ES/431a87d43db5fe2f99cb95dc524f742e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/de_DE/5ac09a855096109ab90c44fcfc4138bf.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/en_US/f7673fa6a08868277d5cf458d3f8d1d5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/fr_FR/57cd09cdc7947af60c751fc047a0b25c.jpg"
     },
     "assets": {
         "WEB": [
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_C_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_R_WEB.jpg",
-            "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_U_WEB.jpg"
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_U_WEB.jpg"
         ]
     },
     "cardRulings": [],
     "cardSet": {
-        "@id": "\/card_sets\/CORE",
+        "@id": "/card_sets/CORE",
         "@type": "CardSet",
         "id": "01HKAFJN3HG3TWKYV0E014K01G",
         "reference": "CORE",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "\/.well-known\/genid\/8a03b967e15e880640cc",
+            "@id": "/.well-known/genid/8a03b967e15e880640cc",
             "reference": "SCHOLAR",
             "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
             "name": "Scholar"
         }
     ],
     "cardType": {
-        "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
         "@type": "CardType",
         "reference": "CHARACTER",
         "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -47,15 +47,15 @@
         "OCEAN_POWER": "1",
         "FOREST_POWER": "2",
         "MAIN_EFFECT": "{J} If you control a token: Characters you control gain 1 boost.",
-        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1\/1\/1] Soldier token in your Hero Expedition."
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition."
     },
     "id": "1HGTT16Z5M9SBA3KB69WEYTR9S",
-    "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/JPG\/en_EN\/2e3c3f5b1ebe211d3e8940cb1843bc56.jpg",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/JPG/en_EN/2e3c3f5b1ebe211d3e8940cb1843bc56.jpg",
     "isSuspended": false,
     "loreEntries": [],
     "lowerPrice": 0,
     "mainFaction": {
-        "@id": "\/factions\/OR",
+        "@id": "/factions/OR",
         "@type": "Faction",
         "reference": "OR",
         "color": "#0f6593",
@@ -63,9 +63,9 @@
         "name": "Ordis"
     },
     "name": "Monolith Rune-Scribe",
-    "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_07_U_1313",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_07_U_1313",
     "rarity": {
-        "@id": "\/rarities\/UNIQUE",
+        "@id": "/rarities/UNIQUE",
         "@type": "Rarity",
         "reference": "UNIQUE",
         "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
@@ -74,26 +74,26 @@
     "reference": "ALT_CORE_B_OR_07_U_1313",
     "translations": {
         "fr-fr": {
-            "@context": "\/contexts\/Card",
-            "@id": "\/cards\/ALT_CORE_B_OR_07_U_1313",
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_07_U_1313",
             "@type": "Card",
             "allImagePath": {
-                "it-it": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/it_IT\/5514ad0c64e321ec75115da6fb208589.jpg",
-                "es-es": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/es_ES\/431a87d43db5fe2f99cb95dc524f742e.jpg",
-                "de-de": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/de_DE\/5ac09a855096109ab90c44fcfc4138bf.jpg",
-                "en-us": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/en_US\/f7673fa6a08868277d5cf458d3f8d1d5.jpg",
-                "fr-fr": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/fr_FR\/57cd09cdc7947af60c751fc047a0b25c.jpg"
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/it_IT/5514ad0c64e321ec75115da6fb208589.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/es_ES/431a87d43db5fe2f99cb95dc524f742e.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/de_DE/5ac09a855096109ab90c44fcfc4138bf.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/en_US/f7673fa6a08868277d5cf458d3f8d1d5.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/fr_FR/57cd09cdc7947af60c751fc047a0b25c.jpg"
             },
             "assets": {
                 "WEB": [
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_C_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_R_WEB.jpg",
-                    "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/ALT_CORE_B_OR_07_U_WEB.jpg"
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/ALT_CORE_B_OR_07_U_WEB.jpg"
                 ]
             },
             "cardRulings": [],
             "cardSet": {
-                "@id": "\/card_sets\/CORE",
+                "@id": "/card_sets/CORE",
                 "@type": "CardSet",
                 "id": "01HKAFJN3HG3TWKYV0E014K01G",
                 "reference": "CORE",
@@ -102,14 +102,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "\/.well-known\/genid\/48a5e5e975bb8b0e5c98",
+                    "@id": "/.well-known/genid/48a5e5e975bb8b0e5c98",
                     "reference": "SCHOLAR",
                     "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
                     "name": "\u00c9rudit"
                 }
             ],
             "cardType": {
-                "@id": "\/card_types\/01H19NWA92A4ERAC4ATMSZNASS",
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
                 "@type": "CardType",
                 "reference": "CHARACTER",
                 "id": "01H19NWA92A4ERAC4ATMSZNASS",
@@ -122,15 +122,15 @@
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "2",
                 "MAIN_EFFECT": "{J} Si vous contr\u00f4lez un jeton\u00a0: Les Personnages que vous contr\u00f4lez gagnent 1\u00a0boost.",
-                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1\/1\/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
+                "ECHO_EFFECT": "{D}\u00a0: []Cr\u00e9ez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Exp\u00e9dition H\u00e9ros."
             },
             "id": "1HGTT16Z5M9SBA3KB69WEYTR9S",
-            "imagePath": "https:\/\/altered-prod-eu.s3.amazonaws.com\/Art\/CORE\/CARDS\/ALT_CORE_B_OR_07\/UNIQUE\/JPG\/fr_FR\/57cd09cdc7947af60c751fc047a0b25c.jpg",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_07/UNIQUE/JPG/fr_FR/57cd09cdc7947af60c751fc047a0b25c.jpg",
             "isSuspended": false,
             "loreEntries": [],
             "lowerPrice": 0,
             "mainFaction": {
-                "@id": "\/factions\/OR",
+                "@id": "/factions/OR",
                 "@type": "Faction",
                 "reference": "OR",
                 "color": "#0f6593",
@@ -138,9 +138,9 @@
                 "name": "Ordis"
             },
             "name": "Scribe Runique du Monolithe",
-            "qrUrlDetail": "https:\/\/qr.altered.gg\/ALT_CORE_B_OR_07_U_1313",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_07_U_1313",
             "rarity": {
-                "@id": "\/rarities\/UNIQUE",
+                "@id": "/rarities/UNIQUE",
                 "@type": "Rarity",
                 "reference": "UNIQUE",
                 "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
