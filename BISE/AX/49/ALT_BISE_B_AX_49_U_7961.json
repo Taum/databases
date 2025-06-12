@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_AX_49_U_7961",
     "@type": "Card",
@@ -27,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/8108e912b4cd018454c0",
+            "@id": "/.well-known/genid/71755f1aff666cef0a03",
             "reference": "ANIMAL",
             "id": "01HKAGQS36Z3DP166MZW8KRAEK",
             "name": "Animal"
@@ -43,7 +43,7 @@
     "elements": {
         "MAIN_COST": "2",
         "RECALL_COST": "1",
-        "ECHO_EFFECT": "{D} : []The next card you play this turn costs\u00a0{1} less.",
+        "ECHO_EFFECT": "{D} : []The next card you play this turn costs {1} less.",
         "MOUNTAIN_POWER": "0",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "0",
@@ -102,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/f6887527769c6386747d",
+                    "@id": "/.well-known/genid/5df074117d8429acbd2d",
                     "reference": "ANIMAL",
                     "id": "01HKAGQS36Z3DP166MZW8KRAEK",
                     "name": "Animal"
@@ -118,11 +118,11 @@
             "elements": {
                 "MAIN_COST": "2",
                 "RECALL_COST": "1",
-                "ECHO_EFFECT": "{D}\u00a0: []La prochaine carte que vous jouez ce tour co\u00fbte\u00a0{1} de moins.",
+                "ECHO_EFFECT": "{D} : []La prochaine carte que vous jouez ce tour coûte {1} de moins.",
                 "MOUNTAIN_POWER": "0",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "0",
-                "MAIN_EFFECT": "{J} []Vous pouvez [Amplifier] une carte cibl\u00e9e en jeu ou en R\u00e9serve.  {H} Si votre R\u00e9serve est vide\u00a0: [Ravitaillez \u00c9puis\u00e9]."
+                "MAIN_EFFECT": "{J} []Vous pouvez [Amplifier] une carte ciblée en jeu ou en Réserve.  {H} Si votre Réserve est vide : [Ravitaillez Épuisé]."
             },
             "id": "3EC5BM256C84PV8DKGVBSA4Q7H",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_49/UNIQUE/JPG/fr_FR/fb874f82f394188c7dc57d3150b252b3.jpg",
@@ -137,7 +137,7 @@
                 "id": "01GE7AC9XBG707G19F03A95TH1",
                 "name": "Axiom"
             },
-            "name": "Sap Sniffer",
+            "name": "Renifleur de Sève",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_49_U_7961",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

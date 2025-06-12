@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_13386",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/9923ded77eadc4c3ea27c724fa563404.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/a3d8b79bb9fd5f37e6a437210a581298.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/76ad088f951e0cfdb206",
+            "@id": "/.well-known/genid/f078ed9f0dbce5081bec",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -78,7 +84,13 @@
                 "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/9923ded77eadc4c3ea27c724fa563404.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/a3d8b79bb9fd5f37e6a437210a581298.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/fafde274717cfdfb8da3",
+                    "@id": "/.well-known/genid/923dd0d36e474e249a62",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{J} Si votre R\u00e9serve est vide\u00a0: Mettez la premi\u00e8re carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana \u00e9puis\u00e9).  {H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.",
-                "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour gagne 1\u00a0boost."
+                "MAIN_EFFECT": "{J} Si votre Réserve est vide : Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).  {H} []Défaussez toutes les autres cartes en jeu et en Réserve.",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
             },
             "id": "0GZAPG90Q68BSS9QPY2DMTXH0Y",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/e20bab60ff96d25ca8a1dbd7acc6e283.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_13386",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

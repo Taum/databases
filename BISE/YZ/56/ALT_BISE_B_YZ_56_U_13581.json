@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_13581",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/7da37ef4c07eeb4a27885728303d700e.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/399fc0741967bc88fe840c59e754dc35.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/a12e08db5a9a3dc1a4ac",
+            "@id": "/.well-known/genid/430c515174fa3911d330",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "5",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "6",
-        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} You may pay\u00a0{1}. If you do: Draw two cards, otherwise draw a card.",
+        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} You may pay {1}. If you do: Draw two cards, otherwise draw a card.",
         "ECHO_EFFECT": "{D} : []You may [Augment] target card in play or in Reserve."
     },
     "id": "4MSSNSQSKB8VTAYQTYETZYEYCR",
@@ -78,7 +84,13 @@
                 "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/7da37ef4c07eeb4a27885728303d700e.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/399fc0741967bc88fe840c59e754dc35.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/f54305ecaf431dd552a6",
+                    "@id": "/.well-known/genid/5dd4f1a869a37a5696f0",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "5",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: Piochez deux cartes. Sinon, piochez une carte.",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez [Amplifier] une carte cibl\u00e9e en jeu ou en R\u00e9serve."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  {R} Vous pouvez payer {1}. Si vous le faites : Piochez deux cartes. Sinon, piochez une carte.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez [Amplifier] une carte ciblée en jeu ou en Réserve."
             },
             "id": "4MSSNSQSKB8VTAYQTYETZYEYCR",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/ae582de1ba0280dc8b8f906d2b86e0f7.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_13581",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

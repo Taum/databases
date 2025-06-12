@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_12479",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/865f51260517afbcb36fa939fd66645c.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/9c71ad2f2a870acc4af0b152578e8a96.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/3df40b004db7ae0356b3",
+            "@id": "/.well-known/genid/1edc2cfd6c6aedb3471b",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -77,7 +83,13 @@
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/865f51260517afbcb36fa939fd66645c.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/9c71ad2f2a870acc4af0b152578e8a96.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -89,7 +101,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/f516ed080cdf6c61ab6d",
+                    "@id": "/.well-known/genid/54c0c5c0deddecc0144e",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -108,7 +120,7 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "6",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{J} Si vous avez au moins dix Orbes de Mana\u00a0: Piochez une carte. Sinon, [Ravitaillez].  {H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve."
+                "MAIN_EFFECT": "{J} Si vous avez au moins dix Orbes de Mana : Piochez une carte. Sinon, [Ravitaillez].  {H} []Défaussez toutes les autres cartes en jeu et en Réserve."
             },
             "id": "22C8798SES86KTN00ET4FAK9R0",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/9c71ad2f2a870acc4af0b152578e8a96.jpg",
@@ -123,7 +135,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_12479",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

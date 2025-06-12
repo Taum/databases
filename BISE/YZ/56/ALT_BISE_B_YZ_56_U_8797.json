@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_8797",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/89807c88816199f5ade77de571a60100.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/en_US/b643a132dc265153d274007acced9dcf.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/0313aa84e55e0a11965c",
+            "@id": "/.well-known/genid/ef7a03c172371834f8cf",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -78,7 +84,13 @@
                 "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/89807c88816199f5ade77de571a60100.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/en_US/b643a132dc265153d274007acced9dcf.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/21d27b0fdbe5a2c2fce6",
+                    "@id": "/.well-known/genid/d926f067a5710a35df81",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{J} []Vous pouvez renvoyer un Personnage ou Permanent cibl\u00e9 dans la main de son propri\u00e9taire.  {H} Vous pouvez d\u00e9fausser un Personnage de votre R\u00e9serve. Si vous le faites\u00a0: D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9."
+                "MAIN_EFFECT": "{J} []Vous pouvez renvoyer un Personnage ou Permanent ciblé dans la main de son propriétaire.  {H} Vous pouvez défausser un Personnage de votre Réserve. Si vous le faites : Défaussez toutes les autres cartes en jeu et en Réserve.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Fugace]] à un Personnage ciblé."
             },
             "id": "4NBMMY4MHR8XV8DKEH2XA20XV4",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/fr_FR/f087ac7fe10831ea869398e49c6b10ad.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_8797",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

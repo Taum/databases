@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_2662",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/00a377e6ab3d7c50b344068f5b074608.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/e9d6f849978ddf0590550ab98411fea9.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/c9da10faf22e1c5e9421",
+            "@id": "/.well-known/genid/407ef092487b0bcb6a6a",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -78,7 +84,13 @@
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/00a377e6ab3d7c50b344068f5b074608.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/e9d6f849978ddf0590550ab98411fea9.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/7d7aa2273087edd26062",
+                    "@id": "/.well-known/genid/8dded3912623b8ff3865",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "6",
                 "OCEAN_POWER": "6",
                 "FOREST_POWER": "4",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} Si vos deux Exp\u00e9ditions sont en retard ou \u00e0 \u00e9galit\u00e9\u00a0: Je gagne 2\u00a0boosts. Sinon, je gagne 1\u00a0boost.",
-                "ECHO_EFFECT": "{D}\u00a0: [][Apr\u00e8s vous]."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  {R} Si vos deux Expéditions sont en retard ou à égalité : Je gagne 2 boosts. Sinon, je gagne 1 boost.",
+                "ECHO_EFFECT": "{D} : [][Après vous]."
             },
             "id": "65P01A4WXA95R83K4X1P46TQQJ",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/e9d6f849978ddf0590550ab98411fea9.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_2662",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_1841",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/68642d9096639b5942df788f04aceb7a.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/d4166791db95e8368956bb6009bde3b8.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/3ccafcb376c4b7c9bb73",
+            "@id": "/.well-known/genid/7212143b518b586b787d",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "6",
-        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  At Dusk\u00a0\u2014 If both of your Expeditions are behind or tied: Draw two cards."
+        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  At Dusk — If both of your Expeditions are behind or tied: Draw two cards."
     },
     "id": "2CHQ7T6FRW9AA87Y638DMXP0MW",
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/en_EN/5dfdca84fd07a22a39336d3f3b47ecb7.jpg",
@@ -77,7 +83,13 @@
                 "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/68642d9096639b5942df788f04aceb7a.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/d4166791db95e8368956bb6009bde3b8.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -89,7 +101,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/6b1a2845ac30d89e37ec",
+                    "@id": "/.well-known/genid/06a6c71ba243b020409f",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -108,7 +120,7 @@
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "6",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  Au Cr\u00e9puscule\u00a0\u2014 Si vos deux Exp\u00e9ditions sont en retard ou \u00e0 \u00e9galit\u00e9\u00a0: Piochez deux cartes."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  Au Crépuscule — Si vos deux Expéditions sont en retard ou à égalité : Piochez deux cartes."
             },
             "id": "2CHQ7T6FRW9AA87Y638DMXP0MW",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/3129e228156f84ac6e7a25b43fd16d9a.jpg",
@@ -123,7 +135,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_1841",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

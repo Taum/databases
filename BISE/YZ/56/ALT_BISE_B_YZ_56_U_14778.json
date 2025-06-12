@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_14778",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/514dcbf9ce817487914823f06014b407.jpg",
         "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/532c5fc67ced31bad589d545e141e576.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/b1315ed03a8f8b420aba",
+            "@id": "/.well-known/genid/e145ecfa7df13c5daadb",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "5",
-        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  When I leave the Expedition zone\u00a0\u2014 []Create a [Mana Moth 2/2/2] Illusion token in your Companion Expedition.",
+        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  When I leave the Expedition zone — []Create a [Mana Moth 2/2/2] Illusion token in your Companion Expedition.",
         "ECHO_EFFECT": "{D} : []You may exhaust target card in Reserve."
     },
     "id": "4Z1AM2FZCZ8FG9GSJGKYETDJYP",
@@ -78,7 +84,13 @@
                 "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/514dcbf9ce817487914823f06014b407.jpg",
                 "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/532c5fc67ced31bad589d545e141e576.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/0ffd03f6aa718dde68cd",
+                    "@id": "/.well-known/genid/51b26b8764a74bd5ee8a",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "5",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Illusion [2/2/2 Phal\u00e8ne de Mana] dans votre Exp\u00e9dition Compagnon.",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  Lorsque je quitte la zone d'Expédition — []Créez un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Compagnon.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez épuiser une carte ciblée en Réserve."
             },
             "id": "4Z1AM2FZCZ8FG9GSJGKYETDJYP",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/3608c32820f06dc7fd3ea99be06bfc3a.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_14778",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

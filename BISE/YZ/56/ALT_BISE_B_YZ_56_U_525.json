@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_525",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/ddb60695f67d2dfee726180df8655cf5.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/6e68bbd208bcddb634d0c2d7b0b1601a.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/14c171a92bde2d3c3a06",
+            "@id": "/.well-known/genid/4625218e752b1b917b91",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "6",
         "OCEAN_POWER": "1",
         "FOREST_POWER": "4",
-        "MAIN_EFFECT": "{H} You may discard a Spell from your Reserve. If you do: Discard all other cards in play and in Reserve.  When I leave the Expedition zone, if I was [[Boosted]]\u00a0\u2014 []Draw two cards.",
+        "MAIN_EFFECT": "{H} You may discard a Spell from your Reserve. If you do: Discard all other cards in play and in Reserve.  When I leave the Expedition zone, if I was [[Boosted]] — []Draw two cards.",
         "ECHO_EFFECT": "{D} : []You may [Augment] target card in play or in Reserve."
     },
     "id": "39D48NWD6Z9HY8QYCC5T2PX4HV",
@@ -78,7 +84,13 @@
                 "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/ddb60695f67d2dfee726180df8655cf5.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/6e68bbd208bcddb634d0c2d7b0b1601a.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/ef5e691b2db8735f68c4",
+                    "@id": "/.well-known/genid/2126471e7c7bfd5267f1",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "6",
                 "OCEAN_POWER": "1",
                 "FOREST_POWER": "4",
-                "MAIN_EFFECT": "{H} Vous pouvez d\u00e9fausser un Sort de votre R\u00e9serve. Si vous le faites\u00a0: D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  Lorsque je quitte la zone d'Exp\u00e9dition, si j'\u00e9tais [[Boost\u00e9]]\u00a0\u2014 []Piochez deux cartes.",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez [Amplifier] une carte cibl\u00e9e en jeu ou en R\u00e9serve."
+                "MAIN_EFFECT": "{H} Vous pouvez défausser un Sort de votre Réserve. Si vous le faites : Défaussez toutes les autres cartes en jeu et en Réserve.  Lorsque je quitte la zone d'Expédition, si j'étais [[Boosté]] — []Piochez deux cartes.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez [Amplifier] une carte ciblée en jeu ou en Réserve."
             },
             "id": "39D48NWD6Z9HY8QYCC5T2PX4HV",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/15abe35ff5d7b52e1cfb2d7a6b10bb0e.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_525",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

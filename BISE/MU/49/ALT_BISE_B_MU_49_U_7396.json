@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_MU_49_U_7396",
     "@type": "Card",
@@ -27,14 +27,14 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/c1637faee8dfd4632f41",
+            "@id": "/.well-known/genid/c03d872b1bf2b3e9774d",
             "reference": "ANIMAL",
             "id": "01HKAGQS36Z3DP166MZW8KRAEK",
             "name": "Animal"
         },
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/5d3fe0e424370a0b49c1",
+            "@id": "/.well-known/genid/b38df5acb4d599d712c4",
             "reference": "PLANT",
             "id": "01HKAGSB49H24XWW17AAY441MT",
             "name": "Plant"
@@ -53,7 +53,7 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "2",
         "FOREST_POWER": "3",
-        "MAIN_EFFECT": "{R} You may pay\u00a0{1}. If you do: [Resupply], otherwise [Exhausted Resupply].",
+        "MAIN_EFFECT": "{R} You may pay {1}. If you do: [Resupply], otherwise [Exhausted Resupply].",
         "ECHO_EFFECT": "{D} : [][Exhausted Resupply]."
     },
     "id": "7YM060AXAT8DNAFM5ZY4DMV9C0",
@@ -109,14 +109,14 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/4051a2b692d4d5e09af3",
+                    "@id": "/.well-known/genid/0ab19c7007b89a7b678e",
                     "reference": "ANIMAL",
                     "id": "01HKAGQS36Z3DP166MZW8KRAEK",
                     "name": "Animal"
                 },
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/c6cc26ccda13ee824df5",
+                    "@id": "/.well-known/genid/d16124336da0abd6ee65",
                     "reference": "PLANT",
                     "id": "01HKAGSB49H24XWW17AAY441MT",
                     "name": "Plante"
@@ -135,8 +135,8 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "2",
                 "FOREST_POWER": "3",
-                "MAIN_EFFECT": "{R} Vous pouvez payer\u00a0{1}. Si vous le faites\u00a0: [Ravitaillez]. Sinon, [Ravitaillez \u00c9puis\u00e9].",
-                "ECHO_EFFECT": "{D}\u00a0: [][Ravitaillez \u00c9puis\u00e9]."
+                "MAIN_EFFECT": "{R} Vous pouvez payer {1}. Si vous le faites : [Ravitaillez]. Sinon, [Ravitaillez Épuisé].",
+                "ECHO_EFFECT": "{D} : [][Ravitaillez Épuisé]."
             },
             "id": "7YM060AXAT8DNAFM5ZY4DMV9C0",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_49/UNIQUE/JPG/fr_FR/824c0973326f9ceedf762d74583d92ae.jpg",
@@ -151,7 +151,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "Burrowing Noosh",
+            "name": "Fouisseur Nouch",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_49_U_7396",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_14750",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/b1319135261fcf2c57a2054a0552a419.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/4e60389b378b5aeb7d00a4ca3c9ff6fd.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/576291de2355053fd742",
+            "@id": "/.well-known/genid/6f5e58ff3cc35f341074",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "5",
         "OCEAN_POWER": "4",
         "FOREST_POWER": "4",
-        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} If you control one or more Landmarks: Create a [Mana Moth 2/2/2] Illusion token in my Expedition.  When I go to Reserve from the Expedition zone\u00a0\u2014 []Create a [Mana Moth 2/2/2] Illusion token in your Companion Expedition.",
+        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} If you control one or more Landmarks: Create a [Mana Moth 2/2/2] Illusion token in my Expedition.  When I go to Reserve from the Expedition zone — []Create a [Mana Moth 2/2/2] Illusion token in your Companion Expedition.",
         "ECHO_EFFECT": "{D} : []You may exhaust target card in Reserve."
     },
     "id": "7CQBK84S3S90MT08YKN12MXE5Y",
@@ -78,7 +84,13 @@
                 "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/b1319135261fcf2c57a2054a0552a419.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/4e60389b378b5aeb7d00a4ca3c9ff6fd.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/05e4c5deb7e788a17c1a",
+                    "@id": "/.well-known/genid/d0db9dd4f108c9fea330",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "5",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "4",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} Si vous contr\u00f4lez au moins un Rep\u00e8re\u00a0: Cr\u00e9ez un jeton Illusion [2/2/2 Phal\u00e8ne de Mana] dans mon Exp\u00e9dition.  Lorsque je vais en R\u00e9serve depuis la zone d'Exp\u00e9dition\u00a0\u2014 []Cr\u00e9ez un jeton Illusion [2/2/2 Phal\u00e8ne de Mana] dans votre Exp\u00e9dition Compagnon.",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  {R} Si vous contrôlez au moins un Repère : Créez un jeton Illusion [2/2/2 Phalène de Mana] dans mon Expédition.  Lorsque je vais en Réserve depuis la zone d'Expédition — []Créez un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Compagnon.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez épuiser une carte ciblée en Réserve."
             },
             "id": "7CQBK84S3S90MT08YKN12MXE5Y",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/4e60389b378b5aeb7d00a4ca3c9ff6fd.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
                 "name": "Yzmir"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_14750",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_4640",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/172f9cbf08f08f63afa369ce12dd24d1.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f3c6feae87429cc4c960c45e074fbeca.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/a9204c7a99046e310dbc",
+            "@id": "/.well-known/genid/1e3c26be85a9bc597053",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "5",
         "OCEAN_POWER": "5",
         "FOREST_POWER": "1",
-        "MAIN_EFFECT": "[][]{H} Discard all other cards from play and Reserve.  When a card goes to the discard pile\u00a0\u2014 I gain 1 boost.  {R} If you control two or more [[Boosted]] Characters: [Resupply], otherwise [Exhausted Resupply].",
+        "MAIN_EFFECT": "[][]{H} Discard all other cards from play and Reserve.  When a card goes to the discard pile — I gain 1 boost.  {R} If you control two or more [[Boosted]] Characters: [Resupply], otherwise [Exhausted Resupply].",
         "ECHO_EFFECT": "{D} : []The next Character you play this turn loses [[Fleeting]]."
     },
     "id": "3PWX5H7Q739S7AGFRHKB3MTPYT",
@@ -78,7 +84,13 @@
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/172f9cbf08f08f63afa369ce12dd24d1.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f3c6feae87429cc4c960c45e074fbeca.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/90deb95b39f2a7d7e21e",
+                    "@id": "/.well-known/genid/94e1619fce67093e1deb",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "5",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "1",
-                "MAIN_EFFECT": "[][]{H} D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  Lorsqu'une carte va dans la d\u00e9fausse\u00a0\u2014 Je gagne 1\u00a0boost.  {R} Si vous contr\u00f4lez au moins deux Personnages [[Boost\u00e9s]]\u00a0: [Ravitaillez]. Sinon, [Ravitaillez \u00c9puis\u00e9].",
-                "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour perd [[Fugace]]."
+                "MAIN_EFFECT": "[][]{H} Défaussez toutes les autres cartes en jeu et en Réserve.  Lorsqu'une carte va dans la défausse — Je gagne 1 boost.  {R} Si vous contrôlez au moins deux Personnages [[Boostés]] : [Ravitaillez]. Sinon, [Ravitaillez Épuisé].",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour perd [[Fugace]]."
             },
             "id": "3PWX5H7Q739S7AGFRHKB3MTPYT",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f3c6feae87429cc4c960c45e074fbeca.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_4640",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

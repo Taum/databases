@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_6764",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/9a53500215782806baa860a6600756e9.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f573dd40324a6a4c70c81274160926fe.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/0caebee3d4a30c7a63ac",
+            "@id": "/.well-known/genid/1904b4936e8c4ad50d5d",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -37,7 +43,7 @@
     "elements": {
         "MAIN_COST": "8",
         "RECALL_COST": "6",
-        "MAIN_EFFECT": "{H} You may have me gain [[Fleeting]]. If you do: Discard all other cards in play and in Reserve.  {R} You may discard a Character from your Reserve. If you do: Draw a card.  When I leave the Expedition zone\u00a0\u2014 []Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).",
+        "MAIN_EFFECT": "{H} You may have me gain [[Fleeting]]. If you do: Discard all other cards in play and in Reserve.  {R} You may discard a Character from your Reserve. If you do: Draw a card.  When I leave the Expedition zone — []Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).",
         "ECHO_EFFECT": "{D} : []You may have target Character gain [[Fleeting]].",
         "MOUNTAIN_POWER": "3",
         "OCEAN_POWER": "5",
@@ -78,7 +84,13 @@
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/9a53500215782806baa860a6600756e9.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f573dd40324a6a4c70c81274160926fe.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/369f61dae5092f3ab1a1",
+                    "@id": "/.well-known/genid/5556fb43bf2a04e9413a",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -106,8 +118,8 @@
             "elements": {
                 "MAIN_COST": "8",
                 "RECALL_COST": "6",
-                "MAIN_EFFECT": "{H} Vous pouvez me faire gagner [[Fugace]]. Si vous le faites\u00a0: D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} Vous pouvez d\u00e9fausser un Personnage de votre R\u00e9serve. Si vous le faites\u00a0: Piochez une carte.  Lorsque je quitte la zone d'Exp\u00e9dition\u00a0\u2014 []Mettez la premi\u00e8re carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana \u00e9puis\u00e9).",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez faire gagner [[Fugace]] \u00e0 un Personnage cibl\u00e9.",
+                "MAIN_EFFECT": "{H} Vous pouvez me faire gagner [[Fugace]]. Si vous le faites : Défaussez toutes les autres cartes en jeu et en Réserve.  {R} Vous pouvez défausser un Personnage de votre Réserve. Si vous le faites : Piochez une carte.  Lorsque je quitte la zone d'Expédition — []Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Fugace]] à un Personnage ciblé.",
                 "MOUNTAIN_POWER": "3",
                 "OCEAN_POWER": "5",
                 "FOREST_POWER": "6"
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_6764",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

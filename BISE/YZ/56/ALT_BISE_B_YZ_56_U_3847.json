@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_3847",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/612598e86e03cde1086edb4e240d0cd3.jpg",
         "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/85783b9d37f0fb9d3c5162fec90fadbe.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/0c65e6b770130cdedc70",
+            "@id": "/.well-known/genid/d43dce9549fb5b76b076",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "6",
         "OCEAN_POWER": "6",
         "FOREST_POWER": "4",
-        "MAIN_EFFECT": "{J} If you have ten or more Mana Orbs: You may immediately play a Character for\u00a0{3} less.  {H} You may put a card from your hand in Reserve. If you do: Discard all other cards in play and in Reserve.  {R} []Draw a card.",
+        "MAIN_EFFECT": "{J} If you have ten or more Mana Orbs: You may immediately play a Character for {3} less.  {H} You may put a card from your hand in Reserve. If you do: Discard all other cards in play and in Reserve.  {R} []Draw a card.",
         "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
     },
     "id": "4N1C9THW068SXT6YZ8TKAB625W",
@@ -78,7 +84,13 @@
                 "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/es_ES/612598e86e03cde1086edb4e240d0cd3.jpg",
                 "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/de_DE/85783b9d37f0fb9d3c5162fec90fadbe.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/0b62bfa84ded20edec75",
+                    "@id": "/.well-known/genid/b206c69871a6c0d35920",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "6",
                 "OCEAN_POWER": "6",
                 "FOREST_POWER": "4",
-                "MAIN_EFFECT": "{J} Si vous avez au moins dix Orbes de Mana\u00a0: Vous pouvez imm\u00e9diatement jouer un Personnage pour\u00a0{3} de moins.  {H} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} []Piochez une carte.",
-                "ECHO_EFFECT": "{D}\u00a0: []Le prochain Personnage que vous jouez ce tour gagne 1\u00a0boost."
+                "MAIN_EFFECT": "{J} Si vous avez au moins dix Orbes de Mana : Vous pouvez immédiatement jouer un Personnage pour {3} de moins.  {H} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Défaussez toutes les autres cartes en jeu et en Réserve.  {R} []Piochez une carte.",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
             },
             "id": "4N1C9THW068SXT6YZ8TKAB625W",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/d64a320be0a1e761e3f7c82c24f3e5b3.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_3847",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

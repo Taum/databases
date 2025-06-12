@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_5092",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/3ad73526d909b8f99088cbc42ede1a9e.jpg",
         "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/adcd5321837b783a708505d8bcc1df5c.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/6c6d49ef9d7fb57af05e",
+            "@id": "/.well-known/genid/9fe4ab9903171a45809a",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "4",
         "OCEAN_POWER": "4",
         "FOREST_POWER": "2",
-        "MAIN_EFFECT": "{J} If your Reserve is empty: I gain 2 boosts and [[Fleeting]].  {H} []Discard all other cards in play and in Reserve.  At Dusk\u00a0\u2014 If your Reserve is empty: Draw a card."
+        "MAIN_EFFECT": "{J} If your Reserve is empty: I gain 2 boosts and [[Fleeting]].  {H} []Discard all other cards in play and in Reserve.  At Dusk — If your Reserve is empty: Draw a card."
     },
     "id": "0Z5TV8KJE39PARDW4DFS9ZD38R",
     "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/en_EN/e4f3a8fdca00c32fc027c2687eb77096.jpg",
@@ -77,7 +83,13 @@
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/3ad73526d909b8f99088cbc42ede1a9e.jpg",
                 "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/adcd5321837b783a708505d8bcc1df5c.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -89,7 +101,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/908102105eef001b54a4",
+                    "@id": "/.well-known/genid/99a262e5095664dab646",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -108,7 +120,7 @@
                 "MOUNTAIN_POWER": "4",
                 "OCEAN_POWER": "4",
                 "FOREST_POWER": "2",
-                "MAIN_EFFECT": "{J} Si votre R\u00e9serve est vide\u00a0: Je gagne 2\u00a0boosts et [[Fugace]].  {H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  Au Cr\u00e9puscule\u00a0\u2014 Si votre R\u00e9serve est vide\u00a0: Piochez une carte."
+                "MAIN_EFFECT": "{J} Si votre Réserve est vide : Je gagne 2 boosts et [[Fugace]].  {H} []Défaussez toutes les autres cartes en jeu et en Réserve.  Au Crépuscule — Si votre Réserve est vide : Piochez une carte."
             },
             "id": "0Z5TV8KJE39PARDW4DFS9ZD38R",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/adcd5321837b783a708505d8bcc1df5c.jpg",
@@ -123,7 +135,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_5092",
             "rarity": {
                 "@id": "/rarities/UNIQUE",

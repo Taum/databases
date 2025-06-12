@@ -1,4 +1,4 @@
-{
+﻿{
     "@context": "/contexts/Card",
     "@id": "/cards/ALT_BISE_B_YZ_56_U_13426",
     "@type": "Card",
@@ -9,7 +9,13 @@
         "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/c96eaa172ce971a5e2d6603b4c95ab74.jpg",
         "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/44b79fdb4a8da7c5a3c983729633bea6.jpg"
     },
-    "assets": [],
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+        ]
+    },
     "cardRulings": [],
     "cardSet": {
         "@id": "/card_sets/BISE",
@@ -21,7 +27,7 @@
     "cardSubTypes": [
         {
             "@type": "CardSubType",
-            "@id": "/.well-known/genid/7b79b331e90b30f435f2",
+            "@id": "/.well-known/genid/eb1edd6d5a24b75c5ee4",
             "reference": "SPIRIT",
             "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
             "name": "Spirit"
@@ -40,7 +46,7 @@
         "MOUNTAIN_POWER": "2",
         "OCEAN_POWER": "3",
         "FOREST_POWER": "3",
-        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} You may put a card from your hand in Reserve. If you do: Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).  When I leave the Expedition zone, if I was [[Boosted]]\u00a0\u2014 []Put the top two cards of your deck in your Mana zone (as exhausted Mana Orbs).",
+        "MAIN_EFFECT": "{H} []Discard all other cards in play and in Reserve.  {R} You may put a card from your hand in Reserve. If you do: Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).  When I leave the Expedition zone, if I was [[Boosted]] — []Put the top two cards of your deck in your Mana zone (as exhausted Mana Orbs).",
         "ECHO_EFFECT": "{D} : []You may exhaust target card in Reserve."
     },
     "id": "4RGKCMJSZC98XVBK83198E5MD0",
@@ -78,7 +84,13 @@
                 "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/JPG/it_IT/c96eaa172ce971a5e2d6603b4c95ab74.jpg",
                 "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/en_US/44b79fdb4a8da7c5a3c983729633bea6.jpg"
             },
-            "assets": [],
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_75f88b9229b287c6c75411f7c8066c63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_84714aeb2fc4b0b42a623832bf5eecf9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/WEB_1f41959220568b89cd81a65ac8e40892"
+                ]
+            },
             "cardRulings": [],
             "cardSet": {
                 "@id": "/card_sets/BISE",
@@ -90,7 +102,7 @@
             "cardSubTypes": [
                 {
                     "@type": "CardSubType",
-                    "@id": "/.well-known/genid/782a2c6a77b78cec5b8c",
+                    "@id": "/.well-known/genid/c9701df7123e336a338f",
                     "reference": "SPIRIT",
                     "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
                     "name": "Esprit"
@@ -109,8 +121,8 @@
                 "MOUNTAIN_POWER": "2",
                 "OCEAN_POWER": "3",
                 "FOREST_POWER": "3",
-                "MAIN_EFFECT": "{H} []D\u00e9faussez toutes les autres cartes en jeu et en R\u00e9serve.  {R} Vous pouvez mettre une carte de votre main en R\u00e9serve. Si vous le faites\u00a0: Mettez la premi\u00e8re carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana \u00e9puis\u00e9).  Lorsque je quitte la zone d'Exp\u00e9dition, si j'\u00e9tais [[Boost\u00e9]]\u00a0\u2014 []Mettez les deux premi\u00e8res cartes de votre deck dans votre zone de Mana (en tant qu'Orbes de Mana \u00e9puis\u00e9s).",
-                "ECHO_EFFECT": "{D}\u00a0: []Vous pouvez \u00e9puiser une carte cibl\u00e9e en R\u00e9serve."
+                "MAIN_EFFECT": "{H} []Défaussez toutes les autres cartes en jeu et en Réserve.  {R} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).  Lorsque je quitte la zone d'Expédition, si j'étais [[Boosté]] — []Mettez les deux premières cartes de votre deck dans votre zone de Mana (en tant qu'Orbes de Mana épuisés).",
+                "ECHO_EFFECT": "{D} : []Vous pouvez épuiser une carte ciblée en Réserve."
             },
             "id": "4RGKCMJSZC98XVBK83198E5MD0",
             "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_56/UNIQUE/JPG/fr_FR/f2adf30b46b060a00bdf778697426642.jpg",
@@ -125,7 +137,7 @@
                 "id": "01GE7AC9WY6PK56RADXXD6P1T4",
                 "name": "Bravos"
             },
-            "name": "The Hunger",
+            "name": "L'Affamé",
             "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_56_U_13426",
             "rarity": {
                 "@id": "/rarities/UNIQUE",
