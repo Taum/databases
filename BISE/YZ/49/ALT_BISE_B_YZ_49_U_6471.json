@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_49_U_6471",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/en_US/6b50959c54232a0b97687589a5444d37.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/fr_FR/ab5f22f40fe8854acdd3c552b0962637.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/es_ES/eaff7993d3a830ab20cc26531de8f2bd.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/it_IT/b94ecf27d4e077e914a87c6aab6a003f.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/de_DE/7eb96c621eb8a28308b5b62dd1c6e9d8.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_343e5021974aca57195af829332cdeb0",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_1e6e8a780b362a611653486de4e0d3f0",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_22b1177caaf713d97e5c320ef2fae3a4"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/78dff2199ce1dd0ad9e1",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{H} If you control one or more Landmarks: The next card you play this Afternoon costs {1} less.  When I leave the Expedition zone — If you control one or more Landmarks: Draw a card.",
+        "ECHO_EFFECT": "{I} When you play another Character with a base statistic of 0 — []I gain 1 boost, up to a max of 2."
+    },
+    "id": "07WCA57F9E88NBHNHY5TYSJPR1",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/en_US/6b50959c54232a0b97687589a5444d37.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Scribbling Starfish",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_49_U_6471",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_YZ_49_U_6471",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_49_U_6471",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/4223bcd22acc2052c73d",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/fr_FR/ab5f22f40fe8854acdd3c552b0962637.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_343e5021974aca57195af829332cdeb0",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_1e6e8a780b362a611653486de4e0d3f0",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/WEB_22b1177caaf713d97e5c320ef2fae3a4"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_49_U_6471",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_YZ_49_U_6471",
+            "id": "07WCA57F9E88NBHNHY5TYSJPR1",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/en_US/6b50959c54232a0b97687589a5444d37.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/UNIQUE/JPG/fr_FR/ab5f22f40fe8854acdd3c552b0962637.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/es_ES/eaff7993d3a830ab20cc26531de8f2bd.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/it_IT/b94ecf27d4e077e914a87c6aab6a003f.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_49/JPG/de_DE/7eb96c621eb8a28308b5b62dd1c6e9d8.jpg"
+            },
+            "name": "Griffonneur Étoilé",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "{H} Si vous contrôlez au moins un Repère : La prochaine carte que vous jouez cet Après-midi coûte {1} de moins.  Lorsque je quitte la zone d'Expédition — Si vous contrôlez au moins un Repère : Piochez une carte.",
+                "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage avec une statistique de base 0 — []Je gagne 1 boost, jusqu'à un maximum de 2."
+            }
+        }
+    }
+}

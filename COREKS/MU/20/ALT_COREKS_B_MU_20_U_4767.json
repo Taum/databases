@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_20_U_4767",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/fr_FR/ba93009915873ef47e550a0b0b810120.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/en_US/efd266803120ee5e2108bba71b6cdbe2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/es_ES/18e46e280e0cde3e76138f34ade70d18.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/it_IT/6ae0cec29f1d7cf761f890133b871f19.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/de_DE/2153b724a2ef637c31712cbc51b46823.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/9d7c1a2302d279078b80",
+            "reference": "PLANT",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{J} []I gain [[Anchored]].  {H} []Up to one target Character gains [[Asleep]]. You may give it 2 boosts.",
+        "ECHO_EFFECT": "{D} : []You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]]."
+    },
+    "id": "76M48NHHM498M9MMFXP3D4P742",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/en_US/efd266803120ee5e2108bba71b6cdbe2.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Coniferal Coneman",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_20_U_4767",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_MU_20_U_4767",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_20_U_4767",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/85af66d58bcf8ceda4cc",
+                    "reference": "PLANT",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/fr_FR/ba93009915873ef47e550a0b0b810120.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_20/ALT_CORE_B_MU_20_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_20_U_4767",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_MU_20_U_4767",
+            "id": "76M48NHHM498M9MMFXP3D4P742",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/fr_FR/ba93009915873ef47e550a0b0b810120.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/en_US/efd266803120ee5e2108bba71b6cdbe2.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/es_ES/18e46e280e0cde3e76138f34ade70d18.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/it_IT/6ae0cec29f1d7cf761f890133b871f19.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_20/UNIQUE/JPG/de_DE/2153b724a2ef637c31712cbc51b46823.jpg"
+            },
+            "name": "Pignon Pugnace",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{J} []Je gagne [[Ancré]].  {H} []Jusqu'à un Personnage ciblé gagne [[Endormi]]. Vous pouvez lui donner 2 boosts.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi."
+            }
+        }
+    }
+}

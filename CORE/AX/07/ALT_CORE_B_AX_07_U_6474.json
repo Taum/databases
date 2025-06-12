@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_07_U_6474",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/es_ES/67a68009eb011222de40379b93b1e274.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/it_IT/eae657189de24b4ba5ce16aca948e075.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/de_DE/8416bc6081d74846b3f71aaf5d5083c9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/en_US/513f8fa38de08ea91d28392dafe53625.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/fb0ac1c5b3cfddb35c8719d85a32a2d0.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/3ba720ce032355c8ebe0",
+            "reference": "ENGINEER",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "1",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "{R} If you control one or more Landmarks: Up to one target Character gains [[Asleep]]. You may give it 2 boosts.",
+        "ECHO_EFFECT": "{D} : []The next Permanent you play this Afternoon costs {1} less."
+    },
+    "id": "4WYX9X5S0P8DT8AF23X7N9ZK0J",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/en_US/513f8fa38de08ea91d28392dafe53625.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Foundry Mechanic",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_07_U_6474",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_AX_07_U_6474",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_07_U_6474",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/dcc81be746e054408609",
+                    "reference": "ENGINEER",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/fb0ac1c5b3cfddb35c8719d85a32a2d0.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_07_U_6474",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_AX_07_U_6474",
+            "id": "4WYX9X5S0P8DT8AF23X7N9ZK0J",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/es_ES/67a68009eb011222de40379b93b1e274.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/it_IT/eae657189de24b4ba5ce16aca948e075.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/de_DE/8416bc6081d74846b3f71aaf5d5083c9.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/en_US/513f8fa38de08ea91d28392dafe53625.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/fb0ac1c5b3cfddb35c8719d85a32a2d0.jpg"
+            },
+            "name": "Mécanicienne de la Fonderie",
+            "elements": {
+                "MAIN_COST": "1",
+                "RECALL_COST": "1",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "{R} Si vous contrôlez au moins un Repère : Jusqu'à un Personnage ciblé gagne [[Endormi]]. Vous pouvez lui donner 2 boosts.",
+                "ECHO_EFFECT": "{D} : []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins."
+            }
+        }
+    }
+}

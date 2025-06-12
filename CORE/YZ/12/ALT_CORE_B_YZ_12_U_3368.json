@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_YZ_12_U_3368",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/fr_FR/98881e58e527598d4d82a5fc002de901.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/es_ES/476bc687e1441653375c4b74288d9baa.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/it_IT/29508bbc1618307c8bf4c9ea9b87f60e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/de_DE/464592015790f6a16c769cb033e4aad7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/en_US/3b573d97390243e82ceaa3bd2494dd09.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/99da21ff5428b4fd21a9",
+            "reference": "SCHOLAR",
+            "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+            "name": "Scholar"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "1",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{H} If you control a token: Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.",
+        "ECHO_EFFECT": "{D} : []The next Permanent you play this Afternoon costs {1} less."
+    },
+    "id": "1RE5JQFRS79EVBA22YWPZE2DNN",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/en_US/3b573d97390243e82ceaa3bd2494dd09.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Kadigiran Alchemist",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_12_U_3368",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_YZ_12_U_3368",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_YZ_12_U_3368",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/831717a4e8b03e6885d6",
+                    "reference": "SCHOLAR",
+                    "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+                    "name": "Érudit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/fr_FR/98881e58e527598d4d82a5fc002de901.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/ALT_CORE_B_YZ_12_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_12_U_3368",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_YZ_12_U_3368",
+            "id": "1RE5JQFRS79EVBA22YWPZE2DNN",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/fr_FR/98881e58e527598d4d82a5fc002de901.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/es_ES/476bc687e1441653375c4b74288d9baa.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/it_IT/29508bbc1618307c8bf4c9ea9b87f60e.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/de_DE/464592015790f6a16c769cb033e4aad7.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_12/UNIQUE/JPG/en_US/3b573d97390243e82ceaa3bd2494dd09.jpg"
+            },
+            "name": "Alchimiste du Kadigir",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "1",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{H} Si vous contrôlez un jeton : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.",
+                "ECHO_EFFECT": "{D} : []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins."
+            }
+        }
+    }
+}

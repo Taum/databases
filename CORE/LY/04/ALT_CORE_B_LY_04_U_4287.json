@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_LY_04_U_4287",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/en_US/bee089fe5362f6e84e1a3e29eeb0637d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/es_ES/0de4a13595a7867e508d98f5baa356e8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/it_IT/6b716b4c9b7157c83c55c4e3b0e0791a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/de_DE/054931a1733db840f338349bf25a02d4.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/7488bc48ed8dbb686cf4cac12e56776b.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/b07ecf084fa6460eb8e6",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/04be50b99ffb36afcf70",
+            "reference": "SPIRIT",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "When you play another Character with a base statistic of 0 — If I have 1 or more boosts: I gain 2 boosts.  At Dusk — You may discard a card from your Reserve. If you do: You may return a Spell from your Reserve to your hand.",
+        "ECHO_EFFECT": "{D} : []The next card you play this Afternoon costs {1} less."
+    },
+    "id": "1JB0Z9GWDV8YZV1VY6RCJN4MMC",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/en_US/bee089fe5362f6e84e1a3e29eeb0637d.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Martengale",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_04_U_4287",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_LY_04_U_4287",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_LY_04_U_4287",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/1da2c8ce7a44a44211c4",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/ef03c738ceee572a766f",
+                    "reference": "SPIRIT",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/7488bc48ed8dbb686cf4cac12e56776b.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_04_U_4287",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_LY_04_U_4287",
+            "id": "1JB0Z9GWDV8YZV1VY6RCJN4MMC",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/en_US/bee089fe5362f6e84e1a3e29eeb0637d.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/es_ES/0de4a13595a7867e508d98f5baa356e8.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/it_IT/6b716b4c9b7157c83c55c4e3b0e0791a.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/de_DE/054931a1733db840f338349bf25a02d4.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/7488bc48ed8dbb686cf4cac12e56776b.jpg"
+            },
+            "name": "Martengale",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "Lorsque vous jouez un autre Personnage avec une statistique de base 0 — Si j'ai au moins 1 boost : Je gagne 2 boosts.  Au Crépuscule — Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Vous pouvez renvoyer un Sort de votre Réserve dans votre main.",
+                "ECHO_EFFECT": "{D} : []La prochaine carte que vous jouez cet Après-midi coûte {1} de moins."
+            }
+        }
+    }
+}

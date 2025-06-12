@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_19_U_3587",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/de9be6d8b20db31008558f1fbc04fe02.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/en_US/b5a9539fe080e4dc9b8b82dbd56f908c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/es_ES/c11332f44a671926ee6e88a6255a51a0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/it_IT/9a7a15d852d900719eac4186c94baae6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/de_DE/039afc49d44e9a24331f34528948673d.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/3c761b96276ff82ddbd0",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/346d15ae171a6a4cf0ca",
+            "reference": "PLANT",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "7",
+        "MAIN_EFFECT": "[][]I am [Defender].  {H} If you control one or more Landmarks: Target Character in your other Expedition (the one I'm not in) gains 2 boosts.  {R} []You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]]."
+    },
+    "id": "6V6WHW54NT8SNT3JSGBFEJ5WJJ",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/en_US/b5a9539fe080e4dc9b8b82dbd56f908c.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Verdantback",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_19_U_3587",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_MU_19_U_3587",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_19_U_3587",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/f3e9b84f725bf866f4c5",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/dabc168a25c43fa6a6bb",
+                    "reference": "PLANT",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/de9be6d8b20db31008558f1fbc04fe02.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_19_U_3587",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_MU_19_U_3587",
+            "id": "6V6WHW54NT8SNT3JSGBFEJ5WJJ",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/de9be6d8b20db31008558f1fbc04fe02.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/en_US/b5a9539fe080e4dc9b8b82dbd56f908c.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/es_ES/c11332f44a671926ee6e88a6255a51a0.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/it_IT/9a7a15d852d900719eac4186c94baae6.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/de_DE/039afc49d44e9a24331f34528948673d.jpg"
+            },
+            "name": "Vertéchine",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "6",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "7",
+                "MAIN_EFFECT": "[][]Je suis [Défenseur].  {H} Si vous contrôlez au moins un Repère : Un Personnage ciblé dans votre autre Expédition (celle où je ne suis pas) gagne 2 boosts.  {R} []Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi."
+            }
+        }
+    }
+}

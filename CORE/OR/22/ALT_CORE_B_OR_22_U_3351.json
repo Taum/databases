@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_22_U_3351",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/2a55c96051b56341841d6b1fe4ce5238.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/es_ES/8ee521f0300c1b111e865461d80c7737.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/it_IT/8d472ded975d9048d66501d7f938efda.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/de_DE/1c7598b95fd79eb7fbfcbf15b8c81596.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/en_US/b0c6adbf82780eacce1b56009fa81460.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/ce8e225b80fbe4b5b8a1",
+            "reference": "BUREAUCRAT",
+            "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+            "name": "Bureaucrat"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c5b3057671d1ec02a6a9",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "When my Expedition fails to move forward during Dusk — After Rest: []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When I leave the Expedition zone — If I have 2 or more boosts: Target opponent discards a card from their hand.",
+        "ECHO_EFFECT": "{D} : []The next Spell you play this turn loses [[Fleeting]]."
+    },
+    "id": "3P8KW4287A9A1TZKJHFMXGP3TM",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/en_US/b0c6adbf82780eacce1b56009fa81460.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+    },
+    "name": "Thoth",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_22_U_3351",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_OR_22_U_3351",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_22_U_3351",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/32132951e0b87ab28960",
+                    "reference": "BUREAUCRAT",
+                    "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+                    "name": "Bureaucrate"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/f89df137ee08dba3be46",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/2a55c96051b56341841d6b1fe4ce5238.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/ALT_CORE_B_OR_22_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_22_U_3351",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_OR_22_U_3351",
+            "id": "3P8KW4287A9A1TZKJHFMXGP3TM",
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "reference": "YZ",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/fr_FR/2a55c96051b56341841d6b1fe4ce5238.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/es_ES/8ee521f0300c1b111e865461d80c7737.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/it_IT/8d472ded975d9048d66501d7f938efda.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/de_DE/1c7598b95fd79eb7fbfcbf15b8c81596.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_22/UNIQUE/JPG/en_US/b0c6adbf82780eacce1b56009fa81460.jpg"
+            },
+            "name": "Thot",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "Lorsque mon Expédition n'avance pas pendant le Crépuscule — Après le Repos : []Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée.  Lorsque je quitte la zone d'Expédition — Si j'ai au moins 2 boosts : Un adversaire ciblé défausse une carte de sa main.",
+                "ECHO_EFFECT": "{D} : []Le prochain Sort que vous jouez ce tour perd [[Fugace]]."
+            }
+        }
+    }
+}
