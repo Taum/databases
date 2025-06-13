@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_50_U_3555",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/de_DE/71d3eb97bf86be3f23875dc96e4533cb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/es_ES/682fcd5543441d178b9d6f82c51e140b.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/fr_FR/d1ad71eed3345d9a9847f33d6b1469de.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/it_IT/d1fbaa4fdc509d623c7460b24c7a9036.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/en_US/15b1e370f59a6d1f7c291ec33cc8b715.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_0f1f0a38210c3bfc9e557f22da527e53",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_9c1a8af57f7c34949cc16bd0eccbe41a",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_85db1d47ae24a577cfaaca04dbbeafad"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/0d3d435848aca08c1b12",
+            "reference": "ADVENTURER",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "{J} You may put a card from your hand in Reserve. If you do: I gain 1 boost per [[Boosted]] Character you control.  When another Character joins your Expeditions — []Target Character in play or in Reserve other than me gains 1 boost.",
+        "ECHO_EFFECT": "{D} : [][Exhausted Resupply]."
+    },
+    "id": "0FRZP2AE449XSRCAT6HRGT6CP9",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/en_US/15b1e370f59a6d1f7c291ec33cc8b715.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Spirit Wielder",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_50_U_3555",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_50_U_3555",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_50_U_3555",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/793f0b1e747d83bf519a",
+                    "reference": "ADVENTURER",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/fr_FR/d1ad71eed3345d9a9847f33d6b1469de.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_0f1f0a38210c3bfc9e557f22da527e53",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_9c1a8af57f7c34949cc16bd0eccbe41a",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/WEB_85db1d47ae24a577cfaaca04dbbeafad"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_50_U_3555",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_50_U_3555",
+            "id": "0FRZP2AE449XSRCAT6HRGT6CP9",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/de_DE/71d3eb97bf86be3f23875dc96e4533cb.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/es_ES/682fcd5543441d178b9d6f82c51e140b.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/fr_FR/d1ad71eed3345d9a9847f33d6b1469de.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/JPG/it_IT/d1fbaa4fdc509d623c7460b24c7a9036.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_50/UNIQUE/JPG/en_US/15b1e370f59a6d1f7c291ec33cc8b715.jpg"
+            },
+            "name": "Porteuse d'Esprit",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "{J} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Je gagne 1 boost par Personnage [[Boosté]] que vous contrôlez.  Lorsqu'un autre Personnage rejoint vos Expéditions — []Un Personnage ciblé autre que moi en jeu ou en Réserve gagne 1 boost.",
+                "ECHO_EFFECT": "{D} : [][Ravitaillez Épuisé]."
+            }
+        }
+    }
+}

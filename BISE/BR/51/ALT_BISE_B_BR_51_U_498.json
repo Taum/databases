@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_51_U_498",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/de_DE/a269e10d93a164deebf008b72c77da97.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/es_ES/fc4bb5fd10769b16cbe8bfeb27e36732.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/it_IT/c507af205d7c1e35bf84a7be537851d9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/en_US/87abfc6fb51f3b083227d33404a7ac88.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/fr_FR/8dd99a0305dcca76862b35bc0655b96c.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_25a5f1859f848ae14e947c08164cd949",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_eb45f1197a4d79527d9861f7347b1f63",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_cb3614922150e38005d23a666132857f"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/540bf1a7012e1729bcf8",
+            "reference": "ADVENTURER",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "At Night — If I have 1 or more boosts: [Sabotage] after Rest.  When another Character joins my Expedition — If your Reserve is empty: I gain 2 boosts.",
+        "ECHO_EFFECT": "{D} : [][Exhausted Resupply]."
+    },
+    "id": "6CBWF2HSQS8SW9KVJD67PEHY60",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/en_US/87abfc6fb51f3b083227d33404a7ac88.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Bravos Pendekar",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_51_U_498",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_51_U_498",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_51_U_498",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/012b2e2bda1f037fda52",
+                    "reference": "ADVENTURER",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/fr_FR/8dd99a0305dcca76862b35bc0655b96c.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_25a5f1859f848ae14e947c08164cd949",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_eb45f1197a4d79527d9861f7347b1f63",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/WEB_cb3614922150e38005d23a666132857f"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_51_U_498",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_51_U_498",
+            "id": "6CBWF2HSQS8SW9KVJD67PEHY60",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/de_DE/a269e10d93a164deebf008b72c77da97.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/es_ES/fc4bb5fd10769b16cbe8bfeb27e36732.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/JPG/it_IT/c507af205d7c1e35bf84a7be537851d9.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/en_US/87abfc6fb51f3b083227d33404a7ac88.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_51/UNIQUE/JPG/fr_FR/8dd99a0305dcca76862b35bc0655b96c.jpg"
+            },
+            "name": "Pendekar Bravos",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "La Nuit — Si j'ai au moins 1 boost : [Sabotez] après le Repos.  Lorsqu'un autre Personnage rejoint mon Expédition — Si votre Réserve est vide : Je gagne 2 boosts.",
+                "ECHO_EFFECT": "{D} : [][Ravitaillez Épuisé]."
+            }
+        }
+    }
+}
