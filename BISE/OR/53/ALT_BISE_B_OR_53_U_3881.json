@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_53_U_3881",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/en_US/2e45e53790ecd67f619b054921712d6e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/es_ES/a564c52cb75ce35fcc489d9f93601e70.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/de_DE/a6879ae38a9ea9f09b455b4b6f60499c.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/it_IT/afc923590ca70422483b21cad82ea0e9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/fr_FR/5811b2a9571c96c6ac0b2c30e189e7c8.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_4ac09f2db830ac1b70d309fee3d92cbb",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_3a566e302c31dbd25861ecc49327623f",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_326ea304eef2f955298a47903926e089"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/f024d7c08ecc2aec1d01",
+            "reference": "SOLDIER",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{R} You may spend 1 of my boosts. If you do: Create two [Ordis Recruit 1/1/1] Soldier tokens distributed among any Expeditions.  When I go to Reserve from the Expedition zone — If your Companion Expedition is behind: Create two [Ordis Recruit 1/1/1] Soldier tokens distributed among any Expeditions.",
+        "ECHO_EFFECT": "{I} When another Character joins your Expeditions — []I gain 1 boost, up to a max of 2."
+    },
+    "id": "2D18Q5BQSF90K9VE2E5B1P79MR",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/en_US/2e45e53790ecd67f619b054921712d6e.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Ordis Dispatcher",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_53_U_3881",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_OR_53_U_3881",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_OR_53_U_3881",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/c2393b9c3b65c8e9c61b",
+                    "reference": "SOLDIER",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/fr_FR/5811b2a9571c96c6ac0b2c30e189e7c8.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_4ac09f2db830ac1b70d309fee3d92cbb",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_3a566e302c31dbd25861ecc49327623f",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/WEB_326ea304eef2f955298a47903926e089"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_53_U_3881",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_OR_53_U_3881",
+            "id": "2D18Q5BQSF90K9VE2E5B1P79MR",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/en_US/2e45e53790ecd67f619b054921712d6e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/es_ES/a564c52cb75ce35fcc489d9f93601e70.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/de_DE/a6879ae38a9ea9f09b455b4b6f60499c.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/JPG/it_IT/afc923590ca70422483b21cad82ea0e9.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_53/UNIQUE/JPG/fr_FR/5811b2a9571c96c6ac0b2c30e189e7c8.jpg"
+            },
+            "name": "Régisseuse Ordis",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "4",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts. Si vous le faites : Créez deux jetons Soldat [1/1/1 Recrue Ordis], distribués dans n'importe quel nombre d'Expéditions.  Lorsque je vais en Réserve depuis la zone d'Expédition — Si votre Expédition Compagnon est en retard : Créez deux jetons Soldat [1/1/1 Recrue Ordis], distribués dans n'importe quel nombre d'Expéditions.",
+                "ECHO_EFFECT": "{I} Lorsqu'un autre Personnage rejoint vos Expéditions — []Je gagne 1 boost, jusqu'à un maximum de 2."
+            }
+        }
+    }
+}

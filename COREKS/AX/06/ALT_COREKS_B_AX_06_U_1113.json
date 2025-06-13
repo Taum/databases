@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_06_U_1113",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/561be675652103d095cd54b079ce6f93.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/61ff75acfed3d71bffc0b6b34cf2a355.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/5472ec6bcafc6c95154ceadcd5517f27.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/5f131675531aaf6c75c0a15dd4010fda.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/ada5dfffb0ed851d259e982cd27899de.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/2d5e176b9291fd72217e",
+            "reference": "ENGINEER",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/4862729ab40142209a3a",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{R} You may discard a card from your Reserve. If you do: The next Permanent you play this Afternoon costs {1} less.  When you play a Permanent with Hand Cost {3} or more — []Each Robot you control other than me gains 1 boost."
+    },
+    "id": "71511B5NM09E2AC4DYZXVX5PV2",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/5f131675531aaf6c75c0a15dd4010fda.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Ogun",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_06_U_1113",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_AX_06_U_1113",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_06_U_1113",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/1be6b3e13f2d7979a836",
+                    "reference": "ENGINEER",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/f40ed7313e2f04e7ae18",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/ada5dfffb0ed851d259e982cd27899de.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_06_U_1113",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_AX_06_U_1113",
+            "id": "71511B5NM09E2AC4DYZXVX5PV2",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/561be675652103d095cd54b079ce6f93.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/61ff75acfed3d71bffc0b6b34cf2a355.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/5472ec6bcafc6c95154ceadcd5517f27.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/5f131675531aaf6c75c0a15dd4010fda.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/ada5dfffb0ed851d259e982cd27899de.jpg"
+            },
+            "name": "Ogun",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{R} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.  Lorsque vous jouez un Permanent de Coût de Main {3} ou plus — []Chaque Robot que vous contrôlez autre que moi gagne 1 boost."
+            }
+        }
+    }
+}

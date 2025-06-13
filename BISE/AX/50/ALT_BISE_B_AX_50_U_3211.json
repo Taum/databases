@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_50_U_3211",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/es_ES/f2bb699158b5a1d8c3419bc5cc85f08b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/it_IT/da812f84781de7b75af87ace16db9f19.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/en_US/e521fc27480a2f05c4ec8e7ca4e88e8f.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/fr_FR/decd2e0a3b50fd2068cda44ca47cc244.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/de_DE/04acf04aef606773a5bcae14ed206400.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_bb4a868c6957a0a77c3a3e83ab97fad6",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_4ec57fc128536280040e4be94b6a25d2",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_c29b032a1cd3e30bec0b4a353e9a2b7c"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/f84a34d2e6f341a37d32",
+            "reference": "ROBOT",
+            "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+            "name": "Robot"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "{R} You may spend 1 of my boosts. If you do: Draw a card, otherwise [Resupply].  {R} You may sacrifice another Robot or Permanent. If you do: [Sabotage], otherwise [Resupply].",
+        "ECHO_EFFECT": "{I} At Noon — []Choose one:  • I gain 1 boost, up to a max of 3.  • {T} : I gain 2 boosts, up to a max of 3."
+    },
+    "id": "7BNS9WDKEB99X85B7QTQECHM3F",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/en_US/e521fc27480a2f05c4ec8e7ca4e88e8f.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Dredger Drone",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_50_U_3211",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_50_U_3211",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_50_U_3211",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/e3f598c297cab1844053",
+                    "reference": "ROBOT",
+                    "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+                    "name": "Robot"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/fr_FR/decd2e0a3b50fd2068cda44ca47cc244.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_bb4a868c6957a0a77c3a3e83ab97fad6",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_4ec57fc128536280040e4be94b6a25d2",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/WEB_c29b032a1cd3e30bec0b4a353e9a2b7c"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_50_U_3211",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_50_U_3211",
+            "id": "7BNS9WDKEB99X85B7QTQECHM3F",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/es_ES/f2bb699158b5a1d8c3419bc5cc85f08b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/it_IT/da812f84781de7b75af87ace16db9f19.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/en_US/e521fc27480a2f05c4ec8e7ca4e88e8f.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/UNIQUE/JPG/fr_FR/decd2e0a3b50fd2068cda44ca47cc244.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_50/JPG/de_DE/04acf04aef606773a5bcae14ed206400.jpg"
+            },
+            "name": "Drone Ratisseur",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "4",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "{R} Vous pouvez dépenser 1 de mes boosts. Si vous le faites : Piochez une carte. Sinon, [Ravitaillez].  {R} Vous pouvez sacrifier un autre Robot ou Permanent. Si vous le faites : [Sabotez]. Sinon, [Ravitaillez].",
+                "ECHO_EFFECT": "{I} À Midi — []Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+            }
+        }
+    }
+}

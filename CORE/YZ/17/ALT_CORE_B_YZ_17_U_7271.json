@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_YZ_17_U_7271",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/en_US/8942605094cf6d46297de22d3e234b88.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/fr_FR/ce5d458383eae9f6b2e1cbe6ca011cce.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/de_DE/c55f84d31f0420dcc65edc447fda9d4f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/es_ES/73216d45ffa9cf97a9be782a4f18ff07.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/it_IT/743effc70cda45d26d507536c8fe87a8.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/060b5a8cdcd39fd885b7",
+            "reference": "LEVIATHAN",
+            "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+            "name": "Leviathan"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "[][]All regions are {O} and lose their other terrains.  When I leave the Expedition zone — You may put a card from your hand in Reserve. If you do: Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.",
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition."
+    },
+    "id": "0C3QBF81428E9BY6NKM0SN4HPV",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/en_US/8942605094cf6d46297de22d3e234b88.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "The Kraken",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_17_U_7271",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_YZ_17_U_7271",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_YZ_17_U_7271",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/2ab751353f5cb4a361ea",
+                    "reference": "LEVIATHAN",
+                    "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+                    "name": "Léviathan"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/fr_FR/ce5d458383eae9f6b2e1cbe6ca011cce.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/ALT_CORE_B_YZ_17_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_17_U_7271",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_YZ_17_U_7271",
+            "id": "0C3QBF81428E9BY6NKM0SN4HPV",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/en_US/8942605094cf6d46297de22d3e234b88.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/UNIQUE/JPG/fr_FR/ce5d458383eae9f6b2e1cbe6ca011cce.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/de_DE/c55f84d31f0420dcc65edc447fda9d4f.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/es_ES/73216d45ffa9cf97a9be782a4f18ff07.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_17/JPG/it_IT/743effc70cda45d26d507536c8fe87a8.jpg"
+            },
+            "name": "Le Kraken",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "[][]Toutes les Régions sont {O} et perdent leurs autres terrains.  Lorsque je quitte la zone d'Expédition — Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.",
+                "ECHO_EFFECT": "{D} : []Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée."
+            }
+        }
+    }
+}

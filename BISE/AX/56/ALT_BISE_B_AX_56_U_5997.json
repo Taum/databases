@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_56_U_5997",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/es_ES/54cfaf83be0f4dfbc88cff634ab149a7.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/en_US/c1845d3fbecde9cc59e6079f458ed1b5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/it_IT/190ba1a63ac85a3de6940fc1303de3fe.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/de_DE/420b3f1b7a137638d464b706afcd87dc.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/fr_FR/f03692583491deddb277703f5a18c103.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_a33b89322493e217e8334fdd0b537581",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_59061f76b844203cdd4f85db3b8df610",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_c41f9e1f566d39588ec274c0f0c3a470"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/b239a95f075f9eb92d8d",
+            "reference": "ADVENTURER",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "5",
+        "MAIN_EFFECT": "[][][Scout] {1}.  {R} You may sacrifice another Robot or Permanent. If you do: [Resupply].",
+        "ECHO_EFFECT": "{I} []You may play exhausted cards from your Reserve."
+    },
+    "id": "0ZKBRK7MR097QRS1V6TPFDY372",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/en_US/c1845d3fbecde9cc59e6079f458ed1b5.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Icarus",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_56_U_5997",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_56_U_5997",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_56_U_5997",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/9ccb7a5f2d0830339a8e",
+                    "reference": "ADVENTURER",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/fr_FR/f03692583491deddb277703f5a18c103.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_a33b89322493e217e8334fdd0b537581",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_59061f76b844203cdd4f85db3b8df610",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/WEB_c41f9e1f566d39588ec274c0f0c3a470"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_56_U_5997",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_56_U_5997",
+            "id": "0ZKBRK7MR097QRS1V6TPFDY372",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/es_ES/54cfaf83be0f4dfbc88cff634ab149a7.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/en_US/c1845d3fbecde9cc59e6079f458ed1b5.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/it_IT/190ba1a63ac85a3de6940fc1303de3fe.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/JPG/de_DE/420b3f1b7a137638d464b706afcd87dc.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_56/UNIQUE/JPG/fr_FR/f03692583491deddb277703f5a18c103.jpg"
+            },
+            "name": "Icare",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "5",
+                "MAIN_EFFECT": "[][][Repérage] {1}.  {R} Vous pouvez sacrifier un autre Robot ou Permanent. Si vous le faites : [Ravitaillez].",
+                "ECHO_EFFECT": "{I} []Vous pouvez jouer les cartes épuisées de votre Réserve."
+            }
+        }
+    }
+}

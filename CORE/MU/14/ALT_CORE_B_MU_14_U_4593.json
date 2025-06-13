@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_14_U_4593",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/es_ES/ce71ebef7fe884f38a46db7443b6215e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/it_IT/404f206431ab1a1ba4f30357c09f927a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/de_DE/376110604e6ec4b3f24612c7850bde18.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/en_US/9657238d51d1b49cdb55aabe23f9b81f.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/be844dd9b4544e79f65839df905c5581.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/8815044318a5eb19e841",
+            "reference": "DRUID",
+            "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+            "name": "Druid"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/f0ce23bb996c4facfe9a",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{H} If you control one or more Landmarks: You may discard target Character."
+    },
+    "id": "69S1DX66PK8CA8EX4PVDN05B5X",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/en_US/9657238d51d1b49cdb55aabe23f9b81f.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Cernunnos",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_14_U_4593",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_MU_14_U_4593",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_14_U_4593",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/04dd474e94d3e662b011",
+                    "reference": "DRUID",
+                    "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+                    "name": "Druide"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/b223a8adfa0401e4c943",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/be844dd9b4544e79f65839df905c5581.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_14_U_4593",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_MU_14_U_4593",
+            "id": "69S1DX66PK8CA8EX4PVDN05B5X",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/es_ES/ce71ebef7fe884f38a46db7443b6215e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/it_IT/404f206431ab1a1ba4f30357c09f927a.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/de_DE/376110604e6ec4b3f24612c7850bde18.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/en_US/9657238d51d1b49cdb55aabe23f9b81f.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/be844dd9b4544e79f65839df905c5581.jpg"
+            },
+            "name": "Cernunnos",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "5",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{H} Si vous contrôlez au moins un Repère : Vous pouvez défausser un Personnage ciblé."
+            }
+        }
+    }
+}

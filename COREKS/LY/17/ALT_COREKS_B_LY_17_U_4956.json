@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_17_U_4956",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/fr_FR/57b9ed4239bdd6d55da1804794bc05d6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/es_ES/ab7719831fd7504e50a1be64f7ca2d3a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/it_IT/56acff2e4c877168c75aa40de696b989.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/de_DE/485813435e42de9651725e1880e762f2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/en_US/99d8ea7afddf32b3461e4c5a81b82324.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c288e049405134955a70",
+            "reference": "CITIZEN",
+            "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+            "name": "Citizen"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5",
+        "MAIN_EFFECT": "{J} []Roll a die. On a 4+, draw a card. On a 1-3, [Resupply].  {H} You may pay {1}. If you do: Roll a die. Target Character gain X boosts, where X is the result.",
+        "ECHO_EFFECT": "{D} : []You may return a Spell from your Reserve to your hand."
+    },
+    "id": "31RZK302QY9RG9MF0HQ7CRM53Z",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/en_US/99d8ea7afddf32b3461e4c5a81b82324.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Ouroboros Croupier",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_17_U_4956",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_LY_17_U_4956",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_17_U_4956",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/040981e4a274a2457984",
+                    "reference": "CITIZEN",
+                    "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+                    "name": "Citoyen"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/fr_FR/57b9ed4239bdd6d55da1804794bc05d6.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_17/ALT_CORE_B_LY_17_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_17_U_4956",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_LY_17_U_4956",
+            "id": "31RZK302QY9RG9MF0HQ7CRM53Z",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/fr_FR/57b9ed4239bdd6d55da1804794bc05d6.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/es_ES/ab7719831fd7504e50a1be64f7ca2d3a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/it_IT/56acff2e4c877168c75aa40de696b989.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/de_DE/485813435e42de9651725e1880e762f2.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_17/UNIQUE/JPG/en_US/99d8ea7afddf32b3461e4c5a81b82324.jpg"
+            },
+            "name": "Croupière de l'Ouroboros",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "6",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "5",
+                "FOREST_POWER": "5",
+                "MAIN_EFFECT": "{J} []Lancez un dé. Sur 4+, piochez une carte. Sur 1-3, [Ravitaillez].  {H} Vous pouvez payer {1}. Si vous le faites : Lancez un dé. Un Personnage ciblé gagne X boosts, X étant le résultat.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez renvoyer un Sort de votre Réserve dans votre main."
+            }
+        }
+    }
+}

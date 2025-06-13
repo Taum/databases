@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_59_U_4112",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/en_US/c3ebcc743406afe430f0830a4ba498cb.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/de_DE/cfb348826d3d7504e1000c07422ef141.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/it_IT/07aaca7c7f2cae66d769ccf4ecada1ca.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/es_ES/7faabaf7e01f9f81377b78868a81b121.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/fr_FR/7fc9d1b90dc1a8ff83c35c2fb4e7855b.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_41985d45371a54730a952f91d90493d0",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_08b080f09a5a8b614d1b98166be336d3",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_42e33205939cb467605735ee0dd2e751"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c3d4a0d0d6c7cdea83aa",
+            "reference": "MAGE",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "[][][Scout] {2}.  {H} If my Expedition is behind: Create a [Mana Moth 2/2/2] Illusion token in your Hero Expedition.",
+        "ECHO_EFFECT": "{D} : []The next card you play this turn costs {1} less."
+    },
+    "id": "75V5K9XS8Q8AZ81590NV2JXMJ7",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/en_US/c3ebcc743406afe430f0830a4ba498cb.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Yzmir Mothbreeder",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_59_U_4112",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_YZ_59_U_4112",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_59_U_4112",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/1cabf9350a08925fb4ea",
+                    "reference": "MAGE",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/fr_FR/7fc9d1b90dc1a8ff83c35c2fb4e7855b.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_41985d45371a54730a952f91d90493d0",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_08b080f09a5a8b614d1b98166be336d3",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/WEB_42e33205939cb467605735ee0dd2e751"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_59_U_4112",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_YZ_59_U_4112",
+            "id": "75V5K9XS8Q8AZ81590NV2JXMJ7",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/en_US/c3ebcc743406afe430f0830a4ba498cb.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/de_DE/cfb348826d3d7504e1000c07422ef141.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/it_IT/07aaca7c7f2cae66d769ccf4ecada1ca.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/JPG/es_ES/7faabaf7e01f9f81377b78868a81b121.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_59/UNIQUE/JPG/fr_FR/7fc9d1b90dc1a8ff83c35c2fb4e7855b.jpg"
+            },
+            "name": "Entomologiste Yzmir",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "[][][Repérage] {2}.  {H} Si mon Expédition est en retard : Créez un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Héros.",
+                "ECHO_EFFECT": "{D} : []La prochaine carte que vous jouez ce tour coûte {1} de moins."
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_11_U_4242",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/fr_FR/6658822a090db8192b12dbe2aef163a3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/en_US/1fd096b38427fa19f098324dcff250dc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/es_ES/36f641c5da31e2bb39e63b2a383a6971.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/it_IT/1c1bb48060120819eedc08eaea6e66f1.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/de_DE/f6ec97fb07176ad0e0fcf1547e404a5d.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/a017122d9ebd7673a112",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{H} You may discard a card from your Reserve. If you do: For each Character you control other than me, you may activate its {j} abilities."
+    },
+    "id": "4C637DP7948B5AD264FWHN38WC",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/en_US/1fd096b38427fa19f098324dcff250dc.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Inari",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_11_U_4242",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_MU_11_U_4242",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_11_U_4242",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/4a51b9b5258f7032660d",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/fr_FR/6658822a090db8192b12dbe2aef163a3.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_11/ALT_CORE_B_MU_11_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_11_U_4242",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_MU_11_U_4242",
+            "id": "4C637DP7948B5AD264FWHN38WC",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/fr_FR/6658822a090db8192b12dbe2aef163a3.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/en_US/1fd096b38427fa19f098324dcff250dc.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/es_ES/36f641c5da31e2bb39e63b2a383a6971.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/it_IT/1c1bb48060120819eedc08eaea6e66f1.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_11/UNIQUE/JPG/de_DE/f6ec97fb07176ad0e0fcf1547e404a5d.jpg"
+            },
+            "name": "Inari",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "4",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{H} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Pour chaque Personnage que vous contrôlez autre que moi, vous pouvez activer ses capacités {j}."
+            }
+        }
+    }
+}
