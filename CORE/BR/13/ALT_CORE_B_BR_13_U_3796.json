@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_BR_13_U_3796",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c842fd43a593139c3c5b61d2c7f25f3e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/4265130bfca8aa0b7b45c464d9f3a990.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/2cd82f4d01480b40ff027b74e02af703.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/c3094c69bce906563029cb01ec7a2d99.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/da157ced7dbc772eee75658b8aef2ed4.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/1f1df4854f8144bd50d4",
+            "reference": "TRAINER",
+            "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+            "name": "Trainer"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/5f2d6e3f4eda925e7207",
+            "reference": "SPIRIT",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "7",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{J} Roll a die. On a 4+: All Characters in target Expedition gain [[Asleep]]."
+    },
+    "id": "3RSH6851EM8XBTPBHDB7NFCDY4",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/da157ced7dbc772eee75658b8aef2ed4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Kappa",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_13_U_3796",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_BR_13_U_3796",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_BR_13_U_3796",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/00bacdc4617d5528df04",
+                    "reference": "TRAINER",
+                    "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+                    "name": "Mentor"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/e058a571a26b9605ab87",
+                    "reference": "SPIRIT",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c842fd43a593139c3c5b61d2c7f25f3e.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_13_U_3796",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_BR_13_U_3796",
+            "id": "3RSH6851EM8XBTPBHDB7NFCDY4",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c842fd43a593139c3c5b61d2c7f25f3e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/4265130bfca8aa0b7b45c464d9f3a990.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/2cd82f4d01480b40ff027b74e02af703.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/c3094c69bce906563029cb01ec7a2d99.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/da157ced7dbc772eee75658b8aef2ed4.jpg"
+            },
+            "name": "Kappa",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "6",
+                "MOUNTAIN_POWER": "7",
+                "OCEAN_POWER": "5",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{J} Lancez un dé. Sur 4+ : Tous les Personnages dans une Expédition ciblée gagnent [[Endormi]]."
+            }
+        }
+    }
+}

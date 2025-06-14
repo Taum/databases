@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_57_U_2115",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/be9e755b728dc1d831d453878d2f1dfd.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/56d2a4818ad6d7334ba0f4af80f44c7b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/d9e58025f7bbab98795420b893afb6e2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3238fd0c7dad788115f68b09ee3b3e1.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/d836a6b41d628f005d0f1a32aaa8614f.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/8754350e1f13b742bd5e",
+            "reference": "ROBOT",
+            "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+            "name": "Robot"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "7",
+        "MAIN_EFFECT": "{J} If you control a token: Target Character in play or in Reserve gains 1 boost.  {R} You may spend 1 of my boosts. If you do: Ready two Mana Orbs.",
+        "ECHO_EFFECT": "{I} At Noon — []Choose one:  • I gain 1 boost, up to a max of 3.  • {T} : I gain 2 boosts, up to a max of 3."
+    },
+    "id": "1B2EN2KG9883BB5K9M27152EVS",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3238fd0c7dad788115f68b09ee3b3e1.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Enhanced Prototype",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_U_2115",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_57_U_2115",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_57_U_2115",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/176424553e6e6dbe7f15",
+                    "reference": "ROBOT",
+                    "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+                    "name": "Robot"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/d836a6b41d628f005d0f1a32aaa8614f.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_U_2115",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_57_U_2115",
+            "id": "1B2EN2KG9883BB5K9M27152EVS",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/be9e755b728dc1d831d453878d2f1dfd.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/56d2a4818ad6d7334ba0f4af80f44c7b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/d9e58025f7bbab98795420b893afb6e2.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3238fd0c7dad788115f68b09ee3b3e1.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/d836a6b41d628f005d0f1a32aaa8614f.jpg"
+            },
+            "name": "Prototype Amélioré",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "7",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "7",
+                "MAIN_EFFECT": "{J} Si vous contrôlez un jeton : Un Personnage ciblé en jeu ou en Réserve gagne 1 boost.  {R} Vous pouvez dépenser 1 de mes boosts. Si vous le faites : Redressez deux Orbes de Mana.",
+                "ECHO_EFFECT": "{I} À Midi — []Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+            }
+        }
+    }
+}

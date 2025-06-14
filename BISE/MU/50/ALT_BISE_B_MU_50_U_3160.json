@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_50_U_3160",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/64db7c16d8c04d1b1fb87ab07809a45e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/f9503c8fec9bc40bada9f713fbbbcb94.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/aac2a38562d9b807efa0b62fec83dc72.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/7a213a436b091095d851a740db16b8ff.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/en_US/8a019ef05829033d49a51c1e8d9ae7b8.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c988f88fec24c051963d",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/2d653d006fd97f0308bb",
+            "reference": "PLANT",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{J} You may pay {1}. If you do: Draw a card, otherwise [Resupply].",
+        "ECHO_EFFECT": "{I} At Noon — []I gain 1 boost, up to a max of 2."
+    },
+    "id": "7Z2S131DPC8APB99VRZWDNB0ZB",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/en_US/8a019ef05829033d49a51c1e8d9ae7b8.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Bumblebeet",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_U_3160",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_MU_50_U_3160",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_MU_50_U_3160",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/ab0fb029788be84bc92d",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/c33defd6ae559f4d6130",
+                    "reference": "PLANT",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/64db7c16d8c04d1b1fb87ab07809a45e.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_75ba3676ba7dca5560ccb9511c48dfbe",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_57af396206cdacd09c53aee9b5a998a9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/WEB_3dbdf283ffeb3c6dcfebcb99b6adccd9"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_50_U_3160",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_MU_50_U_3160",
+            "id": "7Z2S131DPC8APB99VRZWDNB0ZB",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/fr_FR/64db7c16d8c04d1b1fb87ab07809a45e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/es_ES/f9503c8fec9bc40bada9f713fbbbcb94.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/it_IT/aac2a38562d9b807efa0b62fec83dc72.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/JPG/de_DE/7a213a436b091095d851a740db16b8ff.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_50/UNIQUE/JPG/en_US/8a019ef05829033d49a51c1e8d9ae7b8.jpg"
+            },
+            "name": "Beillerave",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{J} Vous pouvez payer {1}. Si vous le faites : Piochez une carte. Sinon, [Ravitaillez].",
+                "ECHO_EFFECT": "{I} À Midi — []Je gagne 1 boost, jusqu'à un maximum de 2."
+            }
+        }
+    }
+}
