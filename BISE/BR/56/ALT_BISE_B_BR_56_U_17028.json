@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_56_U_17028",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/de_DE/939331394668091ed6268179fe442e7d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/it_IT/9341de85141f2458916afdc522d8a3c1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/en_US/69dd531d8b0d1d922eae29206c4518a0.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/fr_FR/424d04a1b9e13cc2976b2ee522c384dc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/es_ES/b2ee7fd1aec25e74a7469347066fd0c6.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_1dcd3412738a1f3331740291e9d37328",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_fb133a2f714cabd71c98056e5a488ea4",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_d7c82fb230458eb492bff04b43815cae"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/2c2d8a74cdfbd179acd1",
+            "reference": "ADVENTURER",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/8ada3a981f0dd0374e0a",
+            "reference": "ELEMENTAL",
+            "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+            "name": "Elemental"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "7",
+        "MAIN_EFFECT": "[][][Scout] {1}.  {J} []You may have target Character other than me lose [[Fleeting]] and gain 1 boost.  {R} []Each player chooses a Character they control. It gains [[Asleep]]."
+    },
+    "id": "04T2Z18FGA9Q0RW0MG77GZS6VE",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/en_US/69dd531d8b0d1d922eae29206c4518a0.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Aoife, Fire Avatar",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_56_U_17028",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_56_U_17028",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_56_U_17028",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/c12007366de031c8c883",
+                    "reference": "ADVENTURER",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/fa08a65f87087165fdc3",
+                    "reference": "ELEMENTAL",
+                    "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+                    "name": "Élémentaire"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/fr_FR/424d04a1b9e13cc2976b2ee522c384dc.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_1dcd3412738a1f3331740291e9d37328",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_fb133a2f714cabd71c98056e5a488ea4",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/WEB_d7c82fb230458eb492bff04b43815cae"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_56_U_17028",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_56_U_17028",
+            "id": "04T2Z18FGA9Q0RW0MG77GZS6VE",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/de_DE/939331394668091ed6268179fe442e7d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/it_IT/9341de85141f2458916afdc522d8a3c1.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/en_US/69dd531d8b0d1d922eae29206c4518a0.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/UNIQUE/JPG/fr_FR/424d04a1b9e13cc2976b2ee522c384dc.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_56/JPG/es_ES/b2ee7fd1aec25e74a7469347066fd0c6.jpg"
+            },
+            "name": "Aoife, Avatar de Feu",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "7",
+                "MAIN_EFFECT": "[][][Repérage] {1}.  {J} []Vous pouvez faire perdre [[Fugace]] et gagner 1 boost à un Personnage ciblé autre que moi.  {R} []Chaque joueur choisit un Personnage qu'il contrôle. Il gagne [[Endormi]]."
+            }
+        }
+    }
+}

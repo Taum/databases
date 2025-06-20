@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_09_U_1006",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/es_ES/870f74c4ce43236e3dbad8b2daf22863.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/it_IT/d69691ca8f97b25231e3f8a59dca304a.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/de_DE/4501eaa8d6a2588c096a1b5bf5ab8785.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/en_US/01db91ce96f42a82cd073af7cdbc1d13.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/fr_FR/cae35dd91f4ded8b1c6768f57d1394d5.jpg"
+    },
+    "assets": [],
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/5d0fb64f640b1b447a86",
+            "reference": "PLANT",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/a302b6429fe8a68fb192",
+            "reference": "SPIRIT",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{H} You may put a card from your hand in Reserve. If you do: Each Character controlled by target player gains [[Fleeting]].  {R} []I gain [[Asleep]]."
+    },
+    "id": "3DGC703WE58XAS0ECM01V1W6V8",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/en_US/01db91ce96f42a82cd073af7cdbc1d13.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Kodama",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_09_U_1006",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_MU_09_U_1006",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_09_U_1006",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/b0fdb5a0c1f54308b4bf",
+                    "reference": "PLANT",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/2a77c947219b595b9723",
+                    "reference": "SPIRIT",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/fr_FR/cae35dd91f4ded8b1c6768f57d1394d5.jpg",
+            "assets": [],
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_09_U_1006",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_MU_09_U_1006",
+            "id": "3DGC703WE58XAS0ECM01V1W6V8",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/es_ES/870f74c4ce43236e3dbad8b2daf22863.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/it_IT/d69691ca8f97b25231e3f8a59dca304a.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/de_DE/4501eaa8d6a2588c096a1b5bf5ab8785.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/en_US/01db91ce96f42a82cd073af7cdbc1d13.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_09/UNIQUE/JPG/fr_FR/cae35dd91f4ded8b1c6768f57d1394d5.jpg"
+            },
+            "name": "Kodama",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "4",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{H} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Chaque Personnage contrôlé par un joueur ciblé gagne [[Fugace]].  {R} []Je gagne [[Endormi]]."
+            }
+        }
+    }
+}

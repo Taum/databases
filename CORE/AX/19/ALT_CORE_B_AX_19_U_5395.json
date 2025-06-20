@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_19_U_5395",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/es_ES/6e57a499128a439231a912ed06b65204.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/it_IT/86d26fe2f43ac34abba487a61f39ed34.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/de_DE/4d6aa428b14374504e88767c5b8751ce.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/en_US/34624392bb2e6c36d909c7b8f11bd805.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/fr_FR/49d2f6e94856c2273af1f33d780427f3.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/7f68f514855be9003b41",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "8",
+        "RECALL_COST": "7",
+        "MOUNTAIN_POWER": "7",
+        "OCEAN_POWER": "6",
+        "FOREST_POWER": "6",
+        "MAIN_EFFECT": "{J} If you control one or more Landmarks: You may send target Character to Reserve.  {H} []For each Character you control other than me, you may activate its {j} abilities.",
+        "ECHO_EFFECT": "{D} : []You may put a card from your hand in Reserve."
+    },
+    "id": "7BSBN1MEQP8S9RS9P60R3D1DPV",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/en_US/34624392bb2e6c36d909c7b8f11bd805.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Ganesha",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_19_U_5395",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_AX_19_U_5395",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_19_U_5395",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/e98fd1636551d1aaf998",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/fr_FR/49d2f6e94856c2273af1f33d780427f3.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/ALT_CORE_B_AX_19_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_19_U_5395",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_AX_19_U_5395",
+            "id": "7BSBN1MEQP8S9RS9P60R3D1DPV",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/es_ES/6e57a499128a439231a912ed06b65204.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/it_IT/86d26fe2f43ac34abba487a61f39ed34.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/de_DE/4d6aa428b14374504e88767c5b8751ce.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/en_US/34624392bb2e6c36d909c7b8f11bd805.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_19/UNIQUE/JPG/fr_FR/49d2f6e94856c2273af1f33d780427f3.jpg"
+            },
+            "name": "Ganesh",
+            "elements": {
+                "MAIN_COST": "8",
+                "RECALL_COST": "7",
+                "MOUNTAIN_POWER": "7",
+                "OCEAN_POWER": "6",
+                "FOREST_POWER": "6",
+                "MAIN_EFFECT": "{J} Si vous contrôlez au moins un Repère : Vous pouvez envoyer un Personnage ciblé en Réserve.  {H} []Pour chaque Personnage que vous contrôlez autre que moi, vous pouvez activer ses capacités {j}.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez mettre une carte de votre main en Réserve."
+            }
+        }
+    }
+}

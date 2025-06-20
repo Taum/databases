@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_LY_57_U_2406",
+    "@type": "Card",
+    "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/it_IT/6ab4e86e3fbb9ba96131c97077816491.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/de_DE/1a747d700dbfd2236e454050dd185a0a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/es_ES/100757648a0c2210b0e02274d39c43df.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/en_US/bbd97c990ef537cda1a8b0365bc194b2.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/fr_FR/dc732dd56af92fede6a52108acdb4836.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_e8ac75661a79852316e4339805fb0e34",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_a72693fdbeaa0b94c529b7a0ff4797be",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_6c3e71077c25feaf3b43ae5a0fa707d8"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/3bd6ea2d5b4154dddc22",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{H} Remove all boosts from Characters in play and in Reserve. Then, depending on the number of boosts removed this way:  • 1+: Create a [Mana Moth 2/2/2] Illusion token in your Companion Expedition.  • 4+: Target Character gains 3 boosts.  • 9+: Your opponent's Expedition facing me moves backwards one region.",
+        "ECHO_EFFECT": "{D} : []The next Spell you play this turn loses [[Fleeting]]."
+    },
+    "id": "6PMC7BYHQ58M7SEFSW7VYWV2H7",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/en_US/bbd97c990ef537cda1a8b0365bc194b2.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+    },
+    "name": "Man in the Maze",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_57_U_2406",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_LY_57_U_2406",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_LY_57_U_2406",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/eb65c387243d520f48bf",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/fr_FR/dc732dd56af92fede6a52108acdb4836.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_e8ac75661a79852316e4339805fb0e34",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_a72693fdbeaa0b94c529b7a0ff4797be",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/WEB_6c3e71077c25feaf3b43ae5a0fa707d8"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_57_U_2406",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_LY_57_U_2406",
+            "id": "6PMC7BYHQ58M7SEFSW7VYWV2H7",
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "reference": "YZ",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir"
+            },
+            "allImagePath": {
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/it_IT/6ab4e86e3fbb9ba96131c97077816491.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/de_DE/1a747d700dbfd2236e454050dd185a0a.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/JPG/es_ES/100757648a0c2210b0e02274d39c43df.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/en_US/bbd97c990ef537cda1a8b0365bc194b2.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_57/UNIQUE/JPG/fr_FR/dc732dd56af92fede6a52108acdb4836.jpg"
+            },
+            "name": "L'Homme dans le Labyrinthe",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{H} Retirez tous les boosts des Personnages en jeu et en Réserve. Puis, en fonction du nombre de boosts retirés de cette manière :  • 1+ : Créez un jeton Illusion [2/2/2 Phalène de Mana] dans votre Expédition Compagnon.  • 4+ : Un Personnage ciblé gagne 3 boosts.  • 9+ : L'Expédition adverse qui me fait face recule d'une région.",
+                "ECHO_EFFECT": "{D} : []Le prochain Sort que vous jouez ce tour perd [[Fugace]]."
+            }
+        }
+    }
+}
