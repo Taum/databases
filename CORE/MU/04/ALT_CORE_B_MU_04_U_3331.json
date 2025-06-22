@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_04_U_3331",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/de_DE/5973ec4ea54b1863bb1b857dd9232897.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/en_US/f7180e8a7cb5a1cd11422a2d18f9dc30.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/es_ES/6382b9e78c16cd7540c1e8b9ce1e2302.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/fr_FR/d3af9d511ba7af4794cd1f72951fcb7f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/it_IT/f99d1466ea5d8a5c9cdee58ab155901f.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/0147604d96ac150c1def",
+            "@type": "CardSubType",
+            "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+            "name": "Druid",
+            "reference": "DRUID"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "FOREST_POWER": "0",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{H} You may pay {1}. If you do: I gain 2 boosts.  {R} You may put a card from your hand in Reserve. If you do: You may have target Character gain [[Asleep]].",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "1"
+    },
+    "id": "1XFS77KJTS9MJRNZV2E6JQBNPS",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/JPG/en_EN/1ff1da34afab96677a262c0f90b14edc.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Muna Caregiver",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_04_U_3331",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_MU_04_U_3331",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_04_U_3331",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/de_DE/5973ec4ea54b1863bb1b857dd9232897.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/en_US/f7180e8a7cb5a1cd11422a2d18f9dc30.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/es_ES/6382b9e78c16cd7540c1e8b9ce1e2302.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/fr_FR/d3af9d511ba7af4794cd1f72951fcb7f.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/it_IT/f99d1466ea5d8a5c9cdee58ab155901f.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/ALT_CORE_B_MU_04_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/b9b6acd9f1228f14d0b7",
+                    "@type": "CardSubType",
+                    "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+                    "name": "Druide",
+                    "reference": "DRUID"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "FOREST_POWER": "0",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{H} Vous pouvez payer {1}. Si vous le faites : Je gagne 2 boosts.  {R} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Vous pouvez faire gagner [[Endormi]] à un Personnage ciblé.",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "1"
+            },
+            "id": "1XFS77KJTS9MJRNZV2E6JQBNPS",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_04/UNIQUE/JPG/fr_FR/d3af9d511ba7af4794cd1f72951fcb7f.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Soigneuse Muna",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_04_U_3331",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_MU_04_U_3331"
+        }
+    },
+    "updated": null
+}

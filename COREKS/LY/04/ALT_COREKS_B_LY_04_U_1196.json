@@ -1,0 +1,168 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_04_U_1196",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/de_DE/8e04dfe8d5f94887d640bdb4a84708d5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/en_US/2c2d67e582648fd0d63837f418bc6b06.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/es_ES/7f060cc209cbc9e1145ab78adb6c1024.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/a8c13aae86bb63bc6e6c0ac8ee5a48c5.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/it_IT/5ae03ba3ab460a2578333d25d46248cc.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/b7975536cc2a0d1b27e4",
+            "@type": "CardSubType",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal",
+            "reference": "ANIMAL"
+        },
+        {
+            "@id": "/.well-known/genid/3caf3a4163460aa45b1c",
+            "@type": "CardSubType",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit",
+            "reference": "SPIRIT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next card you play this Afternoon costs {1} less.",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{H} You may put a card from your hand in Reserve. If it's a Permanent: You may have target Character other than me lose [[Fleeting]] and gain 1 boost.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "RECALL_COST": "1"
+    },
+    "id": "2R1313ZFEY9GD85BJD7MX21MKH",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/JPG/en_EN/e173358ffc0c94b93ae34fd03d091370.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom",
+        "reference": "AX"
+    },
+    "name": "Martengale",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_04_U_1196",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_LY_04_U_1196",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_04_U_1196",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/de_DE/8e04dfe8d5f94887d640bdb4a84708d5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/en_US/2c2d67e582648fd0d63837f418bc6b06.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/es_ES/7f060cc209cbc9e1145ab78adb6c1024.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/a8c13aae86bb63bc6e6c0ac8ee5a48c5.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/it_IT/5ae03ba3ab460a2578333d25d46248cc.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_04/ALT_CORE_B_LY_04_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/dd57f9ab087bdd0c1525",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal",
+                    "reference": "ANIMAL"
+                },
+                {
+                    "@id": "/.well-known/genid/e8e80808cc3ce741c356",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit",
+                    "reference": "SPIRIT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []La prochaine carte que vous jouez cet Après-midi coûte {1} de moins.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{H} Vous pouvez mettre une carte de votre main en Réserve. Si c'est un Permanent : Vous pouvez faire perdre [[Fugace]] et gagner 1 boost à un Personnage ciblé autre que moi.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "RECALL_COST": "1"
+            },
+            "id": "2R1313ZFEY9GD85BJD7MX21MKH",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_04/UNIQUE/JPG/fr_FR/a8c13aae86bb63bc6e6c0ac8ee5a48c5.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom",
+                "reference": "AX"
+            },
+            "name": "Martengale",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_04_U_1196",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_LY_04_U_1196"
+        }
+    },
+    "updated": null
+}

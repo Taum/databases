@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_15_U_5378",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/9e8a451ecb34cc523b4ceafc2b85e998.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/298b80ba4a7fcf6adc0acced6d9d2f96.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/d8a9db6a5a0a56fcb5db4d0889657dfb.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/af059e919fdabd2cc7aee43ee939b7f7.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/877ff3c6a3fc6fd3a2b761717401f662.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/9bf9136b09570cacefd3",
+            "@type": "CardSubType",
+            "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+            "name": "Noble",
+            "reference": "NOBLE"
+        },
+        {
+            "@id": "/.well-known/genid/a65834c3b13ab2dab544",
+            "@type": "CardSubType",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier",
+            "reference": "SOLDIER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "3",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{H} If you control a token: [Sabotage].  When you create a token — If you control three or more Characters: I gain 1 boost.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "3"
+    },
+    "id": "0C5VS026VM83984XTYX7H689G5",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/JPG/en_EN/b084edc9de1f1306f0492b410348f294.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis",
+        "reference": "OR"
+    },
+    "name": "Kakoba, Legion Commander",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_5378",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_OR_15_U_5378",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_15_U_5378",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/9e8a451ecb34cc523b4ceafc2b85e998.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/298b80ba4a7fcf6adc0acced6d9d2f96.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/d8a9db6a5a0a56fcb5db4d0889657dfb.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/af059e919fdabd2cc7aee43ee939b7f7.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/877ff3c6a3fc6fd3a2b761717401f662.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/2f15c992b1cfbfb29708",
+                    "@type": "CardSubType",
+                    "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+                    "name": "Noble",
+                    "reference": "NOBLE"
+                },
+                {
+                    "@id": "/.well-known/genid/10960a18af1b868f6b88",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat",
+                    "reference": "SOLDIER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "3",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{H} Si vous contrôlez un jeton : [Sabotez].  Lorsque vous créez un jeton — Si vous contrôlez au moins trois Personnages : Je gagne 1 boost.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "3"
+            },
+            "id": "0C5VS026VM83984XTYX7H689G5",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/af059e919fdabd2cc7aee43ee939b7f7.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis",
+                "reference": "OR"
+            },
+            "name": "Kakoba, Commandant de Légion",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_5378",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_OR_15_U_5378"
+        }
+    },
+    "updated": null
+}

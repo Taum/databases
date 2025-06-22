@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_19_U_4870",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/de_DE/898ef4d659a658556827e692e2d01f36.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/en_US/d898e5d703439fc2a318dca3a58e0932.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/es_ES/4df49d1b00ef4ddef44f2886260a94fe.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/9a7e0b5735e4511f00b69099d4f964dc.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/it_IT/fedeb0c6be969bc5c3c3983ca1654e51.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/ace4a002e6c71de802ad",
+            "@type": "CardSubType",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal",
+            "reference": "ANIMAL"
+        },
+        {
+            "@id": "/.well-known/genid/46082990d808ffc76d18",
+            "@type": "CardSubType",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant",
+            "reference": "PLANT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "5",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "[][]I am [Defender].  {H} If you control three or more Characters: You may discard target Permanent with Hand Cost {4} or more.",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "4",
+        "RECALL_COST": "5"
+    },
+    "id": "5YHTAAGM3P9NMB48D63JZ1D7CD",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/JPG/en_EN/dc40bdcb6833daad5d816627fd042e33.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis",
+        "reference": "OR"
+    },
+    "name": "Verdantback",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_19_U_4870",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_MU_19_U_4870",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_19_U_4870",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/de_DE/898ef4d659a658556827e692e2d01f36.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/en_US/d898e5d703439fc2a318dca3a58e0932.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/es_ES/4df49d1b00ef4ddef44f2886260a94fe.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/9a7e0b5735e4511f00b69099d4f964dc.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/it_IT/fedeb0c6be969bc5c3c3983ca1654e51.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/ALT_CORE_B_MU_19_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/67f44de99434285ac56a",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal",
+                    "reference": "ANIMAL"
+                },
+                {
+                    "@id": "/.well-known/genid/d6f20b4af07448315788",
+                    "@type": "CardSubType",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante",
+                    "reference": "PLANT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "5",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "[][]Je suis [Défenseur].  {H} Si vous contrôlez au moins trois Personnages : Vous pouvez défausser un Permanent ciblé de Coût de Main {4} ou plus.",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "4",
+                "RECALL_COST": "5"
+            },
+            "id": "5YHTAAGM3P9NMB48D63JZ1D7CD",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_19/UNIQUE/JPG/fr_FR/9a7e0b5735e4511f00b69099d4f964dc.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis",
+                "reference": "OR"
+            },
+            "name": "Vertéchine",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_19_U_4870",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_MU_19_U_4870"
+        }
+    },
+    "updated": null
+}

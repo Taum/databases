@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_14_U_1514",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/de_DE/c27cd4835930a97d423f2763d33cb859.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/en_US/5e9b09ac17fa60d3c2129bf7cfd1f9db.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/es_ES/44955d5a81930da9be4cbe635a9e3ba1.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/583ce03ca18cf8ac4e9bb1400a8153f4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/it_IT/51f902615f553d02436d6b034fe7a205.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/380110301928969ba721",
+            "@type": "CardSubType",
+            "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+            "name": "Druid",
+            "reference": "DRUID"
+        },
+        {
+            "@id": "/.well-known/genid/17095db2296044b6190c",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "5",
+        "MAIN_COST": "5",
+        "MAIN_EFFECT": "{H} []Roll a die. Target Character gain X boosts, where X is the result.",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "4"
+    },
+    "id": "3C905GWH4F8QA8111DYK4T1EM9",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/JPG/en_EN/3e90561643987c9ad5d5bfe9432fe24f.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Cernunnos",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_14_U_1514",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_MU_14_U_1514",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_14_U_1514",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/de_DE/c27cd4835930a97d423f2763d33cb859.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/en_US/5e9b09ac17fa60d3c2129bf7cfd1f9db.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/es_ES/44955d5a81930da9be4cbe635a9e3ba1.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/583ce03ca18cf8ac4e9bb1400a8153f4.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/it_IT/51f902615f553d02436d6b034fe7a205.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/ALT_CORE_B_MU_14_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/2c0d7fa24349dc395846",
+                    "@type": "CardSubType",
+                    "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+                    "name": "Druide",
+                    "reference": "DRUID"
+                },
+                {
+                    "@id": "/.well-known/genid/44c667677c760debeeca",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "5",
+                "MAIN_COST": "5",
+                "MAIN_EFFECT": "{H} []Lancez un dé. Un Personnage ciblé gagne X boosts, X étant le résultat.",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "4"
+            },
+            "id": "3C905GWH4F8QA8111DYK4T1EM9",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_14/UNIQUE/JPG/fr_FR/583ce03ca18cf8ac4e9bb1400a8153f4.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Cernunnos",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_14_U_1514",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_MU_14_U_1514"
+        }
+    },
+    "updated": null
+}

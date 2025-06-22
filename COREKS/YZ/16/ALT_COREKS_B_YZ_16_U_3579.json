@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_YZ_16_U_3579",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/de_DE/6703bd678223a15b19d8e53190bacd08.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/en_US/4b859b20c1aa892dd7eacab35052f71a.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/es_ES/b8f7741cfcc92411372d5155b8524953.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/16d2f99f807ddbc183efa5de184c839d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/it_IT/6237980d44b63509de490d0df0fe6870.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/aae46fcbdc90a4ccaae3",
+            "@type": "CardSubType",
+            "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+            "name": "Citizen",
+            "reference": "CITIZEN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character other than me lose [[Fleeting]].",
+        "FOREST_POWER": "3",
+        "MAIN_COST": "5",
+        "MAIN_EFFECT": "[]If I have 1 or more boosts: Your Characters other than me have: \"{R} I gain 1 boost.\"  {H} You may discard a card from your Reserve. If you do: You may send target Character to Reserve.",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "3"
+    },
+    "id": "4GGJT98B5H9XK9BQCVW1HBCD99",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/JPG/en_EN/ed6fd67aacd60ea0554d583168b1c1d4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Dorothy Gale",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_16_U_3579",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_YZ_16_U_3579",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_YZ_16_U_3579",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/de_DE/6703bd678223a15b19d8e53190bacd08.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/en_US/4b859b20c1aa892dd7eacab35052f71a.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/es_ES/b8f7741cfcc92411372d5155b8524953.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/16d2f99f807ddbc183efa5de184c839d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/it_IT/6237980d44b63509de490d0df0fe6870.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/81ee85b95264d8a951b6",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+                    "name": "Citoyen",
+                    "reference": "CITIZEN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi.",
+                "FOREST_POWER": "3",
+                "MAIN_COST": "5",
+                "MAIN_EFFECT": "[]Si j'ai au moins 1 boost : Vos Personnages autres que moi ont : « {R} Je gagne 1 boost. »  {H} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Vous pouvez envoyer un Personnage ciblé en Réserve.",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "3"
+            },
+            "id": "4GGJT98B5H9XK9BQCVW1HBCD99",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/16d2f99f807ddbc183efa5de184c839d.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Dorothy Gale",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_16_U_3579",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_YZ_16_U_3579"
+        }
+    },
+    "updated": null
+}

@@ -1,0 +1,168 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_15_U_5050",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/de_DE/f072074bfc0e0d5d11e6ce185e41c67b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/en_US/4fa380211d3b6083e823d5d8eee5a075.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/es_ES/c4aeca1a20e0abddec7a27b983ec4167.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/b64d49a255cac63e167b8a6dd70ae730.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/it_IT/9bab0cb2587702afb0df9413cd64bd7a.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/c75a6daa71193fc850ec",
+            "@type": "CardSubType",
+            "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+            "name": "Dragon",
+            "reference": "DRAGON"
+        },
+        {
+            "@id": "/.well-known/genid/8c16adc0c8ec79f38806",
+            "@type": "CardSubType",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant",
+            "reference": "PLANT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []Each player draws a card.",
+        "FOREST_POWER": "1",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{H} []I gain [[Anchored]].  At Noon — You may pay {1}. If you do: I gain 1 boost.",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "2"
+    },
+    "id": "1PEZ5W9TRY9YMTJ0H07CWFQP74",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/en_EN/511f3794fe0a8c1bce1ad5a5e582b6a0.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Dracaena",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_15_U_5050",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_MU_15_U_5050",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_15_U_5050",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/de_DE/f072074bfc0e0d5d11e6ce185e41c67b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/en_US/4fa380211d3b6083e823d5d8eee5a075.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/es_ES/c4aeca1a20e0abddec7a27b983ec4167.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/b64d49a255cac63e167b8a6dd70ae730.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/it_IT/9bab0cb2587702afb0df9413cd64bd7a.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/7020ae3d3914cacaa085",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+                    "name": "Dragon",
+                    "reference": "DRAGON"
+                },
+                {
+                    "@id": "/.well-known/genid/114aefd8e2641c9f78ee",
+                    "@type": "CardSubType",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante",
+                    "reference": "PLANT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Chaque joueur pioche une carte.",
+                "FOREST_POWER": "1",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{H} []Je gagne [[Ancré]].  À Midi — Vous pouvez payer {1}. Si vous le faites : Je gagne 1 boost.",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "2"
+            },
+            "id": "1PEZ5W9TRY9YMTJ0H07CWFQP74",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/b64d49a255cac63e167b8a6dd70ae730.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Dracaena",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_15_U_5050",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_MU_15_U_5050"
+        }
+    },
+    "updated": null
+}

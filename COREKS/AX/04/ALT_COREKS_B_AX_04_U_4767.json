@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_04_U_4767",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/081c488c64043aff839eb2ed5f4c3990.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/c3992d0365a3c7d512b0d2175dd910c6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/2159cdabd83af25f2712cbfc3044ce65.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/9af42bb4cf0c4f26cd1780c7f693574f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/d41cf63bd5dff7753e8770e83da35baf.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/c4e38d55363cb367834e",
+            "@type": "CardSubType",
+            "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+            "name": "Elemental",
+            "reference": "ELEMENTAL"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{J} []You may put a card from your hand in Reserve.  {H} You may put a card from your hand in Reserve. If you do: I gain 1 boost.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "RECALL_COST": "1"
+    },
+    "id": "4NMH8KV1YR8ZX9AVQ8R2AKBJQ5",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/JPG/en_EN/0832979dc99c4391490444851664a6a6.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Kelon Elemental",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_04_U_4767",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_AX_04_U_4767",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_04_U_4767",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/de_DE/081c488c64043aff839eb2ed5f4c3990.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/en_US/c3992d0365a3c7d512b0d2175dd910c6.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/es_ES/2159cdabd83af25f2712cbfc3044ce65.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/9af42bb4cf0c4f26cd1780c7f693574f.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/it_IT/d41cf63bd5dff7753e8770e83da35baf.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_04/ALT_CORE_B_AX_04_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/aa92f5ac3a330099f918",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+                    "name": "Élémentaire",
+                    "reference": "ELEMENTAL"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{J} []Vous pouvez mettre une carte de votre main en Réserve.  {H} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Je gagne 1 boost.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "RECALL_COST": "1"
+            },
+            "id": "4NMH8KV1YR8ZX9AVQ8R2AKBJQ5",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_AX_04/UNIQUE/JPG/fr_FR/9af42bb4cf0c4f26cd1780c7f693574f.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Élémentaire de Kélon",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_04_U_4767",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_AX_04_U_4767"
+        }
+    },
+    "updated": null
+}

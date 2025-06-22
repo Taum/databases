@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_LY_13_U_7024",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/de_DE/325c155944818b44f75093cf1ee2c63b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/en_US/4d8fb395107902cc691641f7cb87e4ec.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/es_ES/7fb306f64586922ce87082860c8e7cb0.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/fr_FR/7eb9dc225084e4c0a3dd7c07f4a924df.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/it_IT/d2790d3b1184e19663784cdd612edc7d.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/19c2bc2f4ee4591749dd",
+            "@type": "CardSubType",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist",
+            "reference": "ARTIST"
+        },
+        {
+            "@id": "/.well-known/genid/13fdf97d175f1813193d",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "1",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{R} Roll a die. On a 4+: I gain 1 boost per card in your Reserve.",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "2"
+    },
+    "id": "6RDMDAERWJ9X98F00AAVZ316VZ",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/JPG/en_EN/ea2566e6ce9a0996c627dc39a01a3468.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Anansi",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_13_U_7024",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_LY_13_U_7024",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_LY_13_U_7024",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/de_DE/325c155944818b44f75093cf1ee2c63b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/en_US/4d8fb395107902cc691641f7cb87e4ec.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/es_ES/7fb306f64586922ce87082860c8e7cb0.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/fr_FR/7eb9dc225084e4c0a3dd7c07f4a924df.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/it_IT/d2790d3b1184e19663784cdd612edc7d.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/ALT_CORE_B_LY_13_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/445cde8f7c9dab7de5f9",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste",
+                    "reference": "ARTIST"
+                },
+                {
+                    "@id": "/.well-known/genid/22427bd261e804ec66a4",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "1",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{R} Lancez un dé. Sur 4+ : Je gagne 1 boost par carte dans votre Réserve.",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "2"
+            },
+            "id": "6RDMDAERWJ9X98F00AAVZ316VZ",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_13/UNIQUE/JPG/fr_FR/7eb9dc225084e4c0a3dd7c07f4a924df.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Anansi",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_LY_13_U_7024",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_LY_13_U_7024"
+        }
+    },
+    "updated": null
+}

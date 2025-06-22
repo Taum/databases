@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_15_U_805",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/7e4d992f9eb4d777d2e4344377ab5041.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/6fde1515b930372468616d5fd1c67a6f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/529854383bfa5c09b54fec9a955ba690.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/edba8e025c7c3922d6343b3d5aa6f438.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/2e9d7ef9a549c0ddc0af582d66317fa4.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/1540c34c33b94df25c49",
+            "@type": "CardSubType",
+            "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+            "name": "Noble",
+            "reference": "NOBLE"
+        },
+        {
+            "@id": "/.well-known/genid/5dd1a1e2b3d317fe79b8",
+            "@type": "CardSubType",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier",
+            "reference": "SOLDIER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "3",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "{J} If you control three or more Characters: You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].  When I go to Reserve from the Expedition zone — You may pay {1}. If you do: Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "2"
+    },
+    "id": "2X6818ANTR90RREA2TF0NPTH3Z",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/JPG/en_EN/67bdebb0a717bcfe962d4dad2e831e72.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Kakoba, Legion Commander",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_805",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_OR_15_U_805",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_15_U_805",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/7e4d992f9eb4d777d2e4344377ab5041.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/6fde1515b930372468616d5fd1c67a6f.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/529854383bfa5c09b54fec9a955ba690.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/edba8e025c7c3922d6343b3d5aa6f438.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/2e9d7ef9a549c0ddc0af582d66317fa4.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/fa37586a735442b63373",
+                    "@type": "CardSubType",
+                    "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+                    "name": "Noble",
+                    "reference": "NOBLE"
+                },
+                {
+                    "@id": "/.well-known/genid/aa9265a5c98b21d99480",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat",
+                    "reference": "SOLDIER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "3",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "{J} Si vous contrôlez au moins trois Personnages : Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.  Lorsque je vais en Réserve depuis la zone d'Expédition — Vous pouvez payer {1}. Si vous le faites : Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "2"
+            },
+            "id": "2X6818ANTR90RREA2TF0NPTH3Z",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/edba8e025c7c3922d6343b3d5aa6f438.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Kakoba, Commandant de Légion",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_805",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_OR_15_U_805"
+        }
+    },
+    "updated": null
+}

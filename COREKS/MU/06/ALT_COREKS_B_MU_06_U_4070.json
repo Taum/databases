@@ -1,0 +1,168 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_06_U_4070",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/de_DE/88674e9b4faf1c0420cd20238b85934d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/en_US/fba3ad73822e850dcaa1260fb2ada4cd.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/es_ES/a24998ef4dc3d3caab3b59811e62aa4d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/fr_FR/afa635261e49820b1005d2b9be247c52.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/it_IT/25135aeee927bf22a29206c25ddbc49a.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/224e8a114cfb96d8fdb2",
+            "@type": "CardSubType",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal",
+            "reference": "ANIMAL"
+        },
+        {
+            "@id": "/.well-known/genid/cb78827550ea5176ee71",
+            "@type": "CardSubType",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant",
+            "reference": "PLANT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost.",
+        "FOREST_POWER": "1",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{R} []I gain [[Anchored]].  At Dusk — If I have 2 or more boosts: You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "2"
+    },
+    "id": "2HNWARP1RR982SDTEWQ4EN2EDV",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/JPG/en_EN/70a527a764f4c438bc1bbc748b25c017.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Spindle Harvesters",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_06_U_4070",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_MU_06_U_4070",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_06_U_4070",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/de_DE/88674e9b4faf1c0420cd20238b85934d.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/en_US/fba3ad73822e850dcaa1260fb2ada4cd.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/es_ES/a24998ef4dc3d3caab3b59811e62aa4d.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/fr_FR/afa635261e49820b1005d2b9be247c52.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/it_IT/25135aeee927bf22a29206c25ddbc49a.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_06/ALT_CORE_B_MU_06_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/1c5108ca17067998f4f6",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal",
+                    "reference": "ANIMAL"
+                },
+                {
+                    "@id": "/.well-known/genid/12537164d1d833f6cb24",
+                    "@type": "CardSubType",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante",
+                    "reference": "PLANT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost.",
+                "FOREST_POWER": "1",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{R} []Je gagne [[Ancré]].  Au Crépuscule — Si j'ai au moins 2 boosts : Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "2"
+            },
+            "id": "2HNWARP1RR982SDTEWQ4EN2EDV",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_06/UNIQUE/JPG/fr_FR/afa635261e49820b1005d2b9be247c52.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Vendangeurs du Fuseau",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_06_U_4070",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_MU_06_U_4070"
+        }
+    },
+    "updated": null
+}

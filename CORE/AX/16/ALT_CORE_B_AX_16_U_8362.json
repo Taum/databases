@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_16_U_8362",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/de_DE/0bb50f62b5850e3635f561515b7d50c2.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/en_US/a9d35f814750dfd6d666d265e9a79538.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/es_ES/c80d5d2ec08c2868cfc712a94ad21a17.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/eb16a93b0b5b052d63d1c9888805e0b1.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/it_IT/ff3e7d5be632bdcbd7b60fa6acaaf356.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/6117dc3c4af4cfdaf7bb",
+            "@type": "CardSubType",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer",
+            "reference": "ENGINEER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play from your hand this turn activates its {r} abilities.",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "[]If I have 2 or more boosts: Your Characters other than me have: \"{R} I gain 1 boost.\"  {R} You may pay {1}. If you do: Create a [Brassbug 2/2/2] Robot token in each of your Expeditions.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "4"
+    },
+    "id": "7C34MA35EC8T5TKMRTF1988QDE",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/JPG/en_EN/dff2820be2d71b9c998f6f6577b983d4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Foundry Armorer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_16_U_8362",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_AX_16_U_8362",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_16_U_8362",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/de_DE/0bb50f62b5850e3635f561515b7d50c2.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/en_US/a9d35f814750dfd6d666d265e9a79538.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/es_ES/c80d5d2ec08c2868cfc712a94ad21a17.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/eb16a93b0b5b052d63d1c9888805e0b1.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/it_IT/ff3e7d5be632bdcbd7b60fa6acaaf356.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/ALT_CORE_B_AX_16_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/48e9d7691c4b5627dbd3",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur",
+                    "reference": "ENGINEER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez de votre main ce tour active ses capacités {r}.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "[]Si j'ai au moins 2 boosts : Vos Personnages autres que moi ont : « {R} Je gagne 1 boost. »  {R} Vous pouvez payer {1}. Si vous le faites : Créez un jeton Robot [2/2/2 Scarabot] dans chacune de vos Expéditions.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "4"
+            },
+            "id": "7C34MA35EC8T5TKMRTF1988QDE",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_16/UNIQUE/JPG/fr_FR/eb16a93b0b5b052d63d1c9888805e0b1.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Armurière de la Fonderie",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_16_U_8362",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_AX_16_U_8362"
+        }
+    },
+    "updated": null
+}

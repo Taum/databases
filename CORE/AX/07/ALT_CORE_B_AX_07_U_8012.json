@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_07_U_8012",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/de_DE/74e5d0a50aa7b3c6caaa073f9a6857fd.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/en_US/b34d53c1b4f4aebd95a67fbc849d6d14.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/es_ES/edbad7ea7ca7d2965999ee25628521af.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/e48ad6af234836da43d67c36601ba20b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/it_IT/e679fe26cde661beba8b8e6ceb09c460.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/415dc13e5f9692eb4bfa",
+            "@type": "CardSubType",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer",
+            "reference": "ENGINEER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Permanent you play this Afternoon costs {1} less.",
+        "FOREST_POWER": "0",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{J} Unless you have eight or more Mana Orbs: The next card you play this Afternoon costs {1} less.  When I go to Reserve from the Expedition zone — If you control one or more Landmarks: Create an [Ordis Recruit 1/1/1] Soldier token in my Expedition.",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "1"
+    },
+    "id": "4NA524QZS490AT5RBE57D1N7DF",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/JPG/en_EN/d32f96695550df4e4fe54eb94a247ec8.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis",
+        "reference": "OR"
+    },
+    "name": "Foundry Mechanic",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_07_U_8012",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_AX_07_U_8012",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_07_U_8012",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/de_DE/74e5d0a50aa7b3c6caaa073f9a6857fd.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/en_US/b34d53c1b4f4aebd95a67fbc849d6d14.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/es_ES/edbad7ea7ca7d2965999ee25628521af.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/e48ad6af234836da43d67c36601ba20b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/it_IT/e679fe26cde661beba8b8e6ceb09c460.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/ALT_CORE_B_AX_07_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/be46610479ecf4f2cafb",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur",
+                    "reference": "ENGINEER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Permanent que vous jouez cet Après-midi coûte {1} de moins.",
+                "FOREST_POWER": "0",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{J} Sauf si vous avez au moins huit Orbes de Mana : La prochaine carte que vous jouez cet Après-midi coûte {1} de moins.  Lorsque je vais en Réserve depuis la zone d'Expédition — Si vous contrôlez au moins un Repère : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans mon Expédition.",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "1"
+            },
+            "id": "4NA524QZS490AT5RBE57D1N7DF",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_07/UNIQUE/JPG/fr_FR/e48ad6af234836da43d67c36601ba20b.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis",
+                "reference": "OR"
+            },
+            "name": "Mécanicienne de la Fonderie",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_07_U_8012",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_AX_07_U_8012"
+        }
+    },
+    "updated": null
+}

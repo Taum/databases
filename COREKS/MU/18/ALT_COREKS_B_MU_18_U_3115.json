@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_18_U_3115",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/de_DE/5b424c98fd58690ecf215a8231e5f59e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/en_US/cadc327c848e60dd25f8f18c0767049e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/es_ES/eed9a6b29449ebdb9fda49c1008fe207.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/1c0a26f6b48457df7d67b1dd40855617.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/it_IT/90d8abb53981a8b9d978b0115f88c55e.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/79cff6bc1c7852df06c9",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost.",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "{J} []Target Character gains [[Anchored]].  When I leave the Expedition zone — You may pay {1}. If you do: Each player puts the top card of their deck in their Mana zone (as an exhausted Mana Orb).",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "3"
+    },
+    "id": "08J951XGCG80PR7C4WP1YJ422M",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/JPG/en_EN/6c84a214a52308ae2ef895d2403e961a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Parvati",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_18_U_3115",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_MU_18_U_3115",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_18_U_3115",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/de_DE/5b424c98fd58690ecf215a8231e5f59e.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/en_US/cadc327c848e60dd25f8f18c0767049e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/es_ES/eed9a6b29449ebdb9fda49c1008fe207.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/1c0a26f6b48457df7d67b1dd40855617.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/it_IT/90d8abb53981a8b9d978b0115f88c55e.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/3aabaa4fde023536fef2",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "{J} []Un Personnage ciblé gagne [[Ancré]].  Lorsque je quitte la zone d'Expédition — Vous pouvez payer {1}. Si vous le faites : Chaque joueur met la première carte de son deck dans sa zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "3"
+            },
+            "id": "08J951XGCG80PR7C4WP1YJ422M",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/1c0a26f6b48457df7d67b1dd40855617.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Parvati",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_18_U_3115",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_MU_18_U_3115"
+        }
+    },
+    "updated": null
+}

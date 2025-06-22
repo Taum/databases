@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_BR_22_U_2457",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/de_DE/31b1c32da9c121e1db95048d0f182f6c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/en_US/d9d5822db44f946234ba8569687d9961.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/es_ES/c16520840f6218e271c81908d423eedd.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/fr_FR/7d0c126cc9ac936a5c2e7767dea6f4af.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/it_IT/83bb6c9a243b5ec9e9b1edf497dd18df.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/05d8c7811f76701b191f",
+            "@type": "CardSubType",
+            "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+            "name": "Dragon",
+            "reference": "DRAGON"
+        },
+        {
+            "@id": "/.well-known/genid/1fcf7eca7cd985901f66",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "6",
+        "MAIN_COST": "5",
+        "MAIN_EFFECT": "[][]I am [Tough 1].  {H} You may discard a card from your Reserve. If you do: Target Character other than me gains [[Fleeting]], [[Anchored]] or [[Asleep]].",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "RECALL_COST": "6"
+    },
+    "id": "5XFEH72PH98F6V57C7CR98HBFY",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/JPG/en_EN/734e54369beceb969edbab0f55741318.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Shenlong",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_22_U_2457",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_BR_22_U_2457",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_BR_22_U_2457",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/de_DE/31b1c32da9c121e1db95048d0f182f6c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/en_US/d9d5822db44f946234ba8569687d9961.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/es_ES/c16520840f6218e271c81908d423eedd.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/fr_FR/7d0c126cc9ac936a5c2e7767dea6f4af.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/it_IT/83bb6c9a243b5ec9e9b1edf497dd18df.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/ALT_CORE_B_BR_22_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/65abccef0cc30932dcde",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+                    "name": "Dragon",
+                    "reference": "DRAGON"
+                },
+                {
+                    "@id": "/.well-known/genid/d5c4c37a0cd71a79236b",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "6",
+                "MAIN_COST": "5",
+                "MAIN_EFFECT": "[][]Je suis [Coriace 1].  {H} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Un Personnage ciblé autre que moi gagne [[Fugace]], [[Ancré]] ou [[Endormi]].",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "5",
+                "RECALL_COST": "6"
+            },
+            "id": "5XFEH72PH98F6V57C7CR98HBFY",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_22/UNIQUE/JPG/fr_FR/7d0c126cc9ac936a5c2e7767dea6f4af.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Shenlong",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_22_U_2457",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_BR_22_U_2457"
+        }
+    },
+    "updated": null
+}

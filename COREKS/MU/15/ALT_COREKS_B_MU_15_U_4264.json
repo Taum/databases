@@ -1,0 +1,168 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_15_U_4264",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/de_DE/6dd483e34ebccd4299b6772eb5ca7624.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/en_US/9c8d27ed446543da5e3d9acfa1649159.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/es_ES/ad955cbc02f90153c307ad7397a9e0ba.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/ca3d7717f79cf3d90935b133cebf83cc.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/it_IT/11c47d7953f91d51059b201670888127.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/85b2a0b2d7b209c143f2",
+            "@type": "CardSubType",
+            "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+            "name": "Dragon",
+            "reference": "DRAGON"
+        },
+        {
+            "@id": "/.well-known/genid/44d05816300749654526",
+            "@type": "CardSubType",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant",
+            "reference": "PLANT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "FOREST_POWER": "1",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{J} []I gain [[Anchored]].  At Noon — You may discard a card from your Reserve. If you do: Each player draws a card.",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "3"
+    },
+    "id": "5D2649PQHV8XYA3BN2SXY6RGEG",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/JPG/en_EN/b6f87b309b73a6857d81e2052724668e.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Dracaena",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_15_U_4264",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_MU_15_U_4264",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_15_U_4264",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/de_DE/6dd483e34ebccd4299b6772eb5ca7624.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/en_US/9c8d27ed446543da5e3d9acfa1649159.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/es_ES/ad955cbc02f90153c307ad7397a9e0ba.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/ca3d7717f79cf3d90935b133cebf83cc.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/it_IT/11c47d7953f91d51059b201670888127.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_15/ALT_CORE_B_MU_15_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/b89d861117af9845e9e8",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQCSK17FMGRQDPCFZZ4GB",
+                    "name": "Dragon",
+                    "reference": "DRAGON"
+                },
+                {
+                    "@id": "/.well-known/genid/6c46dc3e5177edc75db2",
+                    "@type": "CardSubType",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante",
+                    "reference": "PLANT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "FOREST_POWER": "1",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{J} []Je gagne [[Ancré]].  À Midi — Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Chaque joueur pioche une carte.",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "3"
+            },
+            "id": "5D2649PQHV8XYA3BN2SXY6RGEG",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_MU_15/UNIQUE/JPG/fr_FR/ca3d7717f79cf3d90935b133cebf83cc.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Dracaena",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_15_U_4264",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_MU_15_U_4264"
+        }
+    },
+    "updated": null
+}

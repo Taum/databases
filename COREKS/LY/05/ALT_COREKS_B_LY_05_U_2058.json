@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_05_U_2058",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/de_DE/f5d33a6af159c3a894e62764f85aad16.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/en_US/e7494b3c2a8d0e976e8117a0cc22d997.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/es_ES/14af4541f56763c40114a9247e8925aa.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/fr_FR/b16513c2aaa0f85593a506ea6d533f72.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/it_IT/8b7d9d587dcaf31c3fad07b34518d404.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/e8d933f5ed97d59a4791",
+            "@type": "CardSubType",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist",
+            "reference": "ARTIST"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost.",
+        "FOREST_POWER": "1",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "When you roll one or more dice — If there are three or more base statistics of 0 among Characters you control: You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "3"
+    },
+    "id": "7G0JWBDV6N8VSS3FTW02WSRJMW",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/JPG/en_EN/f12335085b6b56cd67b29f6ab5a704a6.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Lyra Thespian",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_05_U_2058",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_LY_05_U_2058",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_05_U_2058",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/de_DE/f5d33a6af159c3a894e62764f85aad16.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/en_US/e7494b3c2a8d0e976e8117a0cc22d997.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/es_ES/14af4541f56763c40114a9247e8925aa.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/fr_FR/b16513c2aaa0f85593a506ea6d533f72.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/it_IT/8b7d9d587dcaf31c3fad07b34518d404.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_05/ALT_CORE_B_LY_05_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/cf0bc72ebad65a395e49",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste",
+                    "reference": "ARTIST"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost.",
+                "FOREST_POWER": "1",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "Lorsque vous lancez au moins un dé — S'il y a au moins trois statistiques de base 0 parmi les Personnages que vous contrôlez : Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "3"
+            },
+            "id": "7G0JWBDV6N8VSS3FTW02WSRJMW",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_05/UNIQUE/JPG/fr_FR/b16513c2aaa0f85593a506ea6d533f72.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Comédien Lyra",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_05_U_2058",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_LY_05_U_2058"
+        }
+    },
+    "updated": null
+}

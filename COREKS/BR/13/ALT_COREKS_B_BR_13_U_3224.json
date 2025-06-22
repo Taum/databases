@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_13_U_3224",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/fd20388fdee2e8d43fb9ee476f078529.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/3479a2856471e7d937e2d85839b3f1c0.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/097a57edef7b41ad059a797a0541fe52.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c2b9576527d8e5c3b1d5fe29a3968c8b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/3e508f5f2b55dded935851b05409020c.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/2710695e48ce36da6823",
+            "@type": "CardSubType",
+            "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+            "name": "Trainer",
+            "reference": "TRAINER"
+        },
+        {
+            "@id": "/.well-known/genid/a9de283ec596b0fd1cc3",
+            "@type": "CardSubType",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit",
+            "reference": "SPIRIT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "4",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{R} Roll a die. On a 4+: Each Character controlled by target player gains [[Fleeting]].",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "RECALL_COST": "5"
+    },
+    "id": "1JXHNP472F925RJAM9C1YFAQH4",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_EN/45c799976d8b1ffc15d024995346002b.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Kappa",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_3224",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_13_U_3224",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_13_U_3224",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/fd20388fdee2e8d43fb9ee476f078529.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/3479a2856471e7d937e2d85839b3f1c0.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/097a57edef7b41ad059a797a0541fe52.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c2b9576527d8e5c3b1d5fe29a3968c8b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/3e508f5f2b55dded935851b05409020c.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/45cd6fd68731bd883a92",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+                    "name": "Mentor",
+                    "reference": "TRAINER"
+                },
+                {
+                    "@id": "/.well-known/genid/443fb728eb9c6cabff3f",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit",
+                    "reference": "SPIRIT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "4",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{R} Lancez un dé. Sur 4+ : Chaque Personnage contrôlé par un joueur ciblé gagne [[Fugace]].",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "5",
+                "RECALL_COST": "5"
+            },
+            "id": "1JXHNP472F925RJAM9C1YFAQH4",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/c2b9576527d8e5c3b1d5fe29a3968c8b.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Kappa",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_3224",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_13_U_3224"
+        }
+    },
+    "updated": null
+}

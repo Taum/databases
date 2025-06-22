@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_MU_08_U_4246",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/de_DE/fbd0cae2b46f8781ed194b8c37786633.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/en_US/1009295c10d4d491b27133e254c8bb2d.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/es_ES/f1bd84b67ad0d3f745bd03593140c5b3.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/fr_FR/cab0ea499b4af5ce48d62621c5c1f341.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/it_IT/5a817dd22f49d531480a1c5f2eef1d3c.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_54f6043b315b1c02e078207796193fd4",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_75aa48b309053f8e4c677dd5b6c9f5ac",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_4e4654d7c9907a89ec0e9a4d76e89ca6"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/0c7ec55f77196bc97051",
+            "@type": "CardSubType",
+            "id": "01HKAGSB49H24XWW17AAY441MT",
+            "name": "Plant",
+            "reference": "PLANT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "0",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{J} You may discard a card from your Reserve. If you do: I gain [[Anchored]].  {R} If you control two or more Plants other than me: Up to one target Character gains [[Asleep]]. You may give it 2 boosts.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "2"
+    },
+    "id": "480W9T0PBR826V7HRKDB5M76EH",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/JPG/en_EN/0021351467464e7b1b3c14aba3116c89.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Sneezer Shroom",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_08_U_4246",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_MU_08_U_4246",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_MU_08_U_4246",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/de_DE/fbd0cae2b46f8781ed194b8c37786633.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/en_US/1009295c10d4d491b27133e254c8bb2d.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/es_ES/f1bd84b67ad0d3f745bd03593140c5b3.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/fr_FR/cab0ea499b4af5ce48d62621c5c1f341.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/it_IT/5a817dd22f49d531480a1c5f2eef1d3c.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_54f6043b315b1c02e078207796193fd4",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_75aa48b309053f8e4c677dd5b6c9f5ac",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/WEB_4e4654d7c9907a89ec0e9a4d76e89ca6"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/10d8662eaab699002b5d",
+                    "@type": "CardSubType",
+                    "id": "01HKAGSB49H24XWW17AAY441MT",
+                    "name": "Plante",
+                    "reference": "PLANT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "0",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{J} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Je gagne [[Ancré]].  {R} Si vous contrôlez au moins deux Plantes autres que moi : Jusqu'à un Personnage ciblé gagne [[Endormi]]. Vous pouvez lui donner 2 boosts.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "2"
+            },
+            "id": "480W9T0PBR826V7HRKDB5M76EH",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_MU_08/UNIQUE/JPG/fr_FR/cab0ea499b4af5ce48d62621c5c1f341.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Champignon Éternueur",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_MU_08_U_4246",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_MU_08_U_4246"
+        }
+    },
+    "updated": null
+}

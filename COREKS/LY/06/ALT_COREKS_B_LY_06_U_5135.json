@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_06_U_5135",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/de_DE/55c7b441d7fef1fdfc6c776487806392.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/en_US/b3afd5111a042f4f0b838b3bcb10d350.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/es_ES/80cc4af584d8312d508f9455808cd3b8.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/fr_FR/ca9b28425dbe7d963761be47707c94be.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/it_IT/2f568eb0e9bfe06e84295316e3a991dc.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/aa07b6ce11629feebbaf",
+            "@type": "CardSubType",
+            "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+            "name": "Citizen",
+            "reference": "CITIZEN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character other than me lose [[Fleeting]].",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{H} []Roll a die. On a 4+, I gain 2 boosts. On a 1-3, I gain 1 boost.  {R} If you control one or more Landmarks: Target Character in your other Expedition (the one I'm not in) gains 2 boosts.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "RECALL_COST": "2"
+    },
+    "id": "1H2HJM396V9KF8CMG4X4XM1QFN",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/JPG/en_EN/779815bedb4085df73e980791bcff9e4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Ouroboros Trickster",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_06_U_5135",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_LY_06_U_5135",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_06_U_5135",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/de_DE/55c7b441d7fef1fdfc6c776487806392.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/en_US/b3afd5111a042f4f0b838b3bcb10d350.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/es_ES/80cc4af584d8312d508f9455808cd3b8.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/fr_FR/ca9b28425dbe7d963761be47707c94be.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/it_IT/2f568eb0e9bfe06e84295316e3a991dc.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_06/ALT_CORE_B_LY_06_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/0fc10ec5d9abd7ea7b1d",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+                    "name": "Citoyen",
+                    "reference": "CITIZEN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{H} []Lancez un dé. Sur 4+, je gagne 2 boosts. Sur 1-3, je gagne 1 boost.  {R} Si vous contrôlez au moins un Repère : Un Personnage ciblé dans votre autre Expédition (celle où je ne suis pas) gagne 2 boosts.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "RECALL_COST": "2"
+            },
+            "id": "1H2HJM396V9KF8CMG4X4XM1QFN",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_06/UNIQUE/JPG/fr_FR/ca9b28425dbe7d963761be47707c94be.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Prestidigitatrice de l'Ouroboros",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_06_U_5135",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_LY_06_U_5135"
+        }
+    },
+    "updated": null
+}

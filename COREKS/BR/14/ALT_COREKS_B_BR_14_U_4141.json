@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_14_U_4141",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/de_DE/f9c7f779d865a3dde81de22c6c75169c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/en_US/11703af5b30e0f4b243595cf0a40ecb5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/es_ES/48e6c383b8e51124fb36d394effa7faa.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/fr_FR/51a5bb7c52c92b291f053c1a6c878d57.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/it_IT/295839fa4d31c0706f8dda9e04d20c41.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/5a92b3ead2004d9f6e24",
+            "@type": "CardSubType",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer",
+            "reference": "ADVENTURER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play from your hand this turn activates its {r} abilities.",
+        "FOREST_POWER": "3",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{H} []You may have target Character other than me lose [[Fleeting]] and gain 1 boost.  {R} You may put a card from your hand in Reserve. If you do: Target Character gains 2 boosts.",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "3"
+    },
+    "id": "0B253MK2MW853ARP9DFC4Q4C3Y",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/JPG/en_EN/5fd15fa2df63151d38a0c1d2cd717eb7.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Bravos Vanguard",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_14_U_4141",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_14_U_4141",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_14_U_4141",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/de_DE/f9c7f779d865a3dde81de22c6c75169c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/en_US/11703af5b30e0f4b243595cf0a40ecb5.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/es_ES/48e6c383b8e51124fb36d394effa7faa.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/fr_FR/51a5bb7c52c92b291f053c1a6c878d57.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/it_IT/295839fa4d31c0706f8dda9e04d20c41.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_14/ALT_CORE_B_BR_14_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/bc2486839f05557e0ec5",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier",
+                    "reference": "ADVENTURER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez de votre main ce tour active ses capacités {r}.",
+                "FOREST_POWER": "3",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{H} []Vous pouvez faire perdre [[Fugace]] et gagner 1 boost à un Personnage ciblé autre que moi.  {R} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Un Personnage ciblé gagne 2 boosts.",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "3"
+            },
+            "id": "0B253MK2MW853ARP9DFC4Q4C3Y",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_14/UNIQUE/JPG/fr_FR/51a5bb7c52c92b291f053c1a6c878d57.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Avant-Garde Bravos",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_14_U_4141",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_14_U_4141"
+        }
+    },
+    "updated": null
+}

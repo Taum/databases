@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_24_U_2921",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/6b4ba79b6bc1c9e81d803812f132c987.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/f8e8a17fe7c302b6eee2f6d6c7ed3eee.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/7c831c48c7ed287c65b18089e156101c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/638f77f7d4acbfdb82b32a977aa97928.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/02be118095b1bb3e18eb03df280d9de1.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/81fc55ea1f11a814f076",
+            "@type": "CardSubType",
+            "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+            "name": "Leviathan",
+            "reference": "LEVIATHAN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []Draw a card.",
+        "FOREST_POWER": "5",
+        "MAIN_COST": "8",
+        "MAIN_EFFECT": "[][]I am [Gigantic].  [][]I am [Tough X], where X is the number of regions between your Hero and Companion.  {H} []Roll a die. On a 4+, I gain [[Anchored]]. On a 1-3, I gain 3 boosts.",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "6",
+        "RECALL_COST": "9"
+    },
+    "id": "4WW18GYEXJ9F88G0VH56R0N5W7",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/JPG/en_EN/d3f384543fccdd35687802b58ee82c94.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Kaibara, Asgarthan Leviathan",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_24_U_2921",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_24_U_2921",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_24_U_2921",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/6b4ba79b6bc1c9e81d803812f132c987.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/f8e8a17fe7c302b6eee2f6d6c7ed3eee.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/7c831c48c7ed287c65b18089e156101c.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/638f77f7d4acbfdb82b32a977aa97928.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/02be118095b1bb3e18eb03df280d9de1.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/3455ec95a8c98fab92fc",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+                    "name": "Léviathan",
+                    "reference": "LEVIATHAN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Piochez une carte.",
+                "FOREST_POWER": "5",
+                "MAIN_COST": "8",
+                "MAIN_EFFECT": "[][]Je suis [Gigantesque].  [][]Je suis [Coriace X], X étant le nombre de régions entre votre Héros et votre Compagnon.  {H} []Lancez un dé. Sur 4+, je gagne [[Ancré]]. Sur 1-3, je gagne 3 boosts.",
+                "MOUNTAIN_POWER": "6",
+                "OCEAN_POWER": "6",
+                "RECALL_COST": "9"
+            },
+            "id": "4WW18GYEXJ9F88G0VH56R0N5W7",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/638f77f7d4acbfdb82b32a977aa97928.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Kaibara, Léviathan Asgarthi",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_24_U_2921",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_24_U_2921"
+        }
+    },
+    "updated": null
+}

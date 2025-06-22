@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_36_U_10264",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/de_DE/08e00fe06a037fcd171de03333f8e0a6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/en_US/6c3d9b6c9d7c950e8f4e07d4dd22b3c1.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/es_ES/14cc3b1bee6e637c370265fcd03fa720.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/fr_FR/8146415a0d9053b2777f1adb6a508156.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/it_IT/50cf2da4f9b21e8e24e46771d3e6baf8.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_f19f852f32dcd62f58bf88d9bcff629a",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_0d8e4fe28ad0da293d9ee31050b6a45d",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_56600599345217988c93472f2ae7de3d"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "name": "Trial by Frost",
+        "reference": "ALIZE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/052fc1ac3862c63987f5",
+            "@type": "CardSubType",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal",
+            "reference": "ANIMAL"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn costs {1} less.",
+        "FOREST_POWER": "0",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "{J} If your Reserve is empty: Draw a card, otherwise [Resupply].  {H} If your hand is empty: Target Character gains 2 boosts.",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "2"
+    },
+    "id": "207HY500NM8WXA38XC93PRCYVE",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/JPG/en_EN/d3e53cfd102765fee1fb388eca2ff615.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Walrus Scout",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_36_U_10264",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_ALIZE_B_AX_36_U_10264",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_AX_36_U_10264",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/de_DE/08e00fe06a037fcd171de03333f8e0a6.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/en_US/6c3d9b6c9d7c950e8f4e07d4dd22b3c1.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/es_ES/14cc3b1bee6e637c370265fcd03fa720.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/fr_FR/8146415a0d9053b2777f1adb6a508156.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/it_IT/50cf2da4f9b21e8e24e46771d3e6baf8.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_f19f852f32dcd62f58bf88d9bcff629a",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_0d8e4fe28ad0da293d9ee31050b6a45d",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/WEB_56600599345217988c93472f2ae7de3d"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/ALIZE",
+                "@type": "CardSet",
+                "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+                "name": "Épreuve du froid",
+                "reference": "ALIZE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/fa3e3840e31b6e0e67b5",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal",
+                    "reference": "ANIMAL"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour coûte {1} de moins.",
+                "FOREST_POWER": "0",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "{J} Si votre Réserve est vide : Piochez une carte. Sinon, [Ravitaillez].  {H} Si votre main est vide : Un Personnage ciblé gagne 2 boosts.",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "2"
+            },
+            "id": "207HY500NM8WXA38XC93PRCYVE",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_36/UNIQUE/JPG/fr_FR/8146415a0d9053b2777f1adb6a508156.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Éclaireur Morse",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_36_U_10264",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_ALIZE_B_AX_36_U_10264"
+        }
+    },
+    "updated": null
+}

@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_YZ_07_U_1363",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/de_DE/f0d6c707399693b26c20f16ca1cea00e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/en_US/c0a2994260dccd5ea78cf0228aea520b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/es_ES/8f45350a7d55a733e1403277d85f9468.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/fr_FR/8eab80f84837983d4628f8bab96a74a8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/it_IT/d2cfb8988aeb473326e6ce136da779a5.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/b15d73c686eafd8a994f",
+            "@type": "CardSubType",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage",
+            "reference": "MAGE"
+        },
+        {
+            "@id": "/.well-known/genid/91cd8a267c895ad23278",
+            "@type": "CardSubType",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier",
+            "reference": "SOLDIER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "1",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{R} You may discard a card from your Reserve. If you do: I gain 2 boosts.  When you play a Spell — []Target Character gains 1 boost.  When I go to Reserve from the Expedition zone — If you control one or more Landmarks: You may discard target Permanent.",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "0",
+        "RECALL_COST": "2"
+    },
+    "id": "2RHH4VPSZC9YFS7Z1ZJ6PJQPNP",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/JPG/en_EN/27081b3a8ba425ac57cac3e11d76c276.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir",
+        "reference": "YZ"
+    },
+    "name": "Kadigiran Mage-Dancer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_07_U_1363",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_YZ_07_U_1363",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_YZ_07_U_1363",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/de_DE/f0d6c707399693b26c20f16ca1cea00e.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/en_US/c0a2994260dccd5ea78cf0228aea520b.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/es_ES/8f45350a7d55a733e1403277d85f9468.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/fr_FR/8eab80f84837983d4628f8bab96a74a8.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/it_IT/d2cfb8988aeb473326e6ce136da779a5.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/ALT_CORE_B_YZ_07_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/79e7eebb400fc1a1c343",
+                    "@type": "CardSubType",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage",
+                    "reference": "MAGE"
+                },
+                {
+                    "@id": "/.well-known/genid/7b6a64769219b7c0bd41",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat",
+                    "reference": "SOLDIER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "1",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{R} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Je gagne 2 boosts.  Lorsque vous jouez un Sort — []Un Personnage ciblé gagne 1 boost.  Lorsque je vais en Réserve depuis la zone d'Expédition — Si vous contrôlez au moins un Repère : Vous pouvez défausser un Permanent ciblé.",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "0",
+                "RECALL_COST": "2"
+            },
+            "id": "2RHH4VPSZC9YFS7Z1ZJ6PJQPNP",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_07/UNIQUE/JPG/fr_FR/8eab80f84837983d4628f8bab96a74a8.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir",
+                "reference": "YZ"
+            },
+            "name": "Mage-Danseur du Kadigir",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_07_U_1363",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_YZ_07_U_1363"
+        }
+    },
+    "updated": null
+}

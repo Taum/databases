@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_YZ_16_U_5159",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/de_DE/3c91857849f5f8842d8864e4f633d899.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/en_US/8ca169adfe79fe43c6f486c2a8ad6b88.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/es_ES/5bafa4b4bffbf89e31db2358f8d884c1.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/525a1e4e009c6bc9e5a0d21d5cad5802.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/it_IT/7f139040eb7c1186e83601cba9f93f39.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/b77a58c5d2fb7cbaae3a",
+            "@type": "CardSubType",
+            "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+            "name": "Citizen",
+            "reference": "CITIZEN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play from your hand this turn activates its {r} abilities.",
+        "FOREST_POWER": "4",
+        "MAIN_COST": "7",
+        "MAIN_EFFECT": "{H} You may discard one of your Mana Orbs. If you do: You may send target Character to Reserve.  {H} []You may discard target Character or Permanent.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "2"
+    },
+    "id": "7BC5S2YMW38H7ASZFJTT39WP93",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/JPG/en_EN/efb64e058d79085c5ac9f56c51c730a1.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Dorothy Gale",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_16_U_5159",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_YZ_16_U_5159",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_YZ_16_U_5159",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/de_DE/3c91857849f5f8842d8864e4f633d899.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/en_US/8ca169adfe79fe43c6f486c2a8ad6b88.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/es_ES/5bafa4b4bffbf89e31db2358f8d884c1.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/525a1e4e009c6bc9e5a0d21d5cad5802.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/it_IT/7f139040eb7c1186e83601cba9f93f39.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_16/ALT_CORE_B_YZ_16_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/59d608a106c811c8111d",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQWDFDGS8YVZGW98BVV9D",
+                    "name": "Citoyen",
+                    "reference": "CITIZEN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez de votre main ce tour active ses capacités {r}.",
+                "FOREST_POWER": "4",
+                "MAIN_COST": "7",
+                "MAIN_EFFECT": "{H} Vous pouvez défausser un de vos Orbes de Mana. Si vous le faites : Vous pouvez envoyer un Personnage ciblé en Réserve.  {H} []Vous pouvez défausser un Personnage ou Permanent ciblé.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "2"
+            },
+            "id": "7BC5S2YMW38H7ASZFJTT39WP93",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_16/UNIQUE/JPG/fr_FR/525a1e4e009c6bc9e5a0d21d5cad5802.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Dorothy Gale",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_16_U_5159",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_YZ_16_U_5159"
+        }
+    },
+    "updated": null
+}

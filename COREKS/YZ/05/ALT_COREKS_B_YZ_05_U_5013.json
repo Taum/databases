@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_YZ_05_U_5013",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/de_DE/d72fbc60ced8195c47cc061527f7a7de.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/en_US/b473275a25e155a1b0b89e11718fb15c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/es_ES/d0f6f70d4d7b1fb357735cb9fcfde792.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/fr_FR/04fa71ca5e5fc296e8871a4aeb071fc8.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/it_IT/94f9b567706157b5fc2ebbfb6627ebd0.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/e30978c33a6595229965",
+            "@type": "CardSubType",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit",
+            "reference": "SPIRIT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "1",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{J} You may sacrifice me. If you do: Target Character switches Expeditions.  When I'm sacrificed — If I'm not [[Fleeting]]: Put me in Reserve.  When a card leaves your Reserve during the Afternoon — You may pay {1}. If you do: You may have target Character other than me lose [[Fleeting]] and gain 1 boost.",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "2"
+    },
+    "id": "4Q6R9NP3MP83RBHH3MV3TRC3EV",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/JPG/en_EN/aefa7a815f135a7e64da2f4fe1cc58f8.jpg",
+    "isSuspended": true,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom",
+        "reference": "AX"
+    },
+    "name": "Moonlight Jellyfish",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_05_U_5013",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_YZ_05_U_5013",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_YZ_05_U_5013",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/de_DE/d72fbc60ced8195c47cc061527f7a7de.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/en_US/b473275a25e155a1b0b89e11718fb15c.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/es_ES/d0f6f70d4d7b1fb357735cb9fcfde792.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/fr_FR/04fa71ca5e5fc296e8871a4aeb071fc8.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/it_IT/94f9b567706157b5fc2ebbfb6627ebd0.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_05/ALT_CORE_B_YZ_05_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/14d76c5b38b9bdcd713c",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit",
+                    "reference": "SPIRIT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "1",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{J} Vous pouvez me sacrifier. Si vous le faites : Un Personnage ciblé change d'Expédition.  Lorsque je suis sacrifié — Si je ne suis pas [[Fugace]] : Mettez-moi en Réserve.  Lorsqu'une carte quitte votre Réserve pendant l'Après-midi — Vous pouvez payer {1}. Si vous le faites : Vous pouvez faire perdre [[Fugace]] et gagner 1 boost à un Personnage ciblé autre que moi.",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "2"
+            },
+            "id": "4Q6R9NP3MP83RBHH3MV3TRC3EV",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_YZ_05/UNIQUE/JPG/fr_FR/04fa71ca5e5fc296e8871a4aeb071fc8.jpg",
+            "isSuspended": true,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom",
+                "reference": "AX"
+            },
+            "name": "Méduse Lunaire",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_YZ_05_U_5013",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_YZ_05_U_5013"
+        }
+    },
+    "updated": null
+}

@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_24_U_5148",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/6eb08871c3d6af650d4425f0001aef0c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/d56d6c51c375598cc571ea84eaa0085c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/0957bf3b6600344547e2fd5b4763b424.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/8dcb3582f2ea50c8b5ec5ed69d7382c9.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/cebf855aa6deae712e4b4eaa092a1844.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/9f946ece31f9d833d3f3",
+            "@type": "CardSubType",
+            "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+            "name": "Leviathan",
+            "reference": "LEVIATHAN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play from your hand this turn activates its {r} abilities.",
+        "FOREST_POWER": "6",
+        "MAIN_COST": "8",
+        "MAIN_EFFECT": "[][]I am [Gigantic].  [][]I am [Tough 1].  {R} []Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "8",
+        "RECALL_COST": "8"
+    },
+    "id": "1MYHR3X3F09W19M789N1Z84BZ1",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/JPG/en_EN/32ee67fb36010ede4c7a8c25f48d29dd.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Kaibara, Asgarthan Leviathan",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_24_U_5148",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_24_U_5148",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_24_U_5148",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/6eb08871c3d6af650d4425f0001aef0c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/d56d6c51c375598cc571ea84eaa0085c.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/0957bf3b6600344547e2fd5b4763b424.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/8dcb3582f2ea50c8b5ec5ed69d7382c9.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/cebf855aa6deae712e4b4eaa092a1844.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/0855ecf8c8cffa427e7e",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+                    "name": "Léviathan",
+                    "reference": "LEVIATHAN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez de votre main ce tour active ses capacités {r}.",
+                "FOREST_POWER": "6",
+                "MAIN_COST": "8",
+                "MAIN_EFFECT": "[][]Je suis [Gigantesque].  [][]Je suis [Coriace 1].  {R} []Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "MOUNTAIN_POWER": "6",
+                "OCEAN_POWER": "8",
+                "RECALL_COST": "8"
+            },
+            "id": "1MYHR3X3F09W19M789N1Z84BZ1",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/8dcb3582f2ea50c8b5ec5ed69d7382c9.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Kaibara, Léviathan Asgarthi",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_24_U_5148",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_24_U_5148"
+        }
+    },
+    "updated": null
+}

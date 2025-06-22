@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_BR_24_U_2350",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/adb8f04ac21b1f6170be85e85962a289.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/927339c50e7f1df82a08b06dbafb9b3e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/d94af335c5f29c6ced6ae7b4c52dc7c6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/3d04f4e227de992ad2c9cea72a47ce0a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/2ad800d73a4a0ebdeef2a6c173e81d24.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/412447c51f7df6bfee2a",
+            "@type": "CardSubType",
+            "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+            "name": "Leviathan",
+            "reference": "LEVIATHAN"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn loses [[Fleeting]].",
+        "FOREST_POWER": "6",
+        "MAIN_COST": "9",
+        "MAIN_EFFECT": "[][]I am [Gigantic].  [][]I am [Tough X], where X is the number of regions between your Hero and Companion.  At Dusk — []Put the top card of your deck in your Mana zone (as an exhausted Mana Orb).",
+        "MOUNTAIN_POWER": "7",
+        "OCEAN_POWER": "7",
+        "RECALL_COST": "9"
+    },
+    "id": "2NBYVX3YJ09JN9SYC6S1SDSY7C",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/JPG/en_EN/de7c317418fe99a0f686027b8b783a57.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Kaibara, Asgarthan Leviathan",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_24_U_2350",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_BR_24_U_2350",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_BR_24_U_2350",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/de_DE/adb8f04ac21b1f6170be85e85962a289.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/en_US/927339c50e7f1df82a08b06dbafb9b3e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/es_ES/d94af335c5f29c6ced6ae7b4c52dc7c6.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/3d04f4e227de992ad2c9cea72a47ce0a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/it_IT/2ad800d73a4a0ebdeef2a6c173e81d24.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/ALT_CORE_B_BR_24_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/f916542931de64cf1906",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQEXKWSBXPSBRBJ2YZ038",
+                    "name": "Léviathan",
+                    "reference": "LEVIATHAN"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour perd [[Fugace]].",
+                "FOREST_POWER": "6",
+                "MAIN_COST": "9",
+                "MAIN_EFFECT": "[][]Je suis [Gigantesque].  [][]Je suis [Coriace X], X étant le nombre de régions entre votre Héros et votre Compagnon.  Au Crépuscule — []Mettez la première carte de votre deck dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "MOUNTAIN_POWER": "7",
+                "OCEAN_POWER": "7",
+                "RECALL_COST": "9"
+            },
+            "id": "2NBYVX3YJ09JN9SYC6S1SDSY7C",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_24/UNIQUE/JPG/fr_FR/3d04f4e227de992ad2c9cea72a47ce0a.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Kaibara, Léviathan Asgarthi",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_24_U_2350",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_BR_24_U_2350"
+        }
+    },
+    "updated": null
+}

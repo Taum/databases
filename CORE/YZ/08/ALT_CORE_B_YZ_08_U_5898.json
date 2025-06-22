@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_YZ_08_U_5898",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/de_DE/b880e0260fd2ed65c6ccdd69d7ae906c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/en_US/0aa39224d749a01778f9fb41958c7a57.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/es_ES/85a9abb989d1e4a984ed7a9849e4f366.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/fr_FR/4dd15ab704cd7653da09f30931869c12.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/it_IT/51d6bead50964143feb01de1e3366605.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/270158bda54149ef855d",
+            "@type": "CardSubType",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage",
+            "reference": "MAGE"
+        },
+        {
+            "@id": "/.well-known/genid/84c3436a0d4a3cb5d35e",
+            "@type": "CardSubType",
+            "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+            "name": "Scholar",
+            "reference": "SCHOLAR"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "0",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{H} []Target Character gains 1 boost.  When I'm sacrificed — []Draw a card.",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "2"
+    },
+    "id": "0CYNESFBYA84RTFXSCHHRE2V1B",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/JPG/en_EN/77d8ba8f81967ae81a4d7be4ac69800a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir",
+        "reference": "YZ"
+    },
+    "name": "Yzmir Stargazer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_08_U_5898",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_YZ_08_U_5898",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_YZ_08_U_5898",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/de_DE/b880e0260fd2ed65c6ccdd69d7ae906c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/en_US/0aa39224d749a01778f9fb41958c7a57.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/es_ES/85a9abb989d1e4a984ed7a9849e4f366.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/fr_FR/4dd15ab704cd7653da09f30931869c12.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/it_IT/51d6bead50964143feb01de1e3366605.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/ALT_CORE_B_YZ_08_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/cd73500825e199005bcb",
+                    "@type": "CardSubType",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage",
+                    "reference": "MAGE"
+                },
+                {
+                    "@id": "/.well-known/genid/c5dce831ba15d9a7e768",
+                    "@type": "CardSubType",
+                    "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+                    "name": "Érudit",
+                    "reference": "SCHOLAR"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "0",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{H} []Un Personnage ciblé gagne 1 boost.  Lorsque je suis sacrifié — []Piochez une carte.",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "2"
+            },
+            "id": "0CYNESFBYA84RTFXSCHHRE2V1B",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_YZ_08/UNIQUE/JPG/fr_FR/4dd15ab704cd7653da09f30931869c12.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir",
+                "reference": "YZ"
+            },
+            "name": "Augure Yzmir",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_YZ_08_U_5898",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_YZ_08_U_5898"
+        }
+    },
+    "updated": null
+}

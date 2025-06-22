@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_52_U_706",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/de_DE/f462494126ccb770af1ef8da36fe9dac.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/UNIQUE/JPG/en_US/96c44250e0e9d4ba0badd33717298911.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/es_ES/f75bdda8f716690949cc1b527f908b1d.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/UNIQUE/JPG/fr_FR/a46fbf793a41e7b1ff72e478d58bbb0d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/it_IT/5bbad6bc9a15c26f14600bf11c132ddd.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_3d304982fd616872a62a4c33f1e346a4",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_db6622ee81147b57381ff6ce2659b24b",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_3c8ea7f422cc947f44a386247c1c2a30"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "name": "Whispers from the Maze",
+        "reference": "BISE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/226f5f0f7919e4f48776",
+            "@type": "CardSubType",
+            "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+            "name": "Noble",
+            "reference": "NOBLE"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next card you play this turn costs {1} less.",
+        "FOREST_POWER": "0",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{J} You may discard a Spell from your Reserve. If you do: I gain 1 boost per Character target opponent controls.  {J} If your Reserve is empty: Target Character other than me gains 1 boost.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "RECALL_COST": "3"
+    },
+    "id": "3GHKMC40CT8GZ9FGE4H6GET62N",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/en_EN/a1554c0670cc26e002974fd30e2f5a0a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir",
+        "reference": "YZ"
+    },
+    "name": "Pasiphaë",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_52_U_706",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_BISE_B_YZ_52_U_706",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_52_U_706",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/de_DE/f462494126ccb770af1ef8da36fe9dac.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/UNIQUE/JPG/en_US/96c44250e0e9d4ba0badd33717298911.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/es_ES/f75bdda8f716690949cc1b527f908b1d.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/UNIQUE/JPG/fr_FR/a46fbf793a41e7b1ff72e478d58bbb0d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/JPG/it_IT/5bbad6bc9a15c26f14600bf11c132ddd.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_3d304982fd616872a62a4c33f1e346a4",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_db6622ee81147b57381ff6ce2659b24b",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/WEB_3c8ea7f422cc947f44a386247c1c2a30"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "name": "Murmures du Labyrinthe",
+                "reference": "BISE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/89c13c99aff1b480225c",
+                    "@type": "CardSubType",
+                    "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+                    "name": "Noble",
+                    "reference": "NOBLE"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []La prochaine carte que vous jouez ce tour coûte {1} de moins.",
+                "FOREST_POWER": "0",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{J} Vous pouvez défausser un Sort de votre Réserve. Si vous le faites : Je gagne 1 boost par Personnage qu'un adversaire ciblé contrôle.  {J} Si votre Réserve est vide : Un Personnage ciblé autre que moi gagne 1 boost.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "RECALL_COST": "3"
+            },
+            "id": "3GHKMC40CT8GZ9FGE4H6GET62N",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_52/UNIQUE/JPG/fr_FR/a46fbf793a41e7b1ff72e478d58bbb0d.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir",
+                "reference": "YZ"
+            },
+            "name": "Pasiphaé",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_52_U_706",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_BISE_B_YZ_52_U_706"
+        }
+    },
+    "updated": null
+}

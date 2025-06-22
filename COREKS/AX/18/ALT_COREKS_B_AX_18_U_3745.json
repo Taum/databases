@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_AX_18_U_3745",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/de_DE/8b242e7e5d735317543efb54510d9f3d.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/en_US/7f870695a49c8dea33c74c1e74ae94ff.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/es_ES/fc801a5d88d797f156ec2665b0525ae5.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/fr_FR/5fc47f930cd8667ff50aaa5f6209ab99.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/it_IT/3a3e55a9d167483c3b111b73f8cd5172.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_463605d2fd8a7bb755ca9eb4ae9ad681",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_9cf5a361a77d5318c62fe9822f30b594",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_daa6c08741c08f74793f97c94764708c"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/1d4f1b4199eb9a14e71d",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []Create an [Ordis Recruit 1/1/1] Soldier token in your Hero Expedition.",
+        "FOREST_POWER": "4",
+        "MAIN_COST": "5",
+        "MAIN_EFFECT": "{H} If you control three or more Characters: Draw a card.  {R} If you control one or more Landmarks: I lose [[Fleeting]].",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "5",
+        "RECALL_COST": "4"
+    },
+    "id": "7M6G30874R8MQASRK4G72PRC0Q",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/JPG/en_EN/096e4e2b114b7b3968ceb91922b2fa11.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis",
+        "reference": "OR"
+    },
+    "name": "Athena",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_18_U_3745",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_AX_18_U_3745",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_AX_18_U_3745",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/de_DE/8b242e7e5d735317543efb54510d9f3d.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/en_US/7f870695a49c8dea33c74c1e74ae94ff.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/es_ES/fc801a5d88d797f156ec2665b0525ae5.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/fr_FR/5fc47f930cd8667ff50aaa5f6209ab99.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/it_IT/3a3e55a9d167483c3b111b73f8cd5172.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_463605d2fd8a7bb755ca9eb4ae9ad681",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_9cf5a361a77d5318c62fe9822f30b594",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/WEB_daa6c08741c08f74793f97c94764708c"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/a70a9a1ce7808bb2fd72",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre Expédition Héros.",
+                "FOREST_POWER": "4",
+                "MAIN_COST": "5",
+                "MAIN_EFFECT": "{H} Si vous contrôlez au moins trois Personnages : Piochez une carte.  {R} Si vous contrôlez au moins un Repère : Je perds [[Fugace]].",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "5",
+                "RECALL_COST": "4"
+            },
+            "id": "7M6G30874R8MQASRK4G72PRC0Q",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_AX_18/UNIQUE/JPG/fr_FR/5fc47f930cd8667ff50aaa5f6209ab99.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis",
+                "reference": "OR"
+            },
+            "name": "Athéna",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_AX_18_U_3745",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_AX_18_U_3745"
+        }
+    },
+    "updated": null
+}

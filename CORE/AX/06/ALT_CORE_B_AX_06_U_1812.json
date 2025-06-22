@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_AX_06_U_1812",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/4b54898b640220bd215b61e3a60cb15a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/aa5ef7382044cba96ea5e80a84675c74.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/c88495720d8c40487a996032c1c87520.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/8631cb67836f4f301f9328caba0b19a4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/a4fcc663a46e0926189701757fa6edb2.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/217fc25909a8aad8ab22",
+            "@type": "CardSubType",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer",
+            "reference": "ENGINEER"
+        },
+        {
+            "@id": "/.well-known/genid/d4f0b76f345172a1fec5",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "1",
+        "MAIN_COST": "3",
+        "MAIN_EFFECT": "{J} If you control a token: Target Character switches Expeditions.  {H} If you control a token: Each Robot you control other than me gains 1 boost.",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "RECALL_COST": "2"
+    },
+    "id": "7RMNHQZK0G96BAA38AXHGAPWHH",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/JPG/en_EN/af070df7a1c6d2e7872f21c0b8b907a3.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom",
+        "reference": "AX"
+    },
+    "name": "Ogun",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_06_U_1812",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_AX_06_U_1812",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_AX_06_U_1812",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/de_DE/4b54898b640220bd215b61e3a60cb15a.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/en_US/aa5ef7382044cba96ea5e80a84675c74.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/es_ES/c88495720d8c40487a996032c1c87520.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/8631cb67836f4f301f9328caba0b19a4.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/it_IT/a4fcc663a46e0926189701757fa6edb2.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/ALT_CORE_B_AX_06_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/d40bd2a7781a89786ee9",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur",
+                    "reference": "ENGINEER"
+                },
+                {
+                    "@id": "/.well-known/genid/1051a14318e94016221f",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "1",
+                "MAIN_COST": "3",
+                "MAIN_EFFECT": "{J} Si vous contrôlez un jeton : Un Personnage ciblé change d'Expédition.  {H} Si vous contrôlez un jeton : Chaque Robot que vous contrôlez autre que moi gagne 1 boost.",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "0",
+                "RECALL_COST": "2"
+            },
+            "id": "7RMNHQZK0G96BAA38AXHGAPWHH",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_AX_06/UNIQUE/JPG/fr_FR/8631cb67836f4f301f9328caba0b19a4.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom",
+                "reference": "AX"
+            },
+            "name": "Ogun",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_AX_06_U_1812",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_AX_06_U_1812"
+        }
+    },
+    "updated": null
+}

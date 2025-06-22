@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_14_U_2119",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/de_DE/0c9002d36f7ebdae296b11d5f561df5c.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/en_US/7495a20a82deea3a32e66e625ffd705b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/es_ES/cfbda4acdd8fc8dd3a7544e6bd4bc6c9.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/fr_FR/02428b1bc3f566c2bf3c6b6cf5fa604e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/it_IT/ffa4085626273563482ac59acd7b8caf.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/06a291ff0d184106f256",
+            "@type": "CardSubType",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist",
+            "reference": "ARTIST"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []You may have target Character other than me lose [[Fleeting]].",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "{H} []Roll a die. Target Character gain X boosts, where X is the result.  When a card leaves your Reserve during the Afternoon — []You may have target Character gain [[Fleeting]].",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "RECALL_COST": "3"
+    },
+    "id": "5Z5R0VBNDT9EHVMF7JZYST2MRX",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/JPG/en_EN/6b48d20b2dd6880552c57c894d5f3f69.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Lyra Cloth Dancer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_14_U_2119",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_LY_14_U_2119",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_14_U_2119",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/de_DE/0c9002d36f7ebdae296b11d5f561df5c.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/en_US/7495a20a82deea3a32e66e625ffd705b.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/es_ES/cfbda4acdd8fc8dd3a7544e6bd4bc6c9.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/fr_FR/02428b1bc3f566c2bf3c6b6cf5fa604e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/it_IT/ffa4085626273563482ac59acd7b8caf.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_LY_14/ALT_CORE_B_LY_14_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/ed918033db0e7924bf80",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste",
+                    "reference": "ARTIST"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "{H} []Lancez un dé. Un Personnage ciblé gagne X boosts, X étant le résultat.  Lorsqu'une carte quitte votre Réserve pendant l'Après-midi — []Vous pouvez faire gagner [[Fugace]] à un Personnage ciblé.",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "2",
+                "RECALL_COST": "3"
+            },
+            "id": "5Z5R0VBNDT9EHVMF7JZYST2MRX",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_LY_14/UNIQUE/JPG/fr_FR/02428b1bc3f566c2bf3c6b6cf5fa604e.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Danseuse d'Étoffe Lyra",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_14_U_2119",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_LY_14_U_2119"
+        }
+    },
+    "updated": null
+}

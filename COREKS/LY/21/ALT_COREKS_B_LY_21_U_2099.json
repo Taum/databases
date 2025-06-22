@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_LY_21_U_2099",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/de_DE/e6b8590bbb1d4a9e212bd194038d383f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/en_US/51831211a0da5c4db84e11c8ac83f663.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/es_ES/c5c2496d1650e3e923759e6c2c876e05.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/fr_FR/bb33043881fefdeaca923a43f10f6085.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/it_IT/e75226febd01df57a67ec18d0b431ffd.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_baf047d7f3332b06dd73e8ed8faafcd8",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_a5bdcca36cdcebf5cf99f8cad04fc25d",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_056572f0bb37b55f21e6f2f744bf228d"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/62acd29a9e8accc579c5",
+            "@type": "CardSubType",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity",
+            "reference": "DEITY"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []Draw a card.",
+        "FOREST_POWER": "6",
+        "MAIN_COST": "7",
+        "MAIN_EFFECT": "{H} You may discard a card from your Reserve. If you do: Each player discards their hand and their Reserve, then draws three cards.  {R} []You may send target Character to Reserve.",
+        "MOUNTAIN_POWER": "6",
+        "OCEAN_POWER": "7",
+        "RECALL_COST": "7"
+    },
+    "id": "2QVS9G1E8199YBRWR2W88N1D2Z",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/JPG/en_EN/20b5b8548a1509d67cbd9a57941e78ee.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Loki",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_21_U_2099",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_LY_21_U_2099",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_LY_21_U_2099",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/de_DE/e6b8590bbb1d4a9e212bd194038d383f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/en_US/51831211a0da5c4db84e11c8ac83f663.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/es_ES/c5c2496d1650e3e923759e6c2c876e05.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/fr_FR/bb33043881fefdeaca923a43f10f6085.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/it_IT/e75226febd01df57a67ec18d0b431ffd.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_baf047d7f3332b06dd73e8ed8faafcd8",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_a5bdcca36cdcebf5cf99f8cad04fc25d",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/WEB_056572f0bb37b55f21e6f2f744bf228d"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/f0a5d0882c87f66f7f5a",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité",
+                    "reference": "DEITY"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Piochez une carte.",
+                "FOREST_POWER": "6",
+                "MAIN_COST": "7",
+                "MAIN_EFFECT": "{H} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Chaque joueur défausse sa main et sa Réserve, puis pioche trois cartes.  {R} []Vous pouvez envoyer un Personnage ciblé en Réserve.",
+                "MOUNTAIN_POWER": "6",
+                "OCEAN_POWER": "7",
+                "RECALL_COST": "7"
+            },
+            "id": "2QVS9G1E8199YBRWR2W88N1D2Z",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_LY_21/UNIQUE/JPG/fr_FR/bb33043881fefdeaca923a43f10f6085.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Loki",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_LY_21_U_2099",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_LY_21_U_2099"
+        }
+    },
+    "updated": null
+}

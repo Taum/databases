@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_13_U_2548",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/f2c31b06cd56b6e414fcbc83dc83eb5f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/eb2eb6b2f8e7b7bc05fa8d418b9090aa.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/7c40fab6bbd4e930648d2ed580aac4a6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/1849ee468524684b687dfb7dd91ed96a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/7eae63a9983af275afe2073cf228a39b.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/c18182b5d6aba1f19342",
+            "@type": "CardSubType",
+            "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+            "name": "Trainer",
+            "reference": "TRAINER"
+        },
+        {
+            "@id": "/.well-known/genid/01ba12d8688ef44506e6",
+            "@type": "CardSubType",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit",
+            "reference": "SPIRIT"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "FOREST_POWER": "4",
+        "MAIN_COST": "5",
+        "MAIN_EFFECT": "{J} []I gain 1 boost.  {J} []You may send to Reserve target Character with Hand Cost {3} or less.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "RECALL_COST": "6"
+    },
+    "id": "0PG1VGTCR39CTAXWD69BBZ83PP",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/JPG/en_EN/faa8650765e79cf220002a43954a501e.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra",
+        "reference": "LY"
+    },
+    "name": "Kappa",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_2548",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_13_U_2548",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_13_U_2548",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/de_DE/f2c31b06cd56b6e414fcbc83dc83eb5f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/en_US/eb2eb6b2f8e7b7bc05fa8d418b9090aa.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/es_ES/7c40fab6bbd4e930648d2ed580aac4a6.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/1849ee468524684b687dfb7dd91ed96a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/it_IT/7eae63a9983af275afe2073cf228a39b.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_13/ALT_CORE_B_BR_13_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/a96ab0474d3d243a256a",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ07R8R2DAC69RKNZ5SA6",
+                    "name": "Mentor",
+                    "reference": "TRAINER"
+                },
+                {
+                    "@id": "/.well-known/genid/2848d722b789f3100ffc",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit",
+                    "reference": "SPIRIT"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "FOREST_POWER": "4",
+                "MAIN_COST": "5",
+                "MAIN_EFFECT": "{J} []Je gagne 1 boost.  {J} []Vous pouvez envoyer en Réserve un Personnage ciblé de Coût de Main {3} ou moins.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "4",
+                "RECALL_COST": "6"
+            },
+            "id": "0PG1VGTCR39CTAXWD69BBZ83PP",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_13/UNIQUE/JPG/fr_FR/1849ee468524684b687dfb7dd91ed96a.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra",
+                "reference": "LY"
+            },
+            "name": "Kappa",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_13_U_2548",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_13_U_2548"
+        }
+    },
+    "updated": null
+}

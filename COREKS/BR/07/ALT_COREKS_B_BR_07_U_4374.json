@@ -1,0 +1,154 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_07_U_4374",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/de_DE/d7d4d7d2f903c0c8630e74bef73ac76a.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/en_US/edf09bf948ae9582015b5c90a84ede3c.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/es_ES/bec7cee4c9a636e74ce0f23b57d7f2f7.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/7181504e1aa0f4fc510028cf8c7ff150.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/it_IT/448ae201d5fd4eda68ccb3c174dcce71.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_67442c6ed097f684fad572fc98c75e52",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_e626c066f0f833b1b103b67257b7c29b"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "name": "Beyond the Gates - KS Edition",
+        "reference": "COREKS"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/cafc4cab4bbda4b7e6a1",
+            "@type": "CardSubType",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer",
+            "reference": "ADVENTURER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "created": "2025-06-02 08:00:00",
+    "elements": {
+        "ECHO_EFFECT": "{D} : []The next Character you play from your hand this turn activates its {r} abilities.",
+        "FOREST_POWER": "2",
+        "MAIN_COST": "2",
+        "MAIN_EFFECT": "{J} []I gain [[Fleeting]].  When another Character joins your Expeditions — You may discard a card from your Reserve. If you do: I gain 1 boost.",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "RECALL_COST": "3"
+    },
+    "id": "1EMTQTWMWQ88QVDMECKRATJ1K0",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/JPG/en_EN/35d9add83d3ab1fc7054af0d436852ae.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos",
+        "reference": "BR"
+    },
+    "name": "Bravos Tracer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_07_U_4374",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_COREKS_B_BR_07_U_4374",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_07_U_4374",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/de_DE/d7d4d7d2f903c0c8630e74bef73ac76a.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/en_US/edf09bf948ae9582015b5c90a84ede3c.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/es_ES/bec7cee4c9a636e74ce0f23b57d7f2f7.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/7181504e1aa0f4fc510028cf8c7ff150.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/it_IT/448ae201d5fd4eda68ccb3c174dcce71.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_48fb45ac2f5938ab9f93094f3584b7c8",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_67442c6ed097f684fad572fc98c75e52",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/WEB_e626c066f0f833b1b103b67257b7c29b"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "name": "Au-delà des portes - Édition KS",
+                "reference": "COREKS"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/493f8a04d2bdcbc1fc37",
+                    "@type": "CardSubType",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier",
+                    "reference": "ADVENTURER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez de votre main ce tour active ses capacités {r}.",
+                "FOREST_POWER": "2",
+                "MAIN_COST": "2",
+                "MAIN_EFFECT": "{J} []Je gagne [[Fugace]].  Lorsqu'un autre Personnage rejoint vos Expéditions — Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Je gagne 1 boost.",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "4",
+                "RECALL_COST": "3"
+            },
+            "id": "1EMTQTWMWQ88QVDMECKRATJ1K0",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_COREKS_B_BR_07/UNIQUE/JPG/fr_FR/7181504e1aa0f4fc510028cf8c7ff150.jpg",
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos",
+                "reference": "BR"
+            },
+            "name": "Traceuse Bravos",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_07_U_4374",
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_COREKS_B_BR_07_U_4374"
+        }
+    },
+    "updated": null
+}
