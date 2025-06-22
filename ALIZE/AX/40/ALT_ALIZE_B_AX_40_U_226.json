@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_AX_40_U_226",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/45e808c438acdf64deb48c415107a1be.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/49b6f938a175bb7427c3114381297124.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/d892007cce170280e0bae5018b74549c.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/a304c6c47198dc44afd78306d7f3612b.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/e2289a5db16fc7db410c9321711e6160.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/e358dbadc6547074d65c",
+            "reference": "ENGINEER",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/4b568c5433255a4c3e75",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "8",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "6",
+        "MAIN_EFFECT": "{J} []Create a [Brassbug 2/2/2] Robot token in your other Expedition (the one I'm not in).  {R} If you control two or more Landmarks: Create a [Brassbug 2/2/2] Robot token in your Companion Expedition.  At Dusk — If you control two or more Permanents: Draw a card."
+    },
+    "id": "27SEQ091Z28XY9N9QGY4C5HYGK",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/e2289a5db16fc7db410c9321711e6160.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Gibil",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_226",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_ALIZE_B_AX_40_U_226",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_AX_40_U_226",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/71d4a58149b63e429804",
+                    "reference": "ENGINEER",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/9bbac69f06c1730e7284",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/ALIZE",
+                "@type": "CardSet",
+                "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+                "reference": "ALIZE",
+                "name": "Épreuve du froid"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/a304c6c47198dc44afd78306d7f3612b.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_68412e665a821f3c25f027ed3404f1de",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_f1955915662d7bfff1f71a2cee357ce6",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/WEB_7994b67d44a7cac843eb1009f8b9963f"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_AX_40_U_226",
+            "isSuspended": false,
+            "reference": "ALT_ALIZE_B_AX_40_U_226",
+            "id": "27SEQ091Z28XY9N9QGY4C5HYGK",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/es_ES/45e808c438acdf64deb48c415107a1be.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/it_IT/49b6f938a175bb7427c3114381297124.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/de_DE/d892007cce170280e0bae5018b74549c.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/fr_FR/a304c6c47198dc44afd78306d7f3612b.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_AX_40/UNIQUE/JPG/en_US/e2289a5db16fc7db410c9321711e6160.jpg"
+            },
+            "name": "Gibil",
+            "elements": {
+                "MAIN_COST": "8",
+                "RECALL_COST": "6",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "6",
+                "MAIN_EFFECT": "{J} []Créez un jeton Robot [2/2/2 Scarabot] dans votre autre Expédition (celle où je ne suis pas).  {R} Si vous contrôlez au moins deux Repères : Créez un jeton Robot [2/2/2 Scarabot] dans votre Expédition Compagnon.  Au Crépuscule — Si vous contrôlez au moins deux Permanents : Piochez une carte."
+            }
+        }
+    }
+}
