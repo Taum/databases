@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_55_U_13728",
+    "@type": "Card",
+    "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/it_IT/d5b736480c977c223349d87ead8544f6.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/en_US/ab49470df569f2a5ff1ce70a09d26af6.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/de_DE/2014ba8f656adb84377ceccf8829bfd6.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/es_ES/020d4e31ef86788d437fcdae9383f9a0.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/fr_FR/981d0f83b964c42c8f3c2ef5545ed360.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_095ea28fe5f007f67c129ecca1ce7d99",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_41cc4e1a3b5b81e2bdf1a19dbc05fb3a",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_3b080bfb1fa765fdc81d5030680a28e0"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/fdb6bf9a11b8810872df",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{J} If you have two or more cards in Reserve: I gain 1 boost per Landmark you control.  {R} If you control two or more Landmarks: Up to two target Characters in play or in Reserve each gain 1 boost.",
+        "ECHO_EFFECT": "{I} When you play another Character — []You may pay {1} to give it 1 boost."
+    },
+    "id": "632N6ZHBAW9R0ANPW9K8F1NF6Q",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/en_US/ab49470df569f2a5ff1ce70a09d26af6.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Hestia",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_55_U_13728",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_55_U_13728",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_55_U_13728",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/a5321546b8c6c57c9e8a",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/fr_FR/981d0f83b964c42c8f3c2ef5545ed360.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_095ea28fe5f007f67c129ecca1ce7d99",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_41cc4e1a3b5b81e2bdf1a19dbc05fb3a",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/WEB_3b080bfb1fa765fdc81d5030680a28e0"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_55_U_13728",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_55_U_13728",
+            "id": "632N6ZHBAW9R0ANPW9K8F1NF6Q",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/it_IT/d5b736480c977c223349d87ead8544f6.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/en_US/ab49470df569f2a5ff1ce70a09d26af6.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/de_DE/2014ba8f656adb84377ceccf8829bfd6.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/JPG/es_ES/020d4e31ef86788d437fcdae9383f9a0.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_55/UNIQUE/JPG/fr_FR/981d0f83b964c42c8f3c2ef5545ed360.jpg"
+            },
+            "name": "Hestia",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{J} Si vous avez au moins deux cartes en Réserve : Je gagne 1 boost par Repère que vous contrôlez.  {R} Si vous contrôlez au moins deux Repères : Jusqu'à deux Personnages ciblés en jeu ou en Réserve gagnent chacun 1 boost.",
+                "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage — []Vous pouvez payer {1} pour lui donner 1 boost."
+            }
+        }
+    }
+}
