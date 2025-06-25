@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_LY_52_U_13418",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/en_US/e570beb5e5f826a15810c6018df86589.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/it_IT/58c0f05700a3a558a05fea0aefe997ac.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/de_DE/9ffed418840e1d7c72e6d6467bb256a5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/es_ES/b0fc9b4cb2716a03c9e6821eddf22a94.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/fr_FR/7be92897b8ad3321a54e6da9ff5586ae.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_8f2e7c867842ac802522cba21434a01e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_ddf9d63a25e441d7911b7a2b4c5a861c",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_f26af1f6d95eea09d5f11447789e4266"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/39264d3a0812a0d6c409",
+            "reference": "ARTIST",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{H} You may pay {1}. If you do: [Sabotage], otherwise [Resupply].  At Dusk — If I have 1 or more boosts: Reveal the top card of your deck. If it's an Artist or Song, draw it, otherwise discard it.",
+        "ECHO_EFFECT": "{I} When you play another Character with a base statistic of 0 — []I gain 1 boost, up to a max of 2."
+    },
+    "id": "7W4G330ZCK9NZV9G5N5HRH5B9F",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/en_US/e570beb5e5f826a15810c6018df86589.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "BLISS Keytarist",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_52_U_13418",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_LY_52_U_13418",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_LY_52_U_13418",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/c6bd18c80f489d95b6bb",
+                    "reference": "ARTIST",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/fr_FR/7be92897b8ad3321a54e6da9ff5586ae.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_8f2e7c867842ac802522cba21434a01e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_ddf9d63a25e441d7911b7a2b4c5a861c",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/WEB_f26af1f6d95eea09d5f11447789e4266"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_52_U_13418",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_LY_52_U_13418",
+            "id": "7W4G330ZCK9NZV9G5N5HRH5B9F",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/en_US/e570beb5e5f826a15810c6018df86589.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/it_IT/58c0f05700a3a558a05fea0aefe997ac.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/de_DE/9ffed418840e1d7c72e6d6467bb256a5.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/JPG/es_ES/b0fc9b4cb2716a03c9e6821eddf22a94.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_52/UNIQUE/JPG/fr_FR/7be92897b8ad3321a54e6da9ff5586ae.jpg"
+            },
+            "name": "Claviériste de Bliss",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "0",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "{H} Vous pouvez payer {1}. Si vous le faites : [Sabotez]. Sinon, [Ravitaillez].  Au Crépuscule — Si j'ai au moins 1 boost : Révélez la première carte de votre deck. Si c'est un Artiste ou un Chant, piochez-la. Sinon, défaussez-la.",
+                "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage avec une statistique de base 0 — []Je gagne 1 boost, jusqu'à un maximum de 2."
+            }
+        }
+    }
+}

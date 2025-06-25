@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_58_U_2820",
+    "@type": "Card",
+    "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/it_IT/e6d065eabb6ffce43690e58f1254c512.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/de_DE/62043be6987559a5e0b33e0b6e4f175e.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/es_ES/b2bc4face2bdebb4ee35fb2343810dd1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/en_US/9f9b83917965dc097ab5fe02abb3130a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/fr_FR/83836ee27eb91ba68e37542a87343bd4.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_7890705a9fd4f088d232fe4c024dfb0b",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_9b13ab0b7596755d5dc8e8c6cdc2b814",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_f694634461ffb22055e076011ac363ed"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/69bf9a1feaed6502d7ae",
+            "reference": "ADVENTURER",
+            "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+            "name": "Adventurer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "8",
+        "MOUNTAIN_POWER": "5",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "7",
+        "MAIN_EFFECT": "[][][Scout] {4}.  {J} []You may send target Character in {V} to Reserve.",
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
+    },
+    "id": "5MHQJNBSVY8JXVJWB6MNXPPKE1",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/en_US/9f9b83917965dc097ab5fe02abb3130a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Theseus",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_58_U_2820",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_58_U_2820",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_58_U_2820",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/7718eada4f7995091200",
+                    "reference": "ADVENTURER",
+                    "id": "01HKAGPC92CGHANVSRSC8R8ES6",
+                    "name": "Aventurier"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/fr_FR/83836ee27eb91ba68e37542a87343bd4.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_7890705a9fd4f088d232fe4c024dfb0b",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_9b13ab0b7596755d5dc8e8c6cdc2b814",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/WEB_f694634461ffb22055e076011ac363ed"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_58_U_2820",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_58_U_2820",
+            "id": "5MHQJNBSVY8JXVJWB6MNXPPKE1",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/it_IT/e6d065eabb6ffce43690e58f1254c512.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/de_DE/62043be6987559a5e0b33e0b6e4f175e.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/JPG/es_ES/b2bc4face2bdebb4ee35fb2343810dd1.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/en_US/9f9b83917965dc097ab5fe02abb3130a.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_58/UNIQUE/JPG/fr_FR/83836ee27eb91ba68e37542a87343bd4.jpg"
+            },
+            "name": "Thésée",
+            "elements": {
+                "MAIN_COST": "7",
+                "RECALL_COST": "8",
+                "MOUNTAIN_POWER": "5",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "7",
+                "MAIN_EFFECT": "[][][Repérage] {4}.  {J} []Vous pouvez envoyer un Personnage ciblé en {V} en Réserve.",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
+            }
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_55_U_10129",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/de_DE/dd09fb02bed73ad9ebe4c041674fc922.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/es_ES/5b6a0ddf18fbdea7d805d3ddd9d5d52e.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/it_IT/9dfeecf7a155d2462123faadc06575fc.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/en_US/d66ca3690115ea4ed37f73145f5d2fe6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/fr_FR/7c87ef5320705a29bace37bbc577170b.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_e814eaadbca150c856840c94c8a2075b",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_d5e5ac4c2017594c41de639a5fa62d15",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_05815bb965acf608a2fb5bef7e7739af"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/20c833dd0b0de7806d03",
+            "reference": "ENGINEER",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "4",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{J} If your hand is empty: Target Character gains 2 boosts.",
+        "ECHO_EFFECT": "{D} : [][Exhausted Resupply]."
+    },
+    "id": "73S96GM2MG9Z4THNC565BC56DA",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/en_US/d66ca3690115ea4ed37f73145f5d2fe6.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Shortage Supervisor",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_55_U_10129",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_55_U_10129",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_55_U_10129",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/df2164a233b3900b4a57",
+                    "reference": "ENGINEER",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/fr_FR/7c87ef5320705a29bace37bbc577170b.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_e814eaadbca150c856840c94c8a2075b",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_d5e5ac4c2017594c41de639a5fa62d15",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/WEB_05815bb965acf608a2fb5bef7e7739af"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_55_U_10129",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_55_U_10129",
+            "id": "73S96GM2MG9Z4THNC565BC56DA",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/de_DE/dd09fb02bed73ad9ebe4c041674fc922.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/es_ES/5b6a0ddf18fbdea7d805d3ddd9d5d52e.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/JPG/it_IT/9dfeecf7a155d2462123faadc06575fc.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/en_US/d66ca3690115ea4ed37f73145f5d2fe6.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_55/UNIQUE/JPG/fr_FR/7c87ef5320705a29bace37bbc577170b.jpg"
+            },
+            "name": "Gestionnaire de Pénurie",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "4",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{J} Si votre main est vide : Un Personnage ciblé gagne 2 boosts.",
+                "ECHO_EFFECT": "{D} : [][Ravitaillez Épuisé]."
+            }
+        }
+    }
+}

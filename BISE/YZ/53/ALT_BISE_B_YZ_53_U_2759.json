@@ -1,0 +1,180 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_53_U_2759",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/es_ES/8ff47a0d62028543ebc6640ccb38a0b3.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/de_DE/d6e5a486e674969dbf080144a53f869d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/ace9a465094c2e4b5ab7d2b21a392457.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/en_US/97b52ed8747b106deaa22aa7da8175de.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/42f53c8318a2f4c4203f21b07a88aff9.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_5b7d227ded645fa688f2f753aeb72b01",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_beacf345e1aebbee43477559f5dbe84e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_0e776ebc0e30bf2fc909eb8f35728348"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/2a3a07a115a124089210",
+            "reference": "BUREAUCRAT",
+            "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+            "name": "Bureaucrat"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/306e338c1ccb3a6a906a",
+            "reference": "MAGE",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/ef6a2b41d9332d8c06e8",
+            "reference": "MESSENGER",
+            "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+            "name": "Messenger"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{J} You may sacrifice a Character or Permanent. If you do: Remove up to 2 counters from target card in play or in Reserve.",
+        "ECHO_EFFECT": "{D} : []The next Permanent you play this turn costs {1} less."
+    },
+    "id": "1WK1FDX9JC9R99ZM68CXRMHA9F",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/en_US/97b52ed8747b106deaa22aa7da8175de.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Qorgan Informant",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_53_U_2759",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_YZ_53_U_2759",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_53_U_2759",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/4a64491321d192c4358f",
+                    "reference": "BUREAUCRAT",
+                    "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+                    "name": "Bureaucrate"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/bbf143f50512211fd8c1",
+                    "reference": "MAGE",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/25b07ed0b2f1f55a260b",
+                    "reference": "MESSENGER",
+                    "id": "01HKAGPRRNK7X4TZEBYSPK6DDC",
+                    "name": "Émissaire"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/42f53c8318a2f4c4203f21b07a88aff9.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_5b7d227ded645fa688f2f753aeb72b01",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_beacf345e1aebbee43477559f5dbe84e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/WEB_0e776ebc0e30bf2fc909eb8f35728348"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_53_U_2759",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_YZ_53_U_2759",
+            "id": "1WK1FDX9JC9R99ZM68CXRMHA9F",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/es_ES/8ff47a0d62028543ebc6640ccb38a0b3.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/de_DE/d6e5a486e674969dbf080144a53f869d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/JPG/it_IT/ace9a465094c2e4b5ab7d2b21a392457.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/en_US/97b52ed8747b106deaa22aa7da8175de.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_53/UNIQUE/JPG/fr_FR/42f53c8318a2f4c4203f21b07a88aff9.jpg"
+            },
+            "name": "Indic du Qorgan",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{J} Vous pouvez sacrifier un Personnage ou un Permanent. Si vous le faites : Retirez jusqu'à 2 compteurs d'une carte ciblée en jeu ou en Réserve.",
+                "ECHO_EFFECT": "{D} : []Le prochain Permanent que vous jouez ce tour coûte {1} de moins."
+            }
+        }
+    }
+}

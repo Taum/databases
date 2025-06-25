@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_13_U_802",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/fr_FR/e244ae51ab2e0027fb8133ebf9ed2bae.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/en_US/82f3dd3193c11f525ff9a2bc8163fda4.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/it_IT/85821a534f62ac2c8856f37308805799.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/es_ES/bf8616cc6c066e07813ce0a8e279d493.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/de_DE/46fa511f350bc89ec7e5789d598d4dfa.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/82356d6cc2c5a275f4e9",
+            "reference": "SOLDIER",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{H} If you control a token: You may have target Character gain [[Asleep]].  When an opponent draws one or more cards or does [Resupply] — []Create an [Ordis Recruit 1/1/1] Soldier token in your other Expedition (the one I'm not in)."
+    },
+    "id": "33VP5ATB0Z92WBTNCTWT6GRPE1",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/en_US/82f3dd3193c11f525ff9a2bc8163fda4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Ordis Gatekeeper",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_13_U_802",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_OR_13_U_802",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_OR_13_U_802",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/cd0e77340f10aed96739",
+                    "reference": "SOLDIER",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/fr_FR/e244ae51ab2e0027fb8133ebf9ed2bae.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_13/ALT_CORE_B_OR_13_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_13_U_802",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_OR_13_U_802",
+            "id": "33VP5ATB0Z92WBTNCTWT6GRPE1",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/fr_FR/e244ae51ab2e0027fb8133ebf9ed2bae.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/en_US/82f3dd3193c11f525ff9a2bc8163fda4.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/it_IT/85821a534f62ac2c8856f37308805799.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/es_ES/bf8616cc6c066e07813ce0a8e279d493.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_13/UNIQUE/JPG/de_DE/46fa511f350bc89ec7e5789d598d4dfa.jpg"
+            },
+            "name": "Gardienne Ordis",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{H} Si vous contrôlez un jeton : Vous pouvez faire gagner [[Endormi]] à un Personnage ciblé.  Lorsqu'un adversaire pioche au moins une carte ou [Ravitaille] — []Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition (celle où je ne suis pas)."
+            }
+        }
+    }
+}

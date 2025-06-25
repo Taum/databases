@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_BR_16_U_5046",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/fr_FR/7eac2e90f4fc59e2c72d4df0f24c83d5.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/es_ES/1e893581061efa92be1a396ad073fc7a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/it_IT/2f396a36047f55c1f8f70e07e0e135f7.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/de_DE/aab195bf5cc06a08b4e517a7dc46d371.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/en_US/c44ba50b9a9fe5f8fea41eb83a1e407f.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/b472fe4e5b66e566a6e2",
+            "reference": "SOLDIER",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "[][]I am [Seasoned].  {J} You may put a card from your hand in Reserve. If you do: Target Character gains 2 boosts.  {R} You may put a card from your hand in Reserve. If you do: [Resupply]."
+    },
+    "id": "3B3M78S0G192RST2GKZYP3DQP6",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/en_US/c44ba50b9a9fe5f8fea41eb83a1e407f.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Bravos Bladedancer",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_16_U_5046",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_BR_16_U_5046",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_BR_16_U_5046",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/27a028150640a7ee972f",
+                    "reference": "SOLDIER",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/fr_FR/7eac2e90f4fc59e2c72d4df0f24c83d5.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_16/ALT_CORE_B_BR_16_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_BR_16_U_5046",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_BR_16_U_5046",
+            "id": "3B3M78S0G192RST2GKZYP3DQP6",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/fr_FR/7eac2e90f4fc59e2c72d4df0f24c83d5.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/es_ES/1e893581061efa92be1a396ad073fc7a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/it_IT/2f396a36047f55c1f8f70e07e0e135f7.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/de_DE/aab195bf5cc06a08b4e517a7dc46d371.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_BR_16/UNIQUE/JPG/en_US/c44ba50b9a9fe5f8fea41eb83a1e407f.jpg"
+            },
+            "name": "Danseuse de Lames Bravos",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "[][]Je suis [Aguerri].  {J} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Un Personnage ciblé gagne 2 boosts.  {R} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : [Ravitaillez]."
+            }
+        }
+    }
+}

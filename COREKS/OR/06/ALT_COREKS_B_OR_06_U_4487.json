@@ -1,0 +1,164 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_COREKS_B_OR_06_U_4487",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/6de94c93bc44345c8c3a67212e582292.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/b6cbd21738297bb4ace277477da63666.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/es_ES/e7d42414d01f3f25ab96e155fc330730.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/it_IT/ef6d4d3c06c38c75388592c107c906b9.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/de_DE/0b6425fa92cfb64fb1921c5905b16c91.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/COREKS",
+        "@type": "CardSet",
+        "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+        "reference": "COREKS",
+        "name": "Beyond the Gates - KS Edition"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/59220fff709bff50462a",
+            "reference": "APPRENTICE",
+            "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+            "name": "Apprentice"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/6b8c7000505c4ccc0c9e",
+            "reference": "SOLDIER",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "{H} []Create an [Ordis Recruit 1/1/1] Soldier token in target Expedition.  When I leave the Expedition zone — If you control one or more Landmarks: Create an [Ordis Recruit 1/1/1] Soldier token in your other Expedition (the one I'm not in)."
+    },
+    "id": "34QBCV1A5R845B57TC26RHQBEJ",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/b6cbd21738297bb4ace277477da63666.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Ordis Cadets",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_06_U_4487",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_COREKS_B_OR_06_U_4487",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_COREKS_B_OR_06_U_4487",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/974cd062dbe6900baee5",
+                    "reference": "APPRENTICE",
+                    "id": "01HKAGPXW29DSBJ0DPFEPFVESC",
+                    "name": "Apprenti"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/1d6662f3e9aa15aebbad",
+                    "reference": "SOLDIER",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/COREKS",
+                "@type": "CardSet",
+                "id": "01HN5TWSSVYM93FHCEC3K8NNCM",
+                "reference": "COREKS",
+                "name": "Au-delà des portes - Édition KS"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/6de94c93bc44345c8c3a67212e582292.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_06/ALT_CORE_B_OR_06_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_COREKS_B_OR_06_U_4487",
+            "isSuspended": false,
+            "reference": "ALT_COREKS_B_OR_06_U_4487",
+            "id": "34QBCV1A5R845B57TC26RHQBEJ",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/fr_FR/6de94c93bc44345c8c3a67212e582292.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/en_US/b6cbd21738297bb4ace277477da63666.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/es_ES/e7d42414d01f3f25ab96e155fc330730.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/it_IT/ef6d4d3c06c38c75388592c107c906b9.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/COREKS/CARDS/ALT_CORE_B_OR_06/UNIQUE/JPG/de_DE/0b6425fa92cfb64fb1921c5905b16c91.jpg"
+            },
+            "name": "Cadets Ordis",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "{H} []Créez un jeton Soldat [1/1/1 Recrue Ordis] dans une Expédition ciblée.  Lorsque je quitte la zone d'Expédition — Si vous contrôlez au moins un Repère : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition (celle où je ne suis pas)."
+            }
+        }
+    }
+}

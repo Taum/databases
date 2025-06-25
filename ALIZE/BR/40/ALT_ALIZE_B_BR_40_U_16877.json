@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_BR_40_U_16877",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/es_ES/dbb25a352cc2b9d7b7d504c75137e49a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/it_IT/9f6ca76bdb38a60bab0a97d52860b715.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/fr_FR/b66dfaee9e3ccbea33ff9ef6167b9262.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/de_DE/9d623f0f56fb4bd76ccf80d1ec055061.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/en_US/65207c41cfcb94d11c57300e33742fe9.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_f69710c9195e8989f244b4a338aef698",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_12469b52894652ee0285f23ee03b4011",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_c3c06302bfbb9c9a746aa3af462ebbc6"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/4aba514b49ae95d200b9",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "7",
+        "RECALL_COST": "8",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "6",
+        "MAIN_EFFECT": "{J} If your Reserve is empty: You may immediately play a Character for {3} less. It gains 2 boosts.  When a Character you control gains 1 or more boosts — []You may exhaust target card in Reserve."
+    },
+    "id": "3V9QB73JT08XET59KWMJW0JHE9",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/en_US/65207c41cfcb94d11c57300e33742fe9.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Eros",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_40_U_16877",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_ALIZE_B_BR_40_U_16877",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_BR_40_U_16877",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/ef497e26abfb6abd6ab3",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/ALIZE",
+                "@type": "CardSet",
+                "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+                "reference": "ALIZE",
+                "name": "Épreuve du froid"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/fr_FR/b66dfaee9e3ccbea33ff9ef6167b9262.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_f69710c9195e8989f244b4a338aef698",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_12469b52894652ee0285f23ee03b4011",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/WEB_c3c06302bfbb9c9a746aa3af462ebbc6"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_40_U_16877",
+            "isSuspended": false,
+            "reference": "ALT_ALIZE_B_BR_40_U_16877",
+            "id": "3V9QB73JT08XET59KWMJW0JHE9",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/es_ES/dbb25a352cc2b9d7b7d504c75137e49a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/it_IT/9f6ca76bdb38a60bab0a97d52860b715.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/fr_FR/b66dfaee9e3ccbea33ff9ef6167b9262.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/de_DE/9d623f0f56fb4bd76ccf80d1ec055061.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_40/UNIQUE/JPG/en_US/65207c41cfcb94d11c57300e33742fe9.jpg"
+            },
+            "name": "Éros",
+            "elements": {
+                "MAIN_COST": "7",
+                "RECALL_COST": "8",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "5",
+                "FOREST_POWER": "6",
+                "MAIN_EFFECT": "{J} Si votre Réserve est vide : Vous pouvez immédiatement jouer un Personnage pour {3} de moins. Il gagne 2 boosts.  Lorsqu'un Personnage que vous contrôlez gagne au moins 1 boost — []Vous pouvez épuiser une carte ciblée en Réserve."
+            }
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_52_U_3050",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/fa6f359a744c4054e65d4e6ed63487c2.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/6685e5bbadbd465909037759b0cef320.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/5ea30c9c928f5f39c4acb3c78722d82c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/83690da60866bd397aff0269e6f46af6.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/f7389c598e3c340ac8a63654e704f8a6.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c992dce951ac0476d39b",
+            "reference": "BUREAUCRAT",
+            "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+            "name": "Bureaucrat"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/cb2303495c985ad7bb4a",
+            "reference": "SCHOLAR",
+            "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+            "name": "Scholar"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{H} If my Expedition is behind: Create two [Ordis Recruit 1/1/1] Soldier tokens in your other Expedition (the one I'm not in).  When I leave the Expedition zone, if I was [[Fleeting]] — [][Sabotage].",
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn costs {1} less."
+    },
+    "id": "4EGTM9GXH19H0S58M2STV8V2S6",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/fa6f359a744c4054e65d4e6ed63487c2.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Leo, Relic Expert",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_U_3050",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_OR_52_U_3050",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_OR_52_U_3050",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/4dcc18655e4f66f0f86c",
+                    "reference": "BUREAUCRAT",
+                    "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+                    "name": "Bureaucrate"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/b2913d35ab9ffe0636c3",
+                    "reference": "SCHOLAR",
+                    "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+                    "name": "Érudit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/f7389c598e3c340ac8a63654e704f8a6.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_U_3050",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_OR_52_U_3050",
+            "id": "4EGTM9GXH19H0S58M2STV8V2S6",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/fa6f359a744c4054e65d4e6ed63487c2.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/6685e5bbadbd465909037759b0cef320.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/5ea30c9c928f5f39c4acb3c78722d82c.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/83690da60866bd397aff0269e6f46af6.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/f7389c598e3c340ac8a63654e704f8a6.jpg"
+            },
+            "name": "Leo, Expert en Reliques",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{H} Si mon Expédition est en retard : Créez deux jetons Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition (celle où je ne suis pas).  Lorsque je quitte la zone d'Expédition, si j'étais [[Fugace]] — [][Sabotez].",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour coûte {1} de moins."
+            }
+        }
+    }
+}

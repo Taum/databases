@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_58_U_7565",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/es_ES/438fd08184b456b9df14949bd1dc2b85.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/de_DE/0593a22740318cafaa5eb7d6129cb391.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/it_IT/5d8193de579c741683e21cc34ff086f5.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/en_US/4ec92db12ffbd1190858ed5f661e4b7a.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/fr_FR/9441f0ee6790721e4956f666315875b5.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_6a6bf579bb5c9f5bf2b0e0ae0e50cabb",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_34a7f5777d6f21a0a598cdcf2570216b",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_b94b80e04dca244e4bed4219a3a85215"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/a9fe9ef2e1d10fd80492",
+            "reference": "DRUID",
+            "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+            "name": "Druid"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/89f3265dbfbe8576497f",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "5",
+        "MAIN_EFFECT": "[][][Scout] {2}.  {J} If you control a [[Fleeting]] Character: You may have target Character with Hand Cost {3} or less other than me gain [[Anchored]].",
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
+    },
+    "id": "4SSFFZFPBW9Z6BP5H7XPXGA4M6",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/en_US/4ec92db12ffbd1190858ed5f661e4b7a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "The Minotaur",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_58_U_7565",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_MU_58_U_7565",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_MU_58_U_7565",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/24c0b3f7284eddff53a2",
+                    "reference": "DRUID",
+                    "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+                    "name": "Druide"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/d0a63206fb9c69874fa9",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/fr_FR/9441f0ee6790721e4956f666315875b5.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_6a6bf579bb5c9f5bf2b0e0ae0e50cabb",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_34a7f5777d6f21a0a598cdcf2570216b",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/WEB_b94b80e04dca244e4bed4219a3a85215"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_58_U_7565",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_MU_58_U_7565",
+            "id": "4SSFFZFPBW9Z6BP5H7XPXGA4M6",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/es_ES/438fd08184b456b9df14949bd1dc2b85.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/de_DE/0593a22740318cafaa5eb7d6129cb391.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/JPG/it_IT/5d8193de579c741683e21cc34ff086f5.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/en_US/4ec92db12ffbd1190858ed5f661e4b7a.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_58/UNIQUE/JPG/fr_FR/9441f0ee6790721e4956f666315875b5.jpg"
+            },
+            "name": "Le Minotaure",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "6",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "5",
+                "MAIN_EFFECT": "[][][Repérage] {2}.  {J} Si vous contrôlez un Personnage [[Fugace]] : Vous pouvez faire gagner [[Ancré]] à un Personnage ciblé de Coût de Main {3} ou moins autre que moi.",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
+            }
+        }
+    }
+}

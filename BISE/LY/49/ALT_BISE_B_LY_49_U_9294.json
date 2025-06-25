@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_LY_49_U_9294",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/fr_FR/2a2371588af1cd75be693ab5e19bc460.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/es_ES/3b68264b3a1a0554d6141f75512ed094.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/it_IT/63e825bab530a0762a36ea260b316c62.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/de_DE/72a318d59675e33b1efe564599f4d41e.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/en_US/a86f1fc7612d5fdd9bc9f35c906eab45.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_1b3c4b648e4d043d79d1fe63f53a54cd",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_08e299bccd3ffaf358192c01144d7304",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_ece1ae03166aa024772b63d1abddc80c"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c81c591e3916ac1f7149",
+            "reference": "ARTIST",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "[]If I have 1 or more boosts: The {V}, {M}, and {O} of Characters you control other than me are equal to their highest statistic.  {R} If your Companion Expedition is behind: Up to two target Characters in play or in Reserve each gain 1 boost.",
+        "ECHO_EFFECT": "{I} When you play a Spell — []I gain 1 boost, up to a max of 2."
+    },
+    "id": "08155T14Z18ED8H20HQT4ARNY3",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/en_US/a86f1fc7612d5fdd9bc9f35c906eab45.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+    },
+    "name": "BLISS Bassist",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_49_U_9294",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_LY_49_U_9294",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_LY_49_U_9294",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/1ea437c936333d4b7f42",
+                    "reference": "ARTIST",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/fr_FR/2a2371588af1cd75be693ab5e19bc460.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_1b3c4b648e4d043d79d1fe63f53a54cd",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_08e299bccd3ffaf358192c01144d7304",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/WEB_ece1ae03166aa024772b63d1abddc80c"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_49_U_9294",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_LY_49_U_9294",
+            "id": "08155T14Z18ED8H20HQT4ARNY3",
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "reference": "YZ",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/fr_FR/2a2371588af1cd75be693ab5e19bc460.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/es_ES/3b68264b3a1a0554d6141f75512ed094.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/it_IT/63e825bab530a0762a36ea260b316c62.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/JPG/de_DE/72a318d59675e33b1efe564599f4d41e.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_49/UNIQUE/JPG/en_US/a86f1fc7612d5fdd9bc9f35c906eab45.jpg"
+            },
+            "name": "Bassiste de Bliss",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "[]Si j'ai au moins 1 boost : Les {V}, {M} et {O} des Personnages que vous contrôlez autres que moi prennent la valeur de leur statistique la plus élevée.  {R} Si votre Expédition Compagnon est en retard : Jusqu'à deux Personnages ciblés en jeu ou en Réserve gagnent chacun 1 boost.",
+                "ECHO_EFFECT": "{I} Lorsque vous jouez un Sort — []Je gagne 1 boost, jusqu'à un maximum de 2."
+            }
+        }
+    }
+}

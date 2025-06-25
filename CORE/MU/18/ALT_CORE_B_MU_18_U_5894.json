@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_MU_18_U_5894",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/459d942c24a74d495d8b519aa391954c.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/de_DE/a0d2c3186382d74fe9a6a27c067e533f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/en_US/05065f831048e27125d3cbfb4a744c5a.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/it_IT/07bb342cb178a7d425da5d43d171b122.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/es_ES/e72cc00ad79443a3fa9915d899f756de.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/6155d4d21ed608d1deef",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "2",
+        "MOUNTAIN_POWER": "0",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{H} You may put a card from your hand in Reserve. If you do: Target Character gains [[Anchored]].  {H} []Target Character gains 3 boosts.",
+        "ECHO_EFFECT": "{D} : []You may have target Character other than me lose [[Fleeting]]."
+    },
+    "id": "5V35FHEAYG9WJAX93RM3TG4JMK",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/en_US/05065f831048e27125d3cbfb4a744c5a.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Parvati",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_18_U_5894",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_MU_18_U_5894",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_MU_18_U_5894",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/c90a23a05585d41bb039",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/459d942c24a74d495d8b519aa391954c.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/ALT_CORE_B_MU_18_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_MU_18_U_5894",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_MU_18_U_5894",
+            "id": "5V35FHEAYG9WJAX93RM3TG4JMK",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/fr_FR/459d942c24a74d495d8b519aa391954c.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/de_DE/a0d2c3186382d74fe9a6a27c067e533f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/en_US/05065f831048e27125d3cbfb4a744c5a.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/it_IT/07bb342cb178a7d425da5d43d171b122.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_MU_18/UNIQUE/JPG/es_ES/e72cc00ad79443a3fa9915d899f756de.jpg"
+            },
+            "name": "Parvati",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "2",
+                "MOUNTAIN_POWER": "0",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{H} Vous pouvez mettre une carte de votre main en Réserve. Si vous le faites : Un Personnage ciblé gagne [[Ancré]].  {H} []Un Personnage ciblé gagne 3 boosts.",
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi."
+            }
+        }
+    }
+}

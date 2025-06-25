@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_51_U_11612",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/785623498237dd018903453cf3cbd486.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/4fbd69c7fd048301f4ab5302aaf026f2.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/17ff647e06ec409dc6ed47a3805da0a4.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/37e580d969a5cae0dbfdc36920ff46a4.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/88f97e4988257f2e402571a09bd77932.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/6fcf005e9cbed56d9966",
+            "reference": "ENGINEER",
+            "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+            "name": "Engineer"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/0dcb72ed2e5e688fc688",
+            "reference": "ROBOT",
+            "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+            "name": "Robot"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "0",
+        "MAIN_EFFECT": "{J} If your Reserve is empty: [Resupply], otherwise [Exhausted Resupply].",
+        "ECHO_EFFECT": "{I} At Noon — []Choose one:  • I gain 1 boost, up to a max of 3.  • {T} : I gain 2 boosts, up to a max of 3."
+    },
+    "id": "03MY7YZKNA8B9SX9K990DMEKEF",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/37e580d969a5cae0dbfdc36920ff46a4.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Designer Drone",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11612",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_51_U_11612",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_51_U_11612",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/bbbd0ca9838ca6a82c9e",
+                    "reference": "ENGINEER",
+                    "id": "01HKAGPA9AS71JN0H9HQZTBNCD",
+                    "name": "Ingénieur"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/b8ec39e33dbaa38749f7",
+                    "reference": "ROBOT",
+                    "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+                    "name": "Robot"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/88f97e4988257f2e402571a09bd77932.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_70b9d2617d7cb71b447301e3fc6791e9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_c6b7c8648fd30b527e1f9bf93e709cc9",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/WEB_cbfccd6d5176aa3bf42775e40340e1a8"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_51_U_11612",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_51_U_11612",
+            "id": "03MY7YZKNA8B9SX9K990DMEKEF",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/es_ES/785623498237dd018903453cf3cbd486.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/de_DE/4fbd69c7fd048301f4ab5302aaf026f2.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/JPG/it_IT/17ff647e06ec409dc6ed47a3805da0a4.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/en_US/37e580d969a5cae0dbfdc36920ff46a4.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_51/UNIQUE/JPG/fr_FR/88f97e4988257f2e402571a09bd77932.jpg"
+            },
+            "name": "Drone Designer",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "0",
+                "FOREST_POWER": "0",
+                "MAIN_EFFECT": "{J} Si votre Réserve est vide : [Ravitaillez]. Sinon, [Ravitaillez Épuisé].",
+                "ECHO_EFFECT": "{I} À Midi — []Choisissez l'un :  • Je gagne 1 boost, jusqu'à un max de 3.  • {T} : Je gagne 2 boosts, jusqu'à un max de 3."
+            }
+        }
+    }
+}

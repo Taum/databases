@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_56_U_945",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/de_DE/fe502bc99a64ab6bd2e6791eafe251f0.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/it_IT/f0cda77f011b9637b4459499152f300f.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/en_US/86c9a1ed4f726bd158ef5fb8e4a6fadb.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/es_ES/128ff1cfc0da348459b261ae259a4a83.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/fr_FR/4b4e5c081c04f92973f3b69518f7e333.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_7dc4e50c3c8716b2d90e262475425fde",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_a1601dff042a9a0b70fb74f4422cadbe",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_a1819e7f0a035ec202ce7f1859efc0ad"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/33dd4967999b89690f66",
+            "reference": "DEITY",
+            "id": "01HKAGPAJFS4YDQVKY6AB16614",
+            "name": "Deity"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "5",
+        "FOREST_POWER": "5",
+        "MAIN_EFFECT": "{R} You may have target opponent draw a card. If you do: I gain [[Anchored]].  When another non-token Character joins your Expeditions — If both of your Expeditions are behind or tied: Create an [Ordis Recruit 1/1/1] Soldier token in your other Expedition (the one I'm not in)."
+    },
+    "id": "4P3FFYTB738QWRTNCY79DQVEVF",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/en_US/86c9a1ed4f726bd158ef5fb8e4a6fadb.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/OR",
+        "@type": "Faction",
+        "reference": "OR",
+        "color": "#0f6593",
+        "id": "01GE7AC9X78DXSNKNB15KCF69X",
+        "name": "Ordis"
+    },
+    "name": "Gran Bwa",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_56_U_945",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_MU_56_U_945",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_MU_56_U_945",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/833323a3dc0d5078ce46",
+                    "reference": "DEITY",
+                    "id": "01HKAGPAJFS4YDQVKY6AB16614",
+                    "name": "Divinité"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/fr_FR/4b4e5c081c04f92973f3b69518f7e333.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_7dc4e50c3c8716b2d90e262475425fde",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_a1601dff042a9a0b70fb74f4422cadbe",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/WEB_a1819e7f0a035ec202ce7f1859efc0ad"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_56_U_945",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_MU_56_U_945",
+            "id": "4P3FFYTB738QWRTNCY79DQVEVF",
+            "mainFaction": {
+                "@id": "/factions/OR",
+                "@type": "Faction",
+                "reference": "OR",
+                "color": "#0f6593",
+                "id": "01GE7AC9X78DXSNKNB15KCF69X",
+                "name": "Ordis"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/de_DE/fe502bc99a64ab6bd2e6791eafe251f0.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/it_IT/f0cda77f011b9637b4459499152f300f.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/en_US/86c9a1ed4f726bd158ef5fb8e4a6fadb.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/JPG/es_ES/128ff1cfc0da348459b261ae259a4a83.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_56/UNIQUE/JPG/fr_FR/4b4e5c081c04f92973f3b69518f7e333.jpg"
+            },
+            "name": "Grand Bois",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "5",
+                "FOREST_POWER": "5",
+                "MAIN_EFFECT": "{R} Vous pouvez faire piocher une carte à un adversaire ciblé. Si vous le faites : Je gagne [[Ancré]].  Lorsqu'un autre Personnage non-jeton rejoint vos Expéditions — Si vos deux Expéditions sont en retard ou à égalité : Créez un jeton Soldat [1/1/1 Recrue Ordis] dans votre autre Expédition (celle où je ne suis pas)."
+            }
+        }
+    }
+}

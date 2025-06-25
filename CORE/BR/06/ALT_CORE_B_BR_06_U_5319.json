@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_BR_06_U_5319",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/es_ES/448a41b51534a9fdbace4caa0a8168df.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/it_IT/39566b0771c6e86ac0a12e079e4ee4e0.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/de_DE/d35d3fa0dd67313acebb10438477b666.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/fr_FR/406f71aa60543afb593023e754c7c5d3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/en_US/6e256804046cef1b8681d1318df9ae81.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "reference": "CORE",
+        "name": "Beyond the Gates"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/4936b6eee0b5e9b628b9",
+            "reference": "ELEMENTAL",
+            "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+            "name": "Elemental"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "1",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} []Target Character gains 1 boost.  When I leave the Expedition zone — If you control one or more Landmarks: Put me in my owner's Mana zone (as an exhausted Mana Orb).",
+        "ECHO_EFFECT": "{D} : []You may have target Character other than me lose [[Fleeting]]."
+    },
+    "id": "7FQRNJRQY78T9RQYZ339VP989V",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/en_US/6e256804046cef1b8681d1318df9ae81.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Tiny Jinn",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_06_U_5319",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_CORE_B_BR_06_U_5319",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_BR_06_U_5319",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/047cea3c02ccbb163d6d",
+                    "reference": "ELEMENTAL",
+                    "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+                    "name": "Élémentaire"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "reference": "CORE",
+                "name": "Au-delà des portes"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/fr_FR/406f71aa60543afb593023e754c7c5d3.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/ALT_CORE_B_BR_06_U_WEB.jpg"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_BR_06_U_5319",
+            "isSuspended": false,
+            "reference": "ALT_CORE_B_BR_06_U_5319",
+            "id": "7FQRNJRQY78T9RQYZ339VP989V",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/es_ES/448a41b51534a9fdbace4caa0a8168df.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/it_IT/39566b0771c6e86ac0a12e079e4ee4e0.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/de_DE/d35d3fa0dd67313acebb10438477b666.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/fr_FR/406f71aa60543afb593023e754c7c5d3.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_BR_06/UNIQUE/JPG/en_US/6e256804046cef1b8681d1318df9ae81.jpg"
+            },
+            "name": "Petit Djinn",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "1",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "{R} []Un Personnage ciblé gagne 1 boost.  Lorsque je quitte la zone d'Expédition — Si vous contrôlez au moins un Repère : Mettez-moi dans la zone de Mana de mon propriétaire (en tant qu'Orbe de Mana épuisé).",
+                "ECHO_EFFECT": "{D} : []Vous pouvez faire perdre [[Fugace]] à un Personnage ciblé autre que moi."
+            }
+        }
+    }
+}

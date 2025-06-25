@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_MU_54_U_7774",
+    "@type": "Card",
+    "allImagePath": {
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/fr_FR/f8d9867cc434a9ea1cf4f7b7f8378b57.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/it_IT/6b7d933a53a7d9a0dca77162cec9a734.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/de_DE/970954739b6a3cdc6d1f5dd3a8d69b0f.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/es_ES/4f1d81725b54a2f98c4b842b6d388be1.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/en_US/cfbb15c15555b20dbf3a9a9aef5222b1.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_0237c95f62eb13186c16b67ca2552254",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_6cfb9513d59332144169acafa4e4a43e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_b831bf0af6f1678d4b56526c349b7d20"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/2d6682034ec9e4d44758",
+            "reference": "DRUID",
+            "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+            "name": "Druid"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{H} []Target Character other than me gains 1 boost.  {R} You may pay {1}. If you do: [Sabotage].",
+        "ECHO_EFFECT": "{I} At Noon — []You may give 1 boost to target Character in play or in Reserve other than me."
+    },
+    "id": "02WBZ9Z0RT90S8GRD840EWHVA4",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/en_US/cfbb15c15555b20dbf3a9a9aef5222b1.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "Flore, Caring Gardener",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_54_U_7774",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_MU_54_U_7774",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_MU_54_U_7774",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/ae0c66ffa91089a7761b",
+                    "reference": "DRUID",
+                    "id": "01HKAGS7G3JAKED7MVQKP2G8F7",
+                    "name": "Druide"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/fr_FR/f8d9867cc434a9ea1cf4f7b7f8378b57.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_0237c95f62eb13186c16b67ca2552254",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_6cfb9513d59332144169acafa4e4a43e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/WEB_b831bf0af6f1678d4b56526c349b7d20"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_MU_54_U_7774",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_MU_54_U_7774",
+            "id": "02WBZ9Z0RT90S8GRD840EWHVA4",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/fr_FR/f8d9867cc434a9ea1cf4f7b7f8378b57.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/it_IT/6b7d933a53a7d9a0dca77162cec9a734.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/de_DE/970954739b6a3cdc6d1f5dd3a8d69b0f.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/JPG/es_ES/4f1d81725b54a2f98c4b842b6d388be1.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_MU_54/UNIQUE/JPG/en_US/cfbb15c15555b20dbf3a9a9aef5222b1.jpg"
+            },
+            "name": "Flore, Maraîchère Attentive",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{H} []Un Personnage ciblé autre que moi gagne 1 boost.  {R} Vous pouvez payer {1}. Si vous le faites : [Sabotez].",
+                "ECHO_EFFECT": "{I} À Midi — []Vous pouvez donner 1 boost à un Personnage ciblé autre que moi en jeu ou en Réserve."
+            }
+        }
+    }
+}
