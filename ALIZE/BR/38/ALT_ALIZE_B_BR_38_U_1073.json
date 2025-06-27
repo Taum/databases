@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_ALIZE_B_BR_38_U_1073",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/en_US/d2fdca6e426c767a217b8253608e9396.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/it_IT/d3a8965f6dccd88fa8942f5aab907580.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/de_DE/34da82b101753fd93a0cc7d0be0ac9dc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/es_ES/f257a2f772295ee438708d7ce159e2c7.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/fr_FR/89f42583d0412afc80a35bf495eb4617.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_f798d55df97d4aade5bc2bbcfc5894b6",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_e697573a2210993c9f37f625fb0a79c3",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_19f60f2e3c9a49cd754bcd74dba598ca"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/ALIZE",
+        "@type": "CardSet",
+        "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+        "reference": "ALIZE",
+        "name": "Trial by Frost"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/557ea0036464174fd122",
+            "reference": "ANIMAL",
+            "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+            "name": "Animal"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/60ecf42dfa24b555e1bf",
+            "reference": "SPIRIT",
+            "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+            "name": "Spirit"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "3",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "3",
+        "MAIN_EFFECT": "{J} You may pay {1}. If you do: Target Character gains 1 boost.  When I gain 1 or more boosts — You may discard a Character from your Reserve. If you do: You may exhaust target card in Reserve.",
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn costs {1} less."
+    },
+    "id": "75H8EQ8J2S9BHA8K134KTRF98F",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/en_US/d2fdca6e426c767a217b8253608e9396.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Akhlut",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_38_U_1073",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_ALIZE_B_BR_38_U_1073",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_ALIZE_B_BR_38_U_1073",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/f043d9bb1c5d1b1f49dd",
+                    "reference": "ANIMAL",
+                    "id": "01HKAGQS36Z3DP166MZW8KRAEK",
+                    "name": "Animal"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/5b98728814e20af19ae3",
+                    "reference": "SPIRIT",
+                    "id": "01HKAGQ2CRATX32S1PS2GBXYV7",
+                    "name": "Esprit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/ALIZE",
+                "@type": "CardSet",
+                "id": "01J1Q4NZCDCGMFTFKASM8H29N6",
+                "reference": "ALIZE",
+                "name": "Épreuve du froid"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/fr_FR/89f42583d0412afc80a35bf495eb4617.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_f798d55df97d4aade5bc2bbcfc5894b6",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_e697573a2210993c9f37f625fb0a79c3",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/WEB_19f60f2e3c9a49cd754bcd74dba598ca"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_ALIZE_B_BR_38_U_1073",
+            "isSuspended": false,
+            "reference": "ALT_ALIZE_B_BR_38_U_1073",
+            "id": "75H8EQ8J2S9BHA8K134KTRF98F",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/en_US/d2fdca6e426c767a217b8253608e9396.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/it_IT/d3a8965f6dccd88fa8942f5aab907580.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/de_DE/34da82b101753fd93a0cc7d0be0ac9dc.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/es_ES/f257a2f772295ee438708d7ce159e2c7.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/ALIZE/CARDS/ALT_ALIZE_B_BR_38/UNIQUE/JPG/fr_FR/89f42583d0412afc80a35bf495eb4617.jpg"
+            },
+            "name": "Akhlut",
+            "elements": {
+                "MAIN_COST": "3",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "3",
+                "MAIN_EFFECT": "{J} Vous pouvez payer {1}. Si vous le faites : Un Personnage ciblé gagne 1 boost.  Lorsque je gagne au moins 1 boost — Vous pouvez défausser un Personnage de votre Réserve. Si vous le faites : Vous pouvez épuiser une carte ciblée en Réserve.",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour coûte {1} de moins."
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_54_U_3017",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/de_DE/352d6fb82093f3883632027540ca7bf3.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/it_IT/ab6f1bd3d54cf68ed6db10c7fbfaccc9.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/es_ES/d0edfb7042c7d9cf6043013f3f22f577.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/en_US/95c7a9ea1735e384157023c91e570aed.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/fr_FR/c6d433ebee4d927ac92481fd37542e93.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0d2bb8a16eb5b20dbb038be45c9837a1",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_b7649b85f1089a4b54bce6aa7d279526",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0005e0aedbfe05a69d2b3d11f818034f"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/86ee6465f73201ed1097",
+            "reference": "MAGE",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "[][][Scout] {3}.  {J} []You may send to Reserve target Character with Hand Cost {3} or less.  {R} You may put a card from your hand in Reserve. If it's a Permanent: Draw a card."
+    },
+    "id": "5N9RZ50EHC9V7BK62CG4W60PJB",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/en_US/95c7a9ea1735e384157023c91e570aed.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Merlin",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_54_U_3017",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_YZ_54_U_3017",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_54_U_3017",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/5a875b1676173d096129",
+                    "reference": "MAGE",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/fr_FR/c6d433ebee4d927ac92481fd37542e93.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0d2bb8a16eb5b20dbb038be45c9837a1",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_b7649b85f1089a4b54bce6aa7d279526",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/WEB_0005e0aedbfe05a69d2b3d11f818034f"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_54_U_3017",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_YZ_54_U_3017",
+            "id": "5N9RZ50EHC9V7BK62CG4W60PJB",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/de_DE/352d6fb82093f3883632027540ca7bf3.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/it_IT/ab6f1bd3d54cf68ed6db10c7fbfaccc9.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/JPG/es_ES/d0edfb7042c7d9cf6043013f3f22f577.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/en_US/95c7a9ea1735e384157023c91e570aed.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_54/UNIQUE/JPG/fr_FR/c6d433ebee4d927ac92481fd37542e93.jpg"
+            },
+            "name": "Merlin",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "[][][Repérage] {3}.  {J} []Vous pouvez envoyer en Réserve un Personnage ciblé de Coût de Main {3} ou moins.  {R} Vous pouvez mettre une carte de votre main en Réserve. Si c'est un Permanent : Piochez une carte."
+            }
+        }
+    }
+}

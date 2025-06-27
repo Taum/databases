@@ -1,0 +1,166 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_OR_52_U_4294",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/b349a3c657fd24fe4ba7842dc6c422f3.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/269432e263f8175b4236a790dc8511aa.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/20c55af470cac6e8a8c5f6154afc123b.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/cf708b5fc441c2b5ec44108378f87698.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/41e06dbf0adb06641b97e53b5f900e75.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/b65141a23e2e12c451c5",
+            "reference": "BUREAUCRAT",
+            "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+            "name": "Bureaucrat"
+        },
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/c2f44b4a006adf6a8430",
+            "reference": "SCHOLAR",
+            "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+            "name": "Scholar"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "4",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "2",
+        "MAIN_EFFECT": "{J} If I'm in {V}: Up to two target Characters in play or in Reserve each gain 1 boost.  When my Expedition moves forward due to {V} — [][Sabotage] after Rest.",
+        "ECHO_EFFECT": "{D} : []Target Character with Hand Cost {3} or less gains [[Anchored]]."
+    },
+    "id": "6VR3GHQFJN9GXAHWQRTD4RBV0N",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/b349a3c657fd24fe4ba7842dc6c422f3.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "reference": "MU",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna"
+    },
+    "name": "Leo, Relic Expert",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_U_4294",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_OR_52_U_4294",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_OR_52_U_4294",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/898e66082412d35fa920",
+                    "reference": "BUREAUCRAT",
+                    "id": "01HKAGVBV23NSWD6EXJXSKK3F8",
+                    "name": "Bureaucrate"
+                },
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/6f522a9f344f98c1a826",
+                    "reference": "SCHOLAR",
+                    "id": "01HKAGRGA2AC23BM29GTJ6XPYE",
+                    "name": "Érudit"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/41e06dbf0adb06641b97e53b5f900e75.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_0f4a356d4f65aa35d807a64787f6386e",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_6650adda98b6a20a1e143911612cab91",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/WEB_b76422b8599cdacb4fd09bcca34dc948"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_OR_52_U_4294",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_OR_52_U_4294",
+            "id": "6VR3GHQFJN9GXAHWQRTD4RBV0N",
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "reference": "MU",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/en_US/b349a3c657fd24fe4ba7842dc6c422f3.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/es_ES/269432e263f8175b4236a790dc8511aa.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/de_DE/20c55af470cac6e8a8c5f6154afc123b.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/JPG/it_IT/cf708b5fc441c2b5ec44108378f87698.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_OR_52/UNIQUE/JPG/fr_FR/41e06dbf0adb06641b97e53b5f900e75.jpg"
+            },
+            "name": "Leo, Expert en Reliques",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "4",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "2",
+                "MAIN_EFFECT": "{J} Si je suis en {V} : Jusqu'à deux Personnages ciblés en jeu ou en Réserve gagnent chacun 1 boost.  Lorsque mon Expédition avance grâce à {V} — [][Sabotez] après le Repos.",
+                "ECHO_EFFECT": "{D} : []Un Personnage ciblé de Coût de Main {3} ou moins gagne [[Ancré]]."
+            }
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_YZ_55_U_4171",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/de_DE/b56b3c5914e4dd2c1cfb2bf66a451b8f.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/it_IT/ccd5edb92bc2656a97c6b3c14316c22b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/es_ES/3ffc815f26c0d2dfdbca8fab9a8a7e30.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/fr_FR/d16deafb2f215ca7711cdc5f9542e808.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/en_US/d06d06da47e25954923246abba3bbb22.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_b039cc991e83d57c86b74a3515a527fa",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_cc4bdb7be6eb70c2e7bef2a44f484108",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_e694866d860fbf0d064b68e1ded540e7"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/ff8de0874b7dc3c374d1",
+            "reference": "MAGE",
+            "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+            "name": "Mage"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "5",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "1",
+        "OCEAN_POWER": "2",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{J} You may discard a card from your Reserve. If you do: I gain 1 boost per card in your hand.  {J} If your Reserve is empty: Target player sacrifices a Character.  When I leave the Expedition zone, if I was [[Fleeting]] — []Draw a card.",
+        "ECHO_EFFECT": "{D} : [][After You]."
+    },
+    "id": "21T3YY2YD78JTT66WVPH4QH3PB",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/en_US/d06d06da47e25954923246abba3bbb22.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/YZ",
+        "@type": "Faction",
+        "reference": "YZ",
+        "color": "#764891",
+        "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+        "name": "Yzmir"
+    },
+    "name": "Sylas, Cryptic Warlock",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_55_U_4171",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_YZ_55_U_4171",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_YZ_55_U_4171",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/9c392ba3c395a1e30b0f",
+                    "reference": "MAGE",
+                    "id": "01HKAGXDF5A4KJW7GVC25YQS3H",
+                    "name": "Mage"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/fr_FR/d16deafb2f215ca7711cdc5f9542e808.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_b039cc991e83d57c86b74a3515a527fa",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_cc4bdb7be6eb70c2e7bef2a44f484108",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/WEB_e694866d860fbf0d064b68e1ded540e7"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_YZ_55_U_4171",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_YZ_55_U_4171",
+            "id": "21T3YY2YD78JTT66WVPH4QH3PB",
+            "mainFaction": {
+                "@id": "/factions/YZ",
+                "@type": "Faction",
+                "reference": "YZ",
+                "color": "#764891",
+                "id": "01GE7AC9WEQKW1Y1BF8SCY7459",
+                "name": "Yzmir"
+            },
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/de_DE/b56b3c5914e4dd2c1cfb2bf66a451b8f.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/it_IT/ccd5edb92bc2656a97c6b3c14316c22b.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/JPG/es_ES/3ffc815f26c0d2dfdbca8fab9a8a7e30.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/fr_FR/d16deafb2f215ca7711cdc5f9542e808.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_YZ_55/UNIQUE/JPG/en_US/d06d06da47e25954923246abba3bbb22.jpg"
+            },
+            "name": "Sylas, Sorcier Insondable",
+            "elements": {
+                "MAIN_COST": "5",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "1",
+                "OCEAN_POWER": "2",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "{J} Vous pouvez défausser une carte de votre Réserve. Si vous le faites : Je gagne 1 boost par carte dans votre main.  {J} Si votre Réserve est vide : Un joueur ciblé sacrifie un Personnage.  Lorsque je quitte la zone d'Expédition, si j'étais [[Fugace]] — []Piochez une carte.",
+                "ECHO_EFFECT": "{D} : [][Après vous]."
+            }
+        }
+    }
+}

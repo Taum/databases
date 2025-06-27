@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_BR_57_U_493",
+    "@type": "Card",
+    "allImagePath": {
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/es_ES/3bec5e0652bbcbdb5c431e6c30d7bd93.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/en_US/74d0a78dddd89277328a90fc9b58e980.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/it_IT/7a98de9299eea521ff9a7a8ea964623e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/de_DE/f1665d45f539e6562416b03155316bcc.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/fr_FR/2b485dc1c4e1b66df89c9cf8f1482692.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_744a0643b4d03350982638cc87d0f374",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_592491a8f6e376543894379a556ba0ea",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_9c1cb541d3684fb8bf01076b36aa3c16"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/3e8e62f54028c6cecacf",
+            "reference": "ELEMENTAL",
+            "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+            "name": "Elemental"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "6",
+        "RECALL_COST": "5",
+        "MOUNTAIN_POWER": "7",
+        "OCEAN_POWER": "7",
+        "FOREST_POWER": "5",
+        "MAIN_EFFECT": "[][][Scout] {3}.  When I leave the Expedition zone — If you control two or more Permanents: You may put a card from your Reserve in your Mana zone (as an exhausted Mana Orb).",
+        "ECHO_EFFECT": "{D} : []The next Character you play this turn gains 1 boost."
+    },
+    "id": "2G742ED8FT8WR9HFWS33WMS12R",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/en_US/74d0a78dddd89277328a90fc9b58e980.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/AX",
+        "@type": "Faction",
+        "reference": "AX",
+        "color": "#8c432a",
+        "id": "01GE7AC9XBG707G19F03A95TH1",
+        "name": "Axiom"
+    },
+    "name": "Swift Jinn",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_57_U_493",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_BR_57_U_493",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_BR_57_U_493",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/fb0c31eb03f7d9083676",
+                    "reference": "ELEMENTAL",
+                    "id": "01HKAGPA0G5NVDVVXS31BBX2AS",
+                    "name": "Élémentaire"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/fr_FR/2b485dc1c4e1b66df89c9cf8f1482692.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_744a0643b4d03350982638cc87d0f374",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_592491a8f6e376543894379a556ba0ea",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/WEB_9c1cb541d3684fb8bf01076b36aa3c16"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_BR_57_U_493",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_BR_57_U_493",
+            "id": "2G742ED8FT8WR9HFWS33WMS12R",
+            "mainFaction": {
+                "@id": "/factions/AX",
+                "@type": "Faction",
+                "reference": "AX",
+                "color": "#8c432a",
+                "id": "01GE7AC9XBG707G19F03A95TH1",
+                "name": "Axiom"
+            },
+            "allImagePath": {
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/es_ES/3bec5e0652bbcbdb5c431e6c30d7bd93.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/en_US/74d0a78dddd89277328a90fc9b58e980.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/it_IT/7a98de9299eea521ff9a7a8ea964623e.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/JPG/de_DE/f1665d45f539e6562416b03155316bcc.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_BR_57/UNIQUE/JPG/fr_FR/2b485dc1c4e1b66df89c9cf8f1482692.jpg"
+            },
+            "name": "Djinn Fulgurant",
+            "elements": {
+                "MAIN_COST": "6",
+                "RECALL_COST": "5",
+                "MOUNTAIN_POWER": "7",
+                "OCEAN_POWER": "7",
+                "FOREST_POWER": "5",
+                "MAIN_EFFECT": "[][][Repérage] {3}.  Lorsque je quitte la zone d'Expédition — Si vous contrôlez au moins deux Permanents : Vous pouvez mettre une carte de votre Réserve dans votre zone de Mana (en tant qu'Orbe de Mana épuisé).",
+                "ECHO_EFFECT": "{D} : []Le prochain Personnage que vous jouez ce tour gagne 1 boost."
+            }
+        }
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_LY_50_U_5782",
+    "@type": "Card",
+    "allImagePath": {
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/it_IT/913b514149c84ba94c3794ad7130d3b3.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/en_US/93f12083340a35cbdb3a4050f93e51c8.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/de_DE/a7bb44417c798b1268c7b213d0c331c7.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/fr_FR/96d1f7379c6dc16ae0dd51904f634481.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/es_ES/91cc0b9ef1ef2577de3beb9144fdf716.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_befc4bce46e564c74dfa0ef2eb185596",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_239fb6f42f0f0ea13404d406f881cf5b",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_ed8c9b92937594db95d303a440c78cef"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/85414bebe7f9fd551d55",
+            "reference": "ARTIST",
+            "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+            "name": "Artist"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "2",
+        "RECALL_COST": "3",
+        "MOUNTAIN_POWER": "3",
+        "OCEAN_POWER": "0",
+        "FOREST_POWER": "1",
+        "MAIN_EFFECT": "{R} If I'm the only Character in my Expedition: I gain 2 boosts, otherwise I gain 1 boost.  When a Character in your Reserve gains 1 or more boosts — []You may have target Character gain [[Fleeting]].",
+        "ECHO_EFFECT": "{D} : []The next Spell you play this turn costs {1} less."
+    },
+    "id": "0RR4YV9YMK8MZVPWNPS262DHH5",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/en_US/93f12083340a35cbdb3a4050f93e51c8.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/LY",
+        "@type": "Faction",
+        "reference": "LY",
+        "color": "#cf4171",
+        "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+        "name": "Lyra"
+    },
+    "name": "BLISS Fan",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_50_U_5782",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_LY_50_U_5782",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_LY_50_U_5782",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/4d12df7a88f7fcf1674e",
+                    "reference": "ARTIST",
+                    "id": "01HKAGQTJ167DYCKKGR8MCESNT",
+                    "name": "Artiste"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/fr_FR/96d1f7379c6dc16ae0dd51904f634481.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_befc4bce46e564c74dfa0ef2eb185596",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_239fb6f42f0f0ea13404d406f881cf5b",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/WEB_ed8c9b92937594db95d303a440c78cef"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_LY_50_U_5782",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_LY_50_U_5782",
+            "id": "0RR4YV9YMK8MZVPWNPS262DHH5",
+            "mainFaction": {
+                "@id": "/factions/LY",
+                "@type": "Faction",
+                "reference": "LY",
+                "color": "#cf4171",
+                "id": "01GE7AC9XGB6JE2V63WXWN4FB3",
+                "name": "Lyra"
+            },
+            "allImagePath": {
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/it_IT/913b514149c84ba94c3794ad7130d3b3.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/en_US/93f12083340a35cbdb3a4050f93e51c8.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/de_DE/a7bb44417c798b1268c7b213d0c331c7.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/UNIQUE/JPG/fr_FR/96d1f7379c6dc16ae0dd51904f634481.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_LY_50/JPG/es_ES/91cc0b9ef1ef2577de3beb9144fdf716.jpg"
+            },
+            "name": "Fan de Bliss",
+            "elements": {
+                "MAIN_COST": "2",
+                "RECALL_COST": "3",
+                "MOUNTAIN_POWER": "3",
+                "OCEAN_POWER": "0",
+                "FOREST_POWER": "1",
+                "MAIN_EFFECT": "{R} Si je suis le seul Personnage dans mon Expédition : Je gagne 2 boosts. Sinon, je gagne 1 boost.  Lorsqu'un Personnage dans votre Réserve gagne au moins 1 boost — []Vous pouvez faire gagner [[Fugace]] à un Personnage ciblé.",
+                "ECHO_EFFECT": "{D} : []Le prochain Sort que vous jouez ce tour coûte {1} de moins."
+            }
+        }
+    }
+}
