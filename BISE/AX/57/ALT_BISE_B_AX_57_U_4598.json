@@ -1,0 +1,152 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_BISE_B_AX_57_U_4598",
+    "@type": "Card",
+    "allImagePath": {
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3112b510e29efbda996ce32cb81368b.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/77a376689e78df25366d9af75684f89d.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/e5ee3fcdcd1a438f1450d7e97e36507e.jpg",
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/8b59da23f47195517642b1bc1e3d3854.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/da5f906675ad4cd134005c96d20404cb.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/BISE",
+        "@type": "CardSet",
+        "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+        "reference": "BISE",
+        "name": "Whispers from the Maze"
+    },
+    "cardSubTypes": [
+        {
+            "@type": "CardSubType",
+            "@id": "/.well-known/genid/645303562d6d880cc986",
+            "reference": "ROBOT",
+            "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+            "name": "Robot"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "reference": "CHARACTER",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character"
+    },
+    "elements": {
+        "MAIN_COST": "4",
+        "RECALL_COST": "6",
+        "MOUNTAIN_POWER": "4",
+        "OCEAN_POWER": "3",
+        "FOREST_POWER": "4",
+        "MAIN_EFFECT": "{H} You may discard a Character from your Reserve. If you do: Draw a card, otherwise [Resupply].  {R} You may spend 1 of my boosts. If you do: Ready two Mana Orbs.",
+        "ECHO_EFFECT": "{I} When you play another Character — []I gain 1 boost, up to a max of 3."
+    },
+    "id": "4QP0NK19YQ9TPA8T4T68K4KJ1G",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3112b510e29efbda996ce32cb81368b.jpg",
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/BR",
+        "@type": "Faction",
+        "reference": "BR",
+        "color": "#c32637",
+        "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+        "name": "Bravos"
+    },
+    "name": "Enhanced Prototype",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_U_4598",
+    "rarity": {
+        "@id": "/rarities/UNIQUE",
+        "@type": "Rarity",
+        "reference": "UNIQUE",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique"
+    },
+    "reference": "ALT_BISE_B_AX_57_U_4598",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_BISE_B_AX_57_U_4598",
+            "@type": "Card",
+            "loreEntries": [],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "reference": "CHARACTER",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage"
+            },
+            "cardSubTypes": [
+                {
+                    "@type": "CardSubType",
+                    "@id": "/.well-known/genid/7f6b0181b023e1e0a4ef",
+                    "reference": "ROBOT",
+                    "id": "01HKAGPDNDJM76PRKTBB98Q0ZM",
+                    "name": "Robot"
+                }
+            ],
+            "cardSet": {
+                "@id": "/card_sets/BISE",
+                "@type": "CardSet",
+                "id": "01JB1YGHBNB4YP1VYJY12XCKJN",
+                "reference": "BISE",
+                "name": "Murmures du Labyrinthe"
+            },
+            "rarity": {
+                "@id": "/rarities/UNIQUE",
+                "@type": "Rarity",
+                "reference": "UNIQUE",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique"
+            },
+            "cardRulings": [],
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/da5f906675ad4cd134005c96d20404cb.jpg",
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_1209dc81b7155e172fa92612eae069d4",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_d65ed2e0673a2c4b0407b226786e92a7",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/WEB_3c3eb50ebb228ff6a5cdb00a644fc8f0"
+                ]
+            },
+            "lowerPrice": 0,
+            "qrUrlDetail": "https://qr.altered.gg/ALT_BISE_B_AX_57_U_4598",
+            "isSuspended": false,
+            "reference": "ALT_BISE_B_AX_57_U_4598",
+            "id": "4QP0NK19YQ9TPA8T4T68K4KJ1G",
+            "mainFaction": {
+                "@id": "/factions/BR",
+                "@type": "Faction",
+                "reference": "BR",
+                "color": "#c32637",
+                "id": "01GE7AC9WY6PK56RADXXD6P1T4",
+                "name": "Bravos"
+            },
+            "allImagePath": {
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/en_US/e3112b510e29efbda996ce32cb81368b.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/es_ES/77a376689e78df25366d9af75684f89d.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/it_IT/e5ee3fcdcd1a438f1450d7e97e36507e.jpg",
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/JPG/de_DE/8b59da23f47195517642b1bc1e3d3854.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/BISE/CARDS/ALT_BISE_B_AX_57/UNIQUE/JPG/fr_FR/da5f906675ad4cd134005c96d20404cb.jpg"
+            },
+            "name": "Prototype Amélioré",
+            "elements": {
+                "MAIN_COST": "4",
+                "RECALL_COST": "6",
+                "MOUNTAIN_POWER": "4",
+                "OCEAN_POWER": "3",
+                "FOREST_POWER": "4",
+                "MAIN_EFFECT": "{H} Vous pouvez défausser un Personnage de votre Réserve. Si vous le faites : Piochez une carte. Sinon, [Ravitaillez].  {R} Vous pouvez dépenser 1 de mes boosts. Si vous le faites : Redressez deux Orbes de Mana.",
+                "ECHO_EFFECT": "{I} Lorsque vous jouez un autre Personnage — []Je gagne 1 boost, jusqu'à un maximum de 3."
+            }
+        }
+    }
+}
