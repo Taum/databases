@@ -1,0 +1,170 @@
+{
+    "@context": "/contexts/Card",
+    "@id": "/cards/ALT_CORE_B_OR_15_U_1152",
+    "@type": "Card",
+    "allImagePath": {
+        "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/9e3f8d1a9af1e74c81dbd3335b2c5ef9.jpg",
+        "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/6b32be607a0fb54c983d08c6f2a6dccc.jpg",
+        "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/913aeb816e30d009b2182438ad948b98.jpg",
+        "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/e478858a5de047064ad3c59b910f8a04.jpg",
+        "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/d2a5084cdcd0e3e5da52be06f87692be.jpg"
+    },
+    "assets": {
+        "WEB": [
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+            "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+        ]
+    },
+    "cardRulings": [],
+    "cardSet": {
+        "@id": "/card_sets/CORE",
+        "@type": "CardSet",
+        "id": "01HKAFJN3HG3TWKYV0E014K01G",
+        "name": "Beyond the Gates",
+        "reference": "CORE"
+    },
+    "cardSubTypes": [
+        {
+            "@id": "/.well-known/genid/3fd6184d5602a7bc3039",
+            "@type": "CardSubType",
+            "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+            "name": "Noble",
+            "reference": "NOBLE"
+        },
+        {
+            "@id": "/.well-known/genid/3ff4a4b4d6e7d77fd36c",
+            "@type": "CardSubType",
+            "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+            "name": "Soldier",
+            "reference": "SOLDIER"
+        }
+    ],
+    "cardType": {
+        "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+        "@type": "CardType",
+        "id": "01H19NWA92A4ERAC4ATMSZNASS",
+        "name": "Character",
+        "reference": "CHARACTER"
+    },
+    "elements": {
+        "ECHO_EFFECT": "{D} : []Each player draws a card.",
+        "FOREST_POWER": "3",
+        "MAIN_COST": "4",
+        "MAIN_EFFECT": "{J} You may pay {1}. If you do: Target Character gains [[Anchored]].  {R} If you control three or more Characters: You may target a Character, it gains [[Asleep]].",
+        "MOUNTAIN_POWER": "2",
+        "OCEAN_POWER": "3",
+        "RECALL_COST": "3"
+    },
+    "id": "02E7715W2V8BYVP21K6B21BGJP",
+    "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/6b32be607a0fb54c983d08c6f2a6dccc.jpg",
+    "isBanned": false,
+    "isErrated": false,
+    "isSuspended": false,
+    "loreEntries": [],
+    "lowerPrice": 0,
+    "mainFaction": {
+        "@id": "/factions/MU",
+        "@type": "Faction",
+        "color": "#3d6b42",
+        "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+        "name": "Muna",
+        "reference": "MU"
+    },
+    "name": "Kakoba, Legion Commander",
+    "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_1152",
+    "rarity": {
+        "@id": "/.well-known/genid/25bcafc8bc22e771ed59",
+        "@type": "Rarity",
+        "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+        "name": "Unique",
+        "reference": "UNIQUE"
+    },
+    "reference": "ALT_CORE_B_OR_15_U_1152",
+    "translations": {
+        "fr-fr": {
+            "@context": "/contexts/Card",
+            "@id": "/cards/ALT_CORE_B_OR_15_U_1152",
+            "@type": "Card",
+            "allImagePath": {
+                "de-de": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/de_DE/9e3f8d1a9af1e74c81dbd3335b2c5ef9.jpg",
+                "en-us": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/en_US/6b32be607a0fb54c983d08c6f2a6dccc.jpg",
+                "es-es": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/es_ES/913aeb816e30d009b2182438ad948b98.jpg",
+                "fr-fr": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/e478858a5de047064ad3c59b910f8a04.jpg",
+                "it-it": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/it_IT/d2a5084cdcd0e3e5da52be06f87692be.jpg"
+            },
+            "assets": {
+                "WEB": [
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_C_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_R_WEB.jpg",
+                    "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/ALT_CORE_B_OR_15_U_WEB.jpg"
+                ]
+            },
+            "cardRulings": [],
+            "cardSet": {
+                "@id": "/card_sets/CORE",
+                "@type": "CardSet",
+                "id": "01HKAFJN3HG3TWKYV0E014K01G",
+                "name": "Au-delà des portes",
+                "reference": "CORE"
+            },
+            "cardSubTypes": [
+                {
+                    "@id": "/.well-known/genid/9a8d8c72b55f3a7b20d5",
+                    "@type": "CardSubType",
+                    "id": "01HKAGVEV163KJH0BWMZ6WR7E9",
+                    "name": "Noble",
+                    "reference": "NOBLE"
+                },
+                {
+                    "@id": "/.well-known/genid/ea2b1a70306d72b8395e",
+                    "@type": "CardSubType",
+                    "id": "01HKAGQ5CZVEX15T5KTM40KQSA",
+                    "name": "Soldat",
+                    "reference": "SOLDIER"
+                }
+            ],
+            "cardType": {
+                "@id": "/card_types/01H19NWA92A4ERAC4ATMSZNASS",
+                "@type": "CardType",
+                "id": "01H19NWA92A4ERAC4ATMSZNASS",
+                "name": "Personnage",
+                "reference": "CHARACTER"
+            },
+            "elements": {
+                "ECHO_EFFECT": "{D} : []Chaque joueur pioche une carte.",
+                "FOREST_POWER": "3",
+                "MAIN_COST": "4",
+                "MAIN_EFFECT": "{J} Vous pouvez payer {1}. Si vous le faites : Un Personnage ciblé gagne [[Ancré]].  {R} Si vous contrôlez au moins trois Personnages : Vous pouvez cibler un Personnage. Il gagne [[Endormi]].",
+                "MOUNTAIN_POWER": "2",
+                "OCEAN_POWER": "3",
+                "RECALL_COST": "3"
+            },
+            "id": "02E7715W2V8BYVP21K6B21BGJP",
+            "imagePath": "https://altered-prod-eu.s3.amazonaws.com/Art/CORE/CARDS/ALT_CORE_B_OR_15/UNIQUE/JPG/fr_FR/e478858a5de047064ad3c59b910f8a04.jpg",
+            "isBanned": false,
+            "isErrated": false,
+            "isSuspended": false,
+            "loreEntries": [],
+            "lowerPrice": 0,
+            "mainFaction": {
+                "@id": "/factions/MU",
+                "@type": "Faction",
+                "color": "#3d6b42",
+                "id": "01GE7AC9X2BNM40TTAYAEFSZSJ",
+                "name": "Muna",
+                "reference": "MU"
+            },
+            "name": "Kakoba, Commandant de Légion",
+            "qrUrlDetail": "https://qr.altered.gg/ALT_CORE_B_OR_15_U_1152",
+            "rarity": {
+                "@id": "/.well-known/genid/b9b1a9cbb32895b400f5",
+                "@type": "Rarity",
+                "id": "01GE7AC9X35JXEQZJBBD6E4BKW",
+                "name": "Unique",
+                "reference": "UNIQUE"
+            },
+            "reference": "ALT_CORE_B_OR_15_U_1152"
+        }
+    }
+}
